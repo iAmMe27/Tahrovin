@@ -13,13 +13,13 @@ Before you dive in, there's a couple things you need to be sure of first:
 ### Hardware Requirements
 I run a relatively powerful PC with the following specs:
   * CPU: Ryzen 7 5800X
-  * RAM: 32GB DDR4 @ 3600Hz
+  * RAM: 32GB DDR4 @ 3600MHz
   * GPU: RTX 3080
 
 I use an Oculus Quest 2 headset with an Oculus link cable for the best potential performance. 
 
-Now, I've not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
-  * CPU: Intel 7th gen *OR* AMD 3000 series 
+Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
+  * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
   * RAM: 16GB of DDR4
   * GPU: GTX 1080 *or the AMD equivalent with at least 6GB of VRAM*
 
@@ -54,7 +54,7 @@ The Steam overlay is known to cause issues for both Skyrim VR and regular Skyrim
 clicking on Skyrim VR in your game library and clicking **Properties** > **General** > **Deselect "Enable Steam Overlay while in-game"**.
 
 #### Set game language to English
-Wabbajack and some/most of the modding tools out there only support English language versions of Skyrim. Setting the language to English in Steam will stop issues like Wabbajack file verifications when installing. As with disabling the overlay, right click on Skyrim VR in your game library and click **Properties** > **Language** > **Select English**.
+Wabbajack and some/most of the modding tools out there only support English language versions of Skyrim. Setting the language to English in Steam will stop issues like Wabbajack file verification failures when installing. As with disabling the overlay, right click on Skyrim VR in your game library and click **Properties** > **Language** > **Select English**.
 
 #### Change Steam's Updating Behavior
 If for some reason Bethesda decide to release an update for Skyrim VR, everything will probably break. Well, not *everything* but something will definitely break until mods can be updated to suit. To stop this from happening, you need to tell Steam that you only want to update when you tell it to. You can do this by right clicking on Skyrim VR in your game library and clicking **Properties** > **Updates** > **Change Automatic Updates to "Only update this game when I launch it"**. Whilst you're in here, it's also recommended to disable Steam Cloud too.
@@ -85,5 +85,13 @@ Before you hit **GO**, a quick tip:
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
-#### Troubleshooting Wabbajack
+#### Troubleshooting
 If you're having issues with installation, check the [troubleshooting page](Troubleshooting.md). 
+
+## Post-Installation
+Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the Tahrovin installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
+
+***DO NOT, UNDER ANY CIRCUMSTANCES, RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.***
+
+### ENB Selection
+For instructions on choosing your ENB, head to the [ENB Selection page](ENB%20Selection.md). **NOTE:** if you don't follow these steps, your game will launch with no ENB enabled.
