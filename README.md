@@ -35,7 +35,7 @@ Whilst you don't *need* a Nexus premium account to install the modlist, you'll h
 ---
 
 ## Installation
-Please follow all of steps below if it is your first time installing this modlist, if you're updating you can jump straight to that part.
+Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-tahrovin).
 
 ### Preparation
 
@@ -93,5 +93,67 @@ Almost there but we're not out of the woods yet! After Wabbajack has given you t
 
 ***DO NOT, UNDER ANY CIRCUMSTANCES, RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.***
 
+### Stock Game
+Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
+
 ### ENB Selection
 For instructions on choosing your ENB, head to the [ENB Selection page](ENB%20Selection.md). **NOTE:** if you don't follow these steps, your game will launch with no ENB enabled.
+
+### Creating a desktop shortcut
+Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **Tahrovin** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
+
+![Desktop Shortcut Creation](img/DesktopShortcut00.png)
+
+Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Skyrim VR from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
+
+## Post-Game Launch
+**Before launching the game, make sure your VR headset is initialised (SteamVR should be running) and both controllers are connected. Launching the game, without both of these conditions met will be a bad time.**
+
+When you first start a new game, you won't find yourself inside of Skyrim anywhere. Instead, you will be inside of the Realm of Lorkhan. This mod replaces the vanilla Skyrim intro, which is known to be extremely buggy, especially in VR. I'm sure you've seen the vanilla intro already, right? The Realm of Lorkhan mod is a highly interesting one as it allows you to craft a character that can be allied with factions out of the gate, spawn with all sorts of different equipment and start in many different locations. Have a walk about, see what's around and available to you. Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. You can return to the realm of Lorkhan at any time by re-using any of these crystals. If you don't like the idea of these crystals being spread about Skyrim, you can enable the `Realm of Lorkhan - No Shards Patch` in  the "Gameplay Mods" category. Note, this will make the teleport out of the realm of Lorkhan one way!
+
+After you've finished making your character but before you do much else, you should calibrate VRIK by using the `VRIK Calibration Power` located in your powers menu. Do this while standing on a flat surface in game. Follow the instructions in the VRIK pop-up dialog to ensure you get this right, otherwise you might find yourself towering over everyone else or way too short. Don't worry about making it absolutely perfect, you can recalibrate at any time.
+
+The main quest isn't started in the usual way because the vanilla intro to the game has been replaced. To start the main quest, grab the Dragonstone from Bleak Falls Barrow or talk to Jarl Balgruuf in Whiterun.
+
+### Mod Configuration
+These are a few mod menu configurations you'd probably want to tinker with:
+
+#### VRIK
+You can tune your calibration settings in here as well as change things such as offsets and arm lengths.
+
+#### Weapon Throw VR
+There are a few presets available to you in here, try them out and see which one you prefer.
+
+#### Simple Realistic Archery
+You can tweak the options for adding cost and time penalties for bow drawing.
+
+#### Strange Runes
+I recommend that you disable the dual casting runes because otherwise they will conflict with the Magic Improvements for Skyrim VR mod.
+
+#### Spell Wheel VR
+You can change what the spell wheels will show you here as well as the controller binds for showing the spell wheel in the first place.
+
+#### Simply Balanced
+There are a lot of options in this menu to allow you to really tune the balance of the game. You can make it easier to turn yourself into a god, if you like the high-power kind of playthrough or a lot harder to make it a cruel and punishing playthrough. Whilst the options are standard out of the box, I would recommend you reduce the damage of both archery and melee because of the crazy amount of speed you can have compared to regular Skyrim.
+
+#### SkyUI VR
+You can customise what shows up on screen, depending on whether or not you like the amount of clutter.
+
+#### Strike Obstruction Systems
+You can change the visual effects for timed blocks in here because the default spark effect is buggy and doesn't always show.
+
+#### Frozen Electrocuted Combustion (FEC)
+FEC offers longer death cam shots when using the mods fancier magic effects. You can turn these off in here if they aren't your thing.
+
+## Playing in Seated Mode
+The modlist features the `Auto Sneak and Jump` mod which relies on your movement in real life to jump and crouch, therefore making it not very useful to you if you prefer to play in seated mode. Unless you'd like to try sneaking everywhere you go, you should be fine to disable this mod from the "Gameplay Mods" section in MO2.
+
+## Updating Tahrovin
+When an update is released, please always check the changelog first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
+
+If you have added anything to this modlist at all, Wabbajack will also delete those. You should know how to stop if from doing this if you're going to add stuff to modlists but if you don't, you have to prepend your mod name with `[NoDelete]` - this will make Wabbajack ignore these files. You will need to reinstall these mods and re-sort their load order after an update though, so I hope you kept backup information on where they went in the load order!
+
+All that aside, updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
+
+## Uninstalling Tahrovin
+No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.

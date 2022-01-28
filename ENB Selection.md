@@ -17,7 +17,7 @@ Click the hamburger menu at the top left of the program and navigate to the pres
 
 From this screen, you can choose the ENB of your choice. I'd recommend that you check out the presets pages on Nexus for previews to see which one takes your interest the most. Only pick 1 ENB and once you've picked whichever ENB you like, click the `SYNC` button.
 
-**IMPORTANT NOTE:** The Sensorium ENB requires you to change the ini file for Azurite Weathers. I have an overwrite setup in the "Tahrovin Patches" category. See below for details for the changes required and how to perform them.
+**IMPORTANT NOTE:** The Sensorium ENB requires you to change the ini file for Azurite Weathers. I have an overwrite setup in the "Tahrovin Patches" category. See [below](#azurite-weathers-ini-change) for details for the changes required and how to perform them.
 
 ![ENB Organizer 3](img/ENBOrganizer02.png)
 
