@@ -16,7 +16,7 @@ I run a relatively powerful PC with the following specs:
   * RAM: 32GB DDR4 @ 3600MHz
   * GPU: RTX 3080
 
-I use an Oculus Quest 2 headset with an Oculus link cable for the best potential performance. 
+I use an Oculus Quest 2 headset with an Oculus link cable for the best potential performance. **If you are using a Quest 2, I have a couple of performance recommendations that you can [find here.](Oculus%20Performance%20Tips.md)**
 
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
   * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
