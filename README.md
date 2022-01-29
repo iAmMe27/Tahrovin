@@ -1,4 +1,4 @@
-# Tahrovin
+![Tahrovin Banner](img/Small%20Banner.png)
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
