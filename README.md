@@ -71,7 +71,7 @@ If you have not yet installed Skyrim VR, you can skip this part.
 Once you've done the steps above, you can now set Steam to download Skyrim VR again but ***do not*** install Skyrim VR to a protected folder, such as `Desktop`, `Downloads` or `Program Files` of any kind. It's best to create a new, dedicated folder for it using the Steam Library function somewhere on the root of your drive such as `C:\SteamLibrary`. A lot of people have a dedicated secondary drive for their games, keeping the OS install separate; using this secondary drive will also work.
 
 #### Start Skyrim VR
-That's right - start the game. You need to let the game initial start up bits such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
+That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
 
 ### Wabbajack
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff. Grab the `Tahrovin.wabbajack` file from [Releases](https://github.com/iAmMe27/Tahrovin/releases). Double-click it and Wabbajack should open. Wabbajack will have 2 things for you to do - fill in the installation location and the download location. 
