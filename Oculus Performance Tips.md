@@ -16,7 +16,7 @@ In the right-hand menu that pops-up, scroll down to **Graphics Preferences**:
 
 ![Oculus Client 3](img/OculusClient02.png)
 
-In the pop-up menu, ensure that the **Automatic** resolution scaling is *OFF*. I recommend playing on 90Hz or 120Hz. Also ensure that the **Rendering Resolution** is at *1.0x* as stated in the main readme.
+In the pop-up menu, ensure that the **Automatic** resolution scaling is *OFF*. I recommend trying each setting in turn to see at which point you get the best look vs performance. I can't tell you what point that would be because it's a subjective choice. Also ensure that the **Rendering Resolution** is at *1.0x* as stated in the main readme.
 
 ![Oculus Client 4](img/OculusClient03.png)
 
@@ -44,3 +44,10 @@ in the Oculus Debug Tool, change **Encode Bitrate (Mbps)** to 350. You can go as
 ![Oculus Debug Tool 1](img/OculusDebugTool00.png)
 
 Once changed, close out the tool and done!
+
+## Monitoring Performance with an Oculus Quest 2
+The Oculus Debug Tool also comes with a performance overlay. Follow the steps above to open the Oculus Debug Tool and set the **Visible HUB** option to *Performance*.
+
+***DON'T CLOSE THE OCULUS DEBUG TOOL AS THIS WILL ALSO CLOSE THE PERFORMANCE OVERLAY.***
+
+You will know when it is enabled as soon as you put on your headset. You can use the info here to help with monitor the performance you are getting in-game.

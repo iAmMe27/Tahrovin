@@ -3,10 +3,12 @@
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
 ---
+
 ## What is Tahrovin?
 Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of slooty outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
 
 ---
+
 ## Before You Start
 Before you dive in, there's a couple things you need to be sure of first:
 
@@ -16,7 +18,7 @@ I run a relatively powerful PC with the following specs:
   * RAM: 32GB DDR4 @ 3600MHz
   * GPU: RTX 3080
 
-I use an Oculus Quest 2 headset with an Oculus link cable for the best potential performance. **If you are using a Quest 2, I have a couple of performance recommendations that you can [find here.](Oculus%20Performance%20Tips.md)**
+I use an Oculus Quest 2 headset with an Oculus link cable for the best potential performance. **If you are using a Quest 2, I have a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**
 
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
   * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
@@ -95,7 +97,7 @@ Almost there but we're not out of the woods yet! After Wabbajack has given you t
 Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
 
 ### ENB Selection
-For instructions on choosing your ENB, head to the [ENB Selection page](ENB%20Selection.md). **NOTE:** if you don't follow these steps, your game will launch with no ENB enabled.
+For instructions on choosing your ENB, head to the [ENB Selection page](ENB%20Selection.md). **NOTE:** if you don't follow these steps, your game will launch with no ENB enabled. This is perfectly fine if your computer can't manage the game with an ENB running.
 
 ### Creating a desktop shortcut
 Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **Tahrovin** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
@@ -115,37 +117,41 @@ After you've finished making your character but before you do much else, you sho
 The main quest isn't started in the usual way because the vanilla intro to the game has been replaced. To start the main quest, grab the Dragonstone from Bleak Falls Barrow or talk to Jarl Balgruuf in Whiterun.
 
 ### Mod Configuration
-These are a few mod menu configurations you'd probably want to tinker with:
+When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your view, head to the Mod Configuration Menu to start the mod setup. 
 
-#### VRIK
-You can tune your calibration settings in here as well as change things such as offsets and arm lengths.
+*Note: I am looking into the automation of these steps so you can dive into gameplay as quick as possible.*
 
-#### Weapon Throw VR
-There are a few presets available to you in here, try them out and see which one you prefer.
+**To setup the Mod Configuration Menu's, read [this page](MCM%20Setup.md) and then return here.**
 
-#### Simple Realistic Archery
-You can tweak the options for adding cost and time penalties for bow drawing.
+Some of the other menu's that might pique your interest are:
 
-#### Strange Runes
-I recommend that you disable the dual casting runes because otherwise they will conflict with the Magic Improvements for Skyrim VR mod.
+* **VRIK** - You can tune your calibration settings in here as well as change things such as offsets and arm lengths.
+* **Weapon Throw VR** - There are a few presets available to you in here, try them out and see which one you prefer.
+* **Simple Realistic Archery** - You can tweak the options for adding cost and time penalties for bow drawing.
+* **Strange Runes** - Disable the dual casting runes because otherwise they will conflict with the Magic Improvements for Skyrim VR mod.
+* **Spell Wheel VR** - You can change what the spell wheels will show you here as well as the controller binds for showing the spell wheel in the first place.
+* **Simply Balanced** - There are a lot of options in this menu to allow you to really tune the balance of the game. You can make it easier to turn yourself into a god, if you like the high-power kind of playthrough or a lot harder to make it a cruel and punishing playthrough. Whilst the options are standard out of the box, I would recommend you reduce the damage of both archery and melee because of the crazy amount of speed you can have compared to regular Skyrim.
+* **SkyUI VR** - You can customise what shows up on screen, depending on whether or not you like the amount of clutter.
+* **Strike Obstruction Systems** - You can change the visual effects for timed blocks in here because the default spark effect is buggy and doesn't always show.
+* **Frozen Electrocuted Combustion (FEC)** - FEC offers longer death cam shots when using the mods fancier magic effects. You can turn these off in here if they aren't your thing.
 
-#### Spell Wheel VR
-You can change what the spell wheels will show you here as well as the controller binds for showing the spell wheel in the first place.
-
-#### Simply Balanced
-There are a lot of options in this menu to allow you to really tune the balance of the game. You can make it easier to turn yourself into a god, if you like the high-power kind of playthrough or a lot harder to make it a cruel and punishing playthrough. Whilst the options are standard out of the box, I would recommend you reduce the damage of both archery and melee because of the crazy amount of speed you can have compared to regular Skyrim.
-
-#### SkyUI VR
-You can customise what shows up on screen, depending on whether or not you like the amount of clutter.
-
-#### Strike Obstruction Systems
-You can change the visual effects for timed blocks in here because the default spark effect is buggy and doesn't always show.
-
-#### Frozen Electrocuted Combustion (FEC)
-FEC offers longer death cam shots when using the mods fancier magic effects. You can turn these off in here if they aren't your thing.
 
 ## Playing in Seated Mode
 The modlist features the `Auto Sneak and Jump` mod which relies on your movement in real life to jump and crouch, therefore making it not very useful to you if you prefer to play in seated mode. Unless you'd like to try sneaking everywhere you go, you should be fine to disable this mod from the "Gameplay Mods" section in MO2.
+
+
+## FAQ
+
+### Where's my UI?
+Raise your left wrist to see your health, stamina and magicka bars. Raise your left hand, palm facing upwards, to activate the compass.
+
+### My companion is stuck on the floor after being "Yamate'd"
+This is a known issue that is caused by the underlying Havok physics engine. You can usually fix them by hitting them with a heal spell - the fix is to cause an animation change on them.
+
+### Help I can't see my game!
+If you have an ENB selected, give it a few seconds as it takes a short period for the game to render as the ENB does its thing.
+
+
 
 ## Updating Tahrovin
 When an update is released, please always check the changelog first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
