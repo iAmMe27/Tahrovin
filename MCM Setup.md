@@ -7,9 +7,10 @@ First up is FEC. Technically this one is optional and based on preference but I 
 ![FEC MCM](img/MCM_FEC.png)
 
 ## SexLab
-Scroll down and find your way to SexLab. On the first menu, ensure that all the prerequisites are **OK** and then click the **Install/Update SexLab SL VR Patch...** option. Once done and the text changes, close the menu (as in all the way back to the game) and reopen the SexLab mod configuration menu to confirm the mod initialised properly.
+Scroll down and find your way to SexLab. On the first menu, ensure that all the prerequisites are **OK** and then click the **Install/Update SexLab SL VR Patch...** option. Once done and the text changes, close the menu (as in all the way back to the game), wait for the message in the top left of your vision to say the mod is ready and then reopen the SexLab mod configuration menu to confirm the mod initialised properly. Once you've re-opened the menu, scroll down to **Animation Settings** and ensure that **Enable Creature Animations** is checked, if you want creature animations enabled.
 
 ![SL MCM](img/MCM_SL1.png)
+
 
 ## SexLab Eager NPCs
 In the SLEN menu, start by checking the **Mod Enabled** option. Once activated, exit all the way out of the menus and then wait for the notification in the top left of your vision before re-opening the SLEN mod configuration menu, confirming that the mod has been successfully enabled.
@@ -25,9 +26,12 @@ If enabled, check the **Charm dialogue** option and also configure the rest to y
   * Gives Lover's Comfort - *ON*
 * Dragon kill event
   * Dragon soul absorb exposure - *50*
+  * Dragon kill witness exposure - *20*
   * Orgy chance - *33%*
-* Dungeon clear event
+* Location clear event
   * Orgy chance - *33%*
+* Dibella's Refuge
+  * Enabler Diblla's Refuge quests - *ON*
 * SLEN Spells
   * Add Masturbate lesser power - *ON*
   * Mounter exposure - *10 per min*
@@ -50,7 +54,7 @@ In the SLAL configuration, click the **Enable All** option.
 
 ![SLAL Menu](img/MCM_SLAL1.png)
 
-Once its done enabling, click the **Register Animations** option, exit the MCM all the way and then wait a while. You won't get a notification for this one but there are a lot of animations to register.
+Once its done enabling, click the **Register Animations** option, exit the MCM all the way and then wait a while. You won't get a notification for this one but there are a lot of animations to register. If you wanted to, you can open the console by using the same key you'd use for Skyrim SE on your PC's keyboard - here you can see all the animations registering and can see when it's done.
 
 ![SLAL Menu](img/MCM_SLAL2.png)
 

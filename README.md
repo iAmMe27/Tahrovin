@@ -25,7 +25,7 @@ Now, I have not built this list to be as graphically intensive as possible but I
   * RAM: 16GB of DDR4
   * GPU: GTX 1080 *or the AMD equivalent with at least 6GB of VRAM*
 
-You will need at least `XYZ GB` of disk space on an SSD. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+You will need at least `101GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `40GB`. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
 ### Accounts
 In terms of accounts you will need:
@@ -113,6 +113,9 @@ Done! You should now have a shortcut on your desktop which you can now run the m
 When you first start a new game, you won't find yourself inside of Skyrim anywhere. Instead, you will be inside of the Realm of Lorkhan. This mod replaces the vanilla Skyrim intro, which is known to be extremely buggy, especially in VR. *I'm sure you've seen the vanilla intro already, right?* The Realm of Lorkhan mod is a highly interesting one as it allows you to craft a character that can be allied with factions out of the gate, spawn with all sorts of different equipment and start in many different locations. Have a walk about, see what's around and available to you. Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. You can return to the realm of Lorkhan at any time by re-using any of these crystals. If you don't like the idea of these crystals being spread about Skyrim, you can enable the `Realm of Lorkhan - No Shards Patch` in  the "Gameplay Mods" category. Note, this will make the teleport out of the realm of Lorkhan one way!
 
 The main quest isn't started in the usual way because the vanilla intro to the game has been replaced. To start the main quest, grab the Dragonstone from Bleak Falls Barrow or talk to Jarl Balgruuf in Whiterun.
+
+## From the Main Menu
+Whilst in the main menu, head down into **Settings** and then **VR Performance** - in this menu, ensure that **Dynamic Resolution** is *NOT* enabled. Leaving it on will cause some very serious blurriness in game.
 
 ### Mod Configuration
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your view, you should calibrate VRIK by using the `VRIK Calibration Power` located in your powers menu. Do this while standing on a flat surface in game. Follow the instructions in the VRIK pop-up dialog to ensure you get this right, otherwise you might find yourself towering over everyone else or way too short. Don't worry about making it absolutely perfect, you can recalibrate at any time. After you've calibrated VRIK, head to the Mod Configuration Menu to start the mod setup.
