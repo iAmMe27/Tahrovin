@@ -2,7 +2,7 @@
 Once you've created your character and the notifications in the top left of your vision have stopped appearing, follow the rest of these steps to get your mods configured and ready to go.
 
 ## FEC
-First up is FEC. Technically this one is optional, based on preference but I like to disable *Extended death camera* in the menu for FEC.
+First up is FEC. Technically this one is optional and based on preference but I like to disable *Extended death camera* in the menu for FEC.
 
 ![FEC MCM](img/MCM_FEC.png)
 

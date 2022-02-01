@@ -112,12 +112,10 @@ Done! You should now have a shortcut on your desktop which you can now run the m
 
 When you first start a new game, you won't find yourself inside of Skyrim anywhere. Instead, you will be inside of the Realm of Lorkhan. This mod replaces the vanilla Skyrim intro, which is known to be extremely buggy, especially in VR. *I'm sure you've seen the vanilla intro already, right?* The Realm of Lorkhan mod is a highly interesting one as it allows you to craft a character that can be allied with factions out of the gate, spawn with all sorts of different equipment and start in many different locations. Have a walk about, see what's around and available to you. Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. You can return to the realm of Lorkhan at any time by re-using any of these crystals. If you don't like the idea of these crystals being spread about Skyrim, you can enable the `Realm of Lorkhan - No Shards Patch` in  the "Gameplay Mods" category. Note, this will make the teleport out of the realm of Lorkhan one way!
 
-After you've finished making your character but before you do much else, you should calibrate VRIK by using the `VRIK Calibration Power` located in your powers menu. Do this while standing on a flat surface in game. Follow the instructions in the VRIK pop-up dialog to ensure you get this right, otherwise you might find yourself towering over everyone else or way too short. Don't worry about making it absolutely perfect, you can recalibrate at any time.
-
 The main quest isn't started in the usual way because the vanilla intro to the game has been replaced. To start the main quest, grab the Dragonstone from Bleak Falls Barrow or talk to Jarl Balgruuf in Whiterun.
 
 ### Mod Configuration
-When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your view, head to the Mod Configuration Menu to start the mod setup. 
+When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your view, you should calibrate VRIK by using the `VRIK Calibration Power` located in your powers menu. Do this while standing on a flat surface in game. Follow the instructions in the VRIK pop-up dialog to ensure you get this right, otherwise you might find yourself towering over everyone else or way too short. Don't worry about making it absolutely perfect, you can recalibrate at any time. After you've calibrated VRIK, head to the Mod Configuration Menu to start the mod setup.
 
 *Note: I am looking into the automation of these steps so you can dive into gameplay as quick as possible.*
 
@@ -133,7 +131,6 @@ Some of the other menu's that might pique your interest are:
 * **Simply Balanced** - There are a lot of options in this menu to allow you to really tune the balance of the game. You can make it easier to turn yourself into a god, if you like the high-power kind of playthrough or a lot harder to make it a cruel and punishing playthrough. Whilst the options are standard out of the box, I would recommend you reduce the damage of both archery and melee because of the crazy amount of speed you can have compared to regular Skyrim.
 * **SkyUI VR** - You can customise what shows up on screen, depending on whether or not you like the amount of clutter.
 * **Strike Obstruction Systems** - You can change the visual effects for timed blocks in here because the default spark effect is buggy and doesn't always show.
-* **Frozen Electrocuted Combustion (FEC)** - FEC offers longer death cam shots when using the mods fancier magic effects. You can turn these off in here if they aren't your thing.
 
 
 ## Playing in Seated Mode
