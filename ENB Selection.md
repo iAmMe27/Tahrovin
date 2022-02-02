@@ -15,7 +15,9 @@ Click the hamburger menu at the top left of the program and navigate to the Bina
 
 ![ENB Organizer 2](img/ENBOrganizerBinaries.png)
 
-In this screen, toggle both the ENB Binaries and OpenVR Foveated.
+In this screen, toggle the ENB Binaries. If you want OpenVR Foveated for improving performance, first you must uncheck SteamVR files and then check OpenVR Foveated - the opposite is true is you wish to disable OpenVR Foveated.
+
+**Warning:** Having neither OpenVR Foveated or SteamVR Files checked will mean the game fails to launch. You must have one of these options chosen.
 
 ![ENB Organizer 3](img/ENBOrganizerBinToggle.png)
 
