@@ -5,7 +5,9 @@ First things first: **this list contains adult content and you must be of legal 
 ---
 
 ## What is Tahrovin?
-Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of slooty outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
+Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
+
+[Here's a link to Load Order Library with a list of the mods included.](https://loadorderlibrary.com/lists/tahrovin-alpha-v01)
 
 ---
 
@@ -16,7 +18,7 @@ Before you dive in, there's a couple things you need to be sure of first:
 I run a relatively powerful PC with the following specs:
   * CPU: Ryzen 7 5800X
   * RAM: 32GB DDR4 @ 3600MHz
-  * GPU: RTX 3080
+  * GPU: RTX 3090
 
 I use an Oculus Quest 2 headset with an Oculus link cable for the best potential performance. **If you are using a Quest 2, I have a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**
 
@@ -25,12 +27,13 @@ Now, I have not built this list to be as graphically intensive as possible but I
   * RAM: 16GB of DDR4
   * GPU: GTX 1080 *or the AMD equivalent with at least 6GB of VRAM*
 
-You will need at least `101GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `40GB`. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+You will need at least `120GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `45GB`. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
 ### Accounts
 In terms of accounts you will need:
   * Nexus Premium Account
   * LoversLab Account
+  * VectorPlexus Account
 
 Whilst you don't *need* a Nexus premium account to install the modlist, you'll have a considerably better time of it if you do.
 
@@ -40,7 +43,7 @@ Please follow all of steps below if it is your first time installing this modlis
 ### Preparation
 
 #### Install Microsoft Visual C++ Redistributable Packages
-This package is a must as it is needed by MO2 - you may already have it, especially if you've used MO2 before. You want to download the x64 version under "Visual Studio 2015, 2017 and 2019".
+This package is a must as it is needed by MO2 - you may already have it if you've used MO2 before. If you do not have it, you want to download the x64 version under "Visual Studio 2015, 2017 and 2019".
 
 [Download Visual C++ Redistributable Package.](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
@@ -81,6 +84,7 @@ Installing the list is straight forward, Wabbajack will do most of the heavy lif
 Set the installation location to a folder on the root of a drive, something like `C:\Tahrovin`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location. 
 
 Before you hit **GO**, a quick tip:
+
 *To get the best performance with Wabbajack, it is recommended that you have the install folder for Wabbajack, the modlist folder and the downloads folder on an SSD, ideally the same SSD.* After the installation is complete, you can move the downloads folder to a storage HDD or other storage medium to save space on your game installation drive. It's not recommended to allow your drive to exceed 90% of its storage space used - Windows Explorer will show a red bar under your drive if you do go over 90% so you need to be sure that you have enough space on your installation drive so that you won't exceed this 90% storage level.
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
@@ -135,6 +139,8 @@ Some of the other menu's that might pique your interest are:
 * **SkyUI VR** - You can customise what shows up on screen, depending on whether or not you like the amount of clutter.
 * **Strike Obstruction Systems** - You can change the visual effects for timed blocks in here because the default spark effect is buggy and doesn't always show.
 
+## Controller Bindings
+[Controller bindings can be found here](ControllerBindings.md)
 
 ## Playing in Seated Mode
 The modlist features the `Auto Sneak and Jump` mod which relies on your movement in real life to jump and crouch, therefore making it not very useful to you if you prefer to play in seated mode. Unless you'd like to try sneaking everywhere you go, you should be fine to disable this mod from the "Gameplay Mods" section in MO2.
@@ -151,10 +157,12 @@ This is a known issue that is caused by the underlying Havok physics engine. You
 ### Help I can't see my game!
 If you have an ENB selected, give it a few seconds as it takes a short period for the game to render as the ENB does its thing.
 
+### Is there a way for me to see myself?
+Sure is, raise your right hand above your head and rotate your wrist to turn your character. If you put your right hand down, your character should stay in selfie mode - re-raise your right hand to disable.
 
 
 ## Updating Tahrovin
-When an update is released, please always check the changelog first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
+When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
 
 If you have added anything to this modlist at all, Wabbajack will also delete those. You should know how to stop it from doing this if you're going to add stuff to modlists but if you don't, you have to prepend your mod name with `[NoDelete]` - this will make Wabbajack ignore these files. You will need to reinstall these mods and re-sort their load order after an update though, so I hope you kept backup information on where they went in the load order!
 
@@ -162,3 +170,10 @@ All that aside, updates are basically the same as an installation except you hav
 
 ## Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
+
+
+## Thank You's
+Massive thank you to the following people:
+  * cacophony for making Licentia - Licentia was my first NSFW Skyrim list. It was, and still is, an amazing modlist. Seriously, go play it! Licentia inspired Tahrovin in many ways.
+  * Tsukino for making Tsukiro - Tsukiro is also an amazing modlist that deserves your attention. Tsukiro also inspired Tahrovin a lot.
+  * The Wabbajack team for making the modern day equivalent of a miracle to make all these modlists possible in the first place.
