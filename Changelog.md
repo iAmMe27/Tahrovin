@@ -65,8 +65,6 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 22. Swapped Yamete V4.3 for V3.2 for better usability in VR
     1.  *V3.2 doesn't use the radial menu, which is incompatible with VR*
 
-
-
 ## Tahrovin V0.2.1 
 1. Fixed LODs
 2. Added Dear Diary VR - Paper
@@ -76,3 +74,18 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 5. Added Vanity Mirror
 6. Added iAmMe's Realm of Lorkhan Additions
    1. *This custom mod currently adds the vanity mirror to the table next to where you spawn in the Realm of Lorkhan*
+
+## Tahrovin V0.3
+1. Big change: Creature stuff is now *off* by default. To use creature stuff, switch to the "Degeneracy Edition" profile
+2. Base Object Swapper changed out for Base Object Swapper VR
+3. Added Cozy Taverns and Followers
+   1. And patched for compatibility with LoTD
+4.  Added HIMBO V4
+    1. And added HIMBO to BodyGen so male bodies are now randomised
+    2. Added HIMBO sliders for NordWar's Vanilla Armour Expansion
+5. Removed TAWOBA Leveled List and replaced with custom distribution using SPID
+6. Fixed a couple of Nav Meshes, mostly around Riften
+7. BodyGen tweaked slightly and HIMBO BodyGen stuff added
+8. A metric ton of patches and fixing to most areas of the game
+9.  Regenerated LODs to make them a little prettier without really affecting performance
+10. Reran Synthesis

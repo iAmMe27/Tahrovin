@@ -89,6 +89,11 @@ Before you hit **GO**, a quick tip:
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
+### Commonly Failing Downloads
+Downloads from file hosts such as Google Drive and Mega can sometimes be a pain and refuse to download automatically via Wabbajack for reasons unknown. Any files that might give you trouble [can be found here for manual download](https://github.com/iAmMe27/Tahrovin/wiki/Commonly-Failing-Downloads).
+
+Download these files and place them *as they are* into the same folder you told Wabbajack to put your downloads in. Let me reiterate just to be sure - **do not unzip the archives!**
+
 #### Troubleshooting
 If you're having issues with installation, check the [troubleshooting page](Troubleshooting.md). 
 
