@@ -8,6 +8,7 @@ First things first: **this list contains adult content and you must be of legal 
 Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
 
 [Here's a link to Load Order Library with a list of the mods included.](https://loadorderlibrary.com/lists/tahrovin-v03)
+
 [Here's the load order for the Degeneracy Edition profile.](https://loadorderlibrary.com/lists/tahrovin-v03-degeneracy-edition)
 
 ---
