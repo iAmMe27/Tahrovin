@@ -89,3 +89,12 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 8. A metric ton of patches and fixing to most areas of the game
 9.  Regenerated LODs to make them a little prettier without really affecting performance
 10. Reran Synthesis
+
+## Tahrovin V0.3.1
+1. Fixed broken player physics
+
+## Tahrovin V0.3.2
+1. Small update to fix a couple of issues with the Cozy Taverns mod
+
+## Tahrovin V0.3.3
+1. Updated BakaFactory ABC to make the list installable again
