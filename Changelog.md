@@ -98,3 +98,6 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 
 ## Tahrovin V0.3.3
 1. Updated BakaFactory ABC to make the list installable again
+
+## Tahrovin V0.3.4
+1. Quick hotfix because I broke SteamVR files again
