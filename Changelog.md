@@ -101,3 +101,8 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 
 ## Tahrovin V0.3.4
 1. Quick hotfix because I broke SteamVR files again
+
+## Tahrovin V0.4
+1. Added PLANCK V0.2.2
+   1. Tuned PLANCK NPC ragdoll settings to be a little more on the fun side - you shouldn't be able to grab NPCs that are much more powerful than you but you should be able to grab most NPCs around your level or below. This will probably be tweaked as time goes on but for now, have fun throwing people!
+2. Updated HIGGS to 1.5.0
