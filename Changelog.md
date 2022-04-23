@@ -107,9 +107,17 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
    1. Tuned PLANCK NPC ragdoll settings to be a little more on the fun side - you shouldn't be able to grab NPCs that are much more powerful than you but you should be able to grab most NPCs around your level or below. This will probably be tweaked as time goes on but for now, have fun throwing people!
 2. Updated HIGGS to 1.5.0
 
-### Tahrovin V0.4.1
+## Tahrovin V0.4.1
 1. Fixed a couple of bugs, one with Lux and one with LotD
 2. NPC replacers now properly use the 3BA body type
 3. Added Dibellas Compulsion
 4. Updated iAmMe's Realm of Lorkhan Addtions to add Dibellas Compulsion tome
 5. Fixed incorrect armour distribution to bandits and Thalmor
+
+## Tahrovin V0.4.1.1
+1. Fixed an issue preventing install
+
+## Tahrovin V0.4.2
+1. Removed Rift Fallen Leaves - Yellow Option
+   1. This was leftover from a mod I was testing previously.
+2. Fixed CTD issues when transforming into either Vampire Lord form or Werewolf form.
