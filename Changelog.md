@@ -121,3 +121,6 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 1. Removed Rift Fallen Leaves - Yellow Option
    1. This was leftover from a mod I was testing previously
 2. Fixed CTD issues when transforming into either Vampire Lord form or Werewolf form
+
+## Tahrovin V0.4.2.1
+1. Fixed an issue preventing animations from playing and the VRIK body from appearing
