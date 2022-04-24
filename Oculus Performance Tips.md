@@ -1,6 +1,15 @@
 # Quest 2 Performance Tips
 There are a couple things you can do that can help with performance that I recommend.
 
+## Using OpenComposite
+Using OpenComposite means that SteamVR is bypassed and the game can directly talk to the Oculus runtime on your PC which nets you a lot of performance return, sometimes up to 20fps gain!
+
+OpenComposite is already included with Tahrovin and you can enable it in the `Required Files and ENB` option, under `Binaries`:
+
+![OpenComposite 1](img/OpenCompositeToggle.png)
+
+Make sure you disable `SteamVR Files` first *and then* toggle `OpenComposite`. ***Note:*** OpenComposite does not work for any other headset than Oculus headsets!
+
 ## Change Refresh Rate
 Changing the refresh rate to a higher one in the Oculus settings reduces the maximum resolution delivered to your headset as well as offering a smoother feel to the game. The reduced resolution will help the game run at a more stable FPS and likely a higher FPS. Combine the higher FPS with the higher refresh rate of the Quest 2 and you have a much nicer game playing experience. 
 
