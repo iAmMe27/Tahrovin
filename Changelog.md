@@ -124,3 +124,88 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 
 ## Tahrovin V0.4.2.1
 1. Fixed an issue preventing animations from playing and the VRIK body from appearing
+
+## Tahrovin V0.5 
+
+***This update is not save safe.***
+
+1. Updated SPID VR to v5.2.0.3
+2. Updated Crash Logger VR to v1.0.0.3
+3. Updated VR Address Library to v0.30.0
+4. Updated moreHUD VR to v1.0.7
+5. Updated Realm of Lorkhan to v3.6.1
+6. Updated Realm of Lorkhan - No Shards Patch to v3.6.1
+7. Updated Simply Balanced to v1.4.6
+8. Updated Vokrii - Minimalistic Perks of Skyrim to v3.8.2
+9. Updated Strike Obstruction Systems - Combat Blocking Overhaul to v1.05
+10. Updated Archery to v2.5
+11. Updated Immersive Draw Sheathe Sounds VR to v1.1
+12. Updated Legacy of the Dragonborn CBBE Patch v5 to v1.0.3
+13. Updated Cathedral Armory to v3.17
+14. Updated Believable Weapons to v1.5
+15. Updated CBPC to v1.5.0
+16. Updated CBBE 3BA to v2.31
+17. Updated Faster HDT-SMP to v1.38
+18. Updated Feminine Grey Cat and Leopard (CBBE) to v3.2
+19. Updated Feminine Chameleon and Lizard (CBBE) to v3.1
+20. Updated powerofthree's Papyrus Extender to v5.0.3
+21. Updated Papyrus Extender VR to v5.0.3.1
+22. Updated Spellsiphon - Complete Edition to v5.17
+23. Updated Conduit to v2.3
+24. Updated AI Overhaul to v1.7
+25. Updated RS Children AI Overhaul patch SE ONLY to Latest
+26. Updated Azurite Weathers to v1.85
+27. Updated True Storms and Azurite Patch to v1.72
+28. Updated Storm Lightning for SSE and VR (Minty Lightning 2019) to v1.4.14
+29. Updated Thunder Sounds - WiZkiD Mix - to v1.1
+30. Updated Skyrim Revamped - Complete Enemy Overhaul to v2.42
+31. Updated Skyrim Revamped Unofficial Rebalanced and Releveled Add On to v2.45
+32. Updated FEC to v5.0.1
+33. Updated FEC VR to v5.0.0.1
+34. Updated Engine Fixes VR to v1.22
+35. Updated HIGGS to v1.5.2
+36. Updated VR Refit - Mine Chop and Drop to v1.0.4
+37. Updated Realistic AI Detection to v3
+38. Updated PLANCK to v0.2.4
+39. Updated Rally's Candlelight and Magelight Fix to v1.3
+40. Updated Base Object Swapper VR to v1.5.0
+41. Updated Legacy of the Dragonborn Patches to v2.6
+42. Updated Legacy of the Dragonborn - The Curators Companion to v6.1.6
+43. Updated Rally's All The Things to v1.5
+44. Updated HD Rabbit by Pfuscher to v1.2
+45. Updated KS Hairdos to v1.9
+46. Updated HIMBO to v4.4.1
+47. Updated Mysticism to v2.0.6
+48. Updated Mysticism - Vokrii Patch to v3.8.0
+49. Updated Mysticism - Triumvirate Patch to v1.8.0
+50. Updated Spellforge to v2.0
+51. Updated Embers XD to v2.5.7
+52. Updated Lux to v4.1.2
+53. Added Lux Via Resource Pack v1.4
+54. Added some new eye candy - you won't miss it, trust me.
+55. Added Serena Re-Imagined v2.0
+56. Added powerofthree's Tweaks v1.5
+57. Added powerofthree's Tweaks VR v1.6.0.1
+58. Added Pristine Vanilla Movement v1.1
+59. Added OppositeAnimationDisabler Synthesis Patcher
+60. Added AOSISCSoundPatcher Synthesis Patcher
+61. Added SpeedandReachFixes Synthesis Patcher
+62. Added NoDragonLODs Synthesis Patcher
+63. Added VR Performance Toolkit v0.3
+64. Added Binaural 3D Surround Sound for Headphones v2.4
+65. Added High Poly Project v5.3
+66. Added Relationship Dialog Overhaul v1.0
+67. Added Nethers Follower Framework v2.7.9
+68. Added Bijin Skin for Bijin Family v1.3
+69. Added Bijin Family - 3BA Bodyslides v1.1
+70. Added A Clear Map of Skyrim and Other Worlds v3.1
+71. Added Botox for Skyrim SE v1.7
+72. Added Subtitle Dialog HUD Resize for VR v1.0
+73. Removed OpenVR Foveated v0.2
+74. Tweaked BodyGen some more
+75. Fixed a few NPCs that had wrist and ankle seams
+76. Fixed some NPCs with broken textures
+77. Fixed certain animations that would not play correctly
+78. Grass LODs added
+79. Regenerated LODs
+80. Reran Synthesis

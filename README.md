@@ -1,8 +1,8 @@
-![Tahrovin Banner](img/Splash.png)
+![Tahrovin Banner](img/TahrovinBanner.webp)
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
----
+*Support and general talk about Tahrovin resides on the Jolly Co-operators Discord: https://discord.gg/jolly-coop*
 
 ## What is Tahrovin?
 Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
@@ -11,7 +11,45 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
 
 [Here's the load order for the Degeneracy Edition profile.](https://loadorderlibrary.com/lists/tahrovin-v042-degeneracy-edition)
 
----
+
+## Quick Links
+- [What is Tahrovin?](#what-is-tahrovin)
+- [Quick Links](#quick-links)
+- [Before You Start](#before-you-start)
+  - [Hardware Requirements](#hardware-requirements)
+  - [Accounts](#accounts)
+- [Installation](#installation)
+  - [Preparation](#preparation)
+    - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
+    - [Configuring Steam](#configuring-steam)
+    - [Disable Steam Overlay](#disable-steam-overlay)
+    - [Set game language to English](#set-game-language-to-english)
+    - [Change Steam's Updating Behavior](#change-steams-updating-behavior)
+    - [Clean current Skyrim VR installation](#clean-current-skyrim-vr-installation)
+    - [Install Skyrim VR](#install-skyrim-vr)
+    - [Start Skyrim VR](#start-skyrim-vr)
+  - [Wabbajack](#wabbajack)
+  - [Commonly Failing Downloads](#commonly-failing-downloads)
+  - [Troubleshooting](#troubleshooting)
+- [Post-Installation](#post-installation)
+  - [Stock Game](#stock-game)
+  - [ENB Selection](#enb-selection)
+  - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
+  - [INI Configuration](#ini-configuration)
+- [Pre-Game Launch](#pre-game-launch)
+- [From the Main Menu](#from-the-main-menu)
+- [Mod Configuration](#mod-configuration)
+- [Controller Bindings](#controller-bindings)
+- [Playing in Seated Mode](#playing-in-seated-mode)
+- [FAQ](#faq)
+  - [Where's my UI?](#wheres-my-ui)
+  - [My companion is stuck on the floor after being "Yamate'd"](#my-companion-is-stuck-on-the-floor-after-being-yamated)
+  - [Help I can't see my game!](#help-i-cant-see-my-game)
+  - [Is there a way for me to see myself?](#is-there-a-way-for-me-to-see-myself)
+- [Updating Tahrovin](#updating-tahrovin)
+- [Uninstalling Tahrovin](#uninstalling-tahrovin)
+- [Thank You's](#thank-yous)
+
 
 ## Before You Start
 Before you dive in, there's a couple things you need to be sure of first:
@@ -29,7 +67,7 @@ Now, I have not built this list to be as graphically intensive as possible but I
   * RAM: 16GB of DDR4
   * GPU: GTX 1080 *or the AMD equivalent with at least 6GB of VRAM*
 
-You will need at least `120GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `50GB`. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+You will need at least `130GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `52GB`- ideally you want *at least* `200GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
 ### Accounts
 In terms of accounts you will need:
@@ -81,13 +119,13 @@ Once you've done the steps above, you can now set Steam to download Skyrim VR ag
 That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
 
 ### Wabbajack
-Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff. Grab the `Tahrovin.wabbajack` file from [Releases](https://github.com/iAmMe27/Tahrovin/releases). Double-click it and Wabbajack should open. Wabbajack will have 2 things for you to do - fill in the installation location and the download location. 
+Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff. Grab the Tahrovin from the Wabbajack UI, once its downloaded the initial stuff it needs, Wabbajack will have 2 things for you to do - fill in the installation location and the download location. 
 
-Set the installation location to a folder on the root of a drive, something like `C:\Tahrovin`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location. 
+Set the installation location to a folder on the root of a drive, something like `C:\Tahrovin`. Do not install it to one of the protected folders as mentioned earlier. The download location will have likely been filled in for you too - ensure it matches the directory you set for the installation location, or if you have multiple Skyrim VR modlists installed, use a common download folder - this will stop you from having to redownload common mods across multiple modlists. 
 
 Before you hit **GO**, a quick tip:
 
-*To get the best performance with Wabbajack, it is recommended that you have the install folder for Wabbajack, the modlist folder and the downloads folder on an SSD, ideally the same SSD.* After the installation is complete, you can move the downloads folder to a storage HDD or other storage medium to save space on your game installation drive. It's not recommended to allow your drive to exceed 90% of its storage space used - Windows Explorer will show a red bar under your drive if you do go over 90% so you need to be sure that you have enough space on your installation drive so that you won't exceed this 90% storage level.
+*To get the best performance with Wabbajack, it is recommended that you have the install folder for Wabbajack, the modlist folder and the downloads folder on an SSD; ideally the same SSD.* After the installation is complete, you can move the downloads folder to a storage HDD or other storage medium to save space on your game installation drive. It's not recommended to allow your drive to exceed 90% of its storage space used - Windows Explorer will show a red bar under your drive if you do go over 90% so you need to be sure that you have enough space on your installation drive so that you won't exceed this 90% storage level.
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
@@ -96,13 +134,13 @@ Downloads from file hosts such as Google Drive and Mega can sometimes be a pain 
 
 Download these files and place them *as they are* into the same folder you told Wabbajack to put your downloads in. Let me reiterate just to be sure - **do not unzip the archives!**
 
-#### Troubleshooting
+### Troubleshooting
 If you're having issues with installation, check the [troubleshooting page](Troubleshooting.md). 
 
 ## Post-Installation
 Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the Tahrovin installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
-***DO NOT, UNDER ANY CIRCUMSTANCES, RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.***
+***DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.***
 
 ### Stock Game
 Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
@@ -117,9 +155,22 @@ Nobody wants to be launching their game via multiple clicks, they want to be abl
 
 Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Skyrim VR from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
 
-## Post-Game Launch
+### INI Configuration
+There are a couple of INI tweaks to make to suit your PC and VR headset setup that will make things a little better. From MO2, launch the `INI Config Tool`.
 
-**Before launching the game, make sure your VR headset is initialised (SteamVR should be running) and both controllers are connected. Launching the game, without both of these conditions met will be a bad time.**
+`bUseWandDirectionalMovement`- I recommend setting this to `0` otherwise the movement of your left controller will interfere with the combat as you play. Setting this to `0` will mean you move based on the direction you face your head as opposed to the direction you point your left controller.
+
+![INI Wand Movement](img/INIWandMove.png)
+
+`iHudMenuTextureSize` & `iProjectMenuTextureSize` - Setting both of these to match the resolution of your HMD will make menus appears much clearer in game. Set this to match the *vertical* resolution of your current HMD settings. For example, with a HMD resolution of 5408 x 2736, you would set these to 2736.
+
+![INI HUD Texture Size](img/INIHudTextureSize.png)
+
+![INI Projected Texture Size](img/INIProjectTextureSize.png)
+
+## Pre-Game Launch
+
+**Before launching the game, make sure your VR headset is initialised and both controllers are connected. Launching the game, without both of these conditions met will be a bad time.**
 
 When you first start a new game, you won't find yourself inside of Skyrim anywhere. Instead, you will be inside of the Realm of Lorkhan. This mod replaces the vanilla Skyrim intro, which is known to be extremely buggy, especially in VR. *I'm sure you've seen the vanilla intro already, right?* The Realm of Lorkhan mod is a highly interesting one as it allows you to craft a character that can be allied with factions out of the gate, spawn with all sorts of different equipment and start in many different locations. Have a walk about, see what's around and available to you. Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. You can return to the realm of Lorkhan at any time by re-using any of these crystals. If you don't like the idea of these crystals being spread about Skyrim, you can enable the `Realm of Lorkhan - No Shards Patch` in  the "Gameplay Mods" category. Note, this will make the teleport out of the realm of Lorkhan one way!
 
@@ -128,10 +179,8 @@ The main quest isn't started in the usual way because the vanilla intro to the g
 ## From the Main Menu
 Whilst in the main menu, head down into **Settings** and then **VR Performance** - in this menu, ensure that **Dynamic Resolution** is *NOT* enabled. Leaving it on will cause some very serious blurriness in game.
 
-### Mod Configuration
+## Mod Configuration
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your view, you should calibrate VRIK by using the `VRIK Calibration Power` located in your powers menu. Do this while standing on a flat surface in game. Follow the instructions in the VRIK pop-up dialog to ensure you get this right, otherwise you might find yourself towering over everyone else or way too short. Don't worry about making it absolutely perfect, you can recalibrate at any time. After you've calibrated VRIK, head to the Mod Configuration Menu to start the mod setup.
-
-*Note: I am looking into the automation of these steps so you can dive into gameplay as quick as possible.*
 
 **To setup the Mod Configuration Menu's, read [this page](MCM%20Setup.md) and then return here.**
 
@@ -145,6 +194,7 @@ Some of the other menu's that might pique your interest are:
 * **Simply Balanced** - There are a lot of options in this menu to allow you to really tune the balance of the game. You can make it easier to turn yourself into a god, if you like the high-power kind of playthrough or a lot harder to make it a cruel and punishing playthrough. Whilst the options are standard out of the box, I would recommend you reduce the damage of both archery and melee because of the crazy amount of speed you can have compared to regular Skyrim.
 * **SkyUI VR** - You can customise what shows up on screen, depending on whether or not you like the amount of clutter.
 * **Strike Obstruction Systems** - You can change the visual effects for timed blocks in here because the default spark effect is buggy and doesn't always show.
+* **Conduit** - You can channel your magic through your weapons and when paired with Weapon Throw, it can make for some powerful moves.
 
 ## Controller Bindings
 [Controller bindings can be found here](ControllerBindings.md)
