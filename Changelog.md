@@ -209,3 +209,13 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 78. Grass LODs added
 79. Regenerated LODs
 80. Reran Synthesis
+
+## Tahrovin V0.6
+
+***This update is not save safe!***
+
+1. Improved Grass LODs further - the unsightly colour banding is now solved.
+2. Added Kalilies NPCs v2.4
+3. Merged Pride of Skyrim plugins
+4. Merged Pandorable's NPC replacer plugins
+5. Set the MCM recordings to automatically run
