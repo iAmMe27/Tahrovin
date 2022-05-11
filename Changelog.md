@@ -219,3 +219,11 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 3. Merged Pride of Skyrim plugins
 4. Merged Pandorable's NPC replacer plugins
 5. Set the MCM recordings to automatically run
+
+## Tahrovin V0.6.1
+
+1. Fixed an issue with the DE profile not having the correct plugins enabled
+2. Fixed an issue with FEC and its MCM not appearing
+3. Added an empty folder for RaceMenu presets - put your presets here to use them in-game
+4. Set the MCM recordings back to manual again
+5. Tweaked MCM recording playback
