@@ -67,7 +67,7 @@ I use an Oculus Quest 2 headset with an Oculus link cable for the best potential
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
   * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
   * RAM: 16GB of DDR4
-  * GPU: GTX 1080 *or the AMD equivalent with at least 6GB of VRAM*
+  * GPU: GTX 1660 *or the AMD equivalent with at least 6GB of VRAM*
 
 You will need at least `130GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `52GB`- ideally you want *at least* `200GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
