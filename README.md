@@ -4,7 +4,7 @@ First things first: **this list contains adult content and you must be of legal 
 
 *Support and general talk about Tahrovin resides on the Jolly Co-operators Discord: https://discord.gg/jolly-coop*
 
-[![Ko-fi](img/button.png)](https://ko-fi.com/iamme27)
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Z8Z7CKSPJ)
 
 ## What is Tahrovin?
 Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
@@ -69,7 +69,7 @@ I use an Oculus Quest 2 headset with an Oculus link cable for the best potential
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
   * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
   * RAM: 16GB of DDR4
-  * GPU: GTX 1080 *or the AMD equivalent with at least 6GB of VRAM*
+  * GPU: GTX 1660 *or the AMD equivalent with at least 6GB of VRAM*
 
 You will need at least `130GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `52GB`- ideally you want *at least* `200GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
