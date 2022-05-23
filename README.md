@@ -40,7 +40,9 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [INI Configuration](#ini-configuration)
 - [Pre-Game Launch](#pre-game-launch)
 - [From the Main Menu](#from-the-main-menu)
-- [Mod Configuration](#mod-configuration)
+- [Mod Setup](#mod-setup)
+  - [*THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*](#this-step-is-important-if-you-do-not-do-this-step-your-game-will-not-function-correctly)
+  - [Mods of Interest](#mods-of-interest)
 - [Controller Bindings](#controller-bindings)
 - [Playing in Seated Mode](#playing-in-seated-mode)
 - [FAQ](#faq)
@@ -181,12 +183,17 @@ The main quest isn't started in the usual way because the vanilla intro to the g
 ## From the Main Menu
 Whilst in the main menu, head down into **Settings** and then **VR Performance** - in this menu, ensure that **Dynamic Resolution** is *NOT* enabled. Leaving it on will cause some very serious blurriness in game.
 
-## Mod Configuration
+## Mod Setup
+
+### *THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*
+
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your view, you should calibrate VRIK by using the `VRIK Calibration Power` located in your powers menu. Do this while standing on a flat surface in game. Follow the instructions in the VRIK pop-up dialog to ensure you get this right, otherwise you might find yourself towering over everyone else or way too short. Don't worry about making it absolutely perfect, you can recalibrate at any time. After you've calibrated VRIK, head to the Mod Configuration Menu to start the mod setup.
 
 **To setup the Mod Configuration Menu's, read [this page](MCM%20Setup.md) and then return here.**
 
 Some of the other menu's that might pique your interest are:
+
+### Mods of Interest
 
 * **VRIK** - You can tune your calibration settings in here as well as change things such as offsets and arm lengths.
 * **Weapon Throw VR** - There are a few presets available to you in here, try them out and see which one you prefer.
