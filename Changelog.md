@@ -227,3 +227,58 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 3. Added an empty folder for RaceMenu presets - put your presets here to use them in-game
 4. Set the MCM recordings back to manual again
 5. Tweaked MCM recording playback
+
+## Tahrovin V0.6.2
+
+1. Fixed double broken animations
+
+## Tahrovin V0.6.3
+
+1. Fixed MCM recording playback issues
+
+## Tahrovin V0.7
+
+1. Added Snazzy Furniture and Clutter Overhaul SE v2.1
+2. Added Volcanic Tundra - Heat Wave Effects v1.0
+3. Added ElSopa - HD Keys Redone SE v1.0
+4. Added VR Refit - ElSop - HD Keys Resized v1.0
+5. Added JS Shrines of the Divines SE v1.3
+6. Added RUGNAROK - Special Edition v1.1
+7. Added LUX 2020 Template
+8. Added Alternative VRIK Controller Bindings v1.0
+9. Added Improved Water Performance v1.0
+10. Merged Volumetric Mists ESPs
+11. Merged GDOS ESPs
+12. Created Performance LODs with no grass LODs
+13. Added new INI file that improves all-round performance with no visual quality loss - thank you to Kvitekvist!
+14. Added `Optionals` category
+    1.  Added Arachnophobia - Spiders are Wolves - Chaurus are Bears - No Cobwebs or Eggs v1.4
+    2.  And a Tahrovin specific patch for it
+15. Added NVICO High-Poly NPC Overhaul
+    1.  This is overhaul NPCs not touched by other NPC replacers currently
+16. Added Metalsabers Beautiful Ladies of Skyrim
+    1.  This is overhaul NPCs not touched by other NPC replacers currently
+17. Added VR Perk Extender v2.0
+18. Added Sacrosanct v5.17.0
+19. Added SoS ERF
+    1.  With a custom texture blend
+20. Added MISVR v1.0.2
+21. Added some paintings to the Cozy Tavern additions
+22. Added a few RaceMenu presets and their requirements
+23. Added Serana Dialog Addon v3.0
+    1.  Plus its patches for NFF and RDO
+24. Added Auri and her Lenka replacer
+25. Added Lucien and A Somewhat Faithful Lucien Replacer
+26. Added Inigo
+27. Added Arisha Follower and gave her a custom outfit
+28. Added Snow Follower and gave her a custom outfit
+29. Added Sharkish Piercings - 3BA v1.01
+30. Added Cathedral - 3D Clover Plant (Hybrid) v1.0
+31. Added Blended Roads Redone SE + Bridges v1.5.1
+32. Replaced Cathedral Landscape grass with Veydosebrom Regions
+33. Replaced Cathedral Landscape roads with Blended Roads
+34. Removed Cathedral Landscapes 
+35. Removed Scenery ENB option
+36. Tweaked Locational Damage
+37. Updated moreHUD VR to v1.1.0
+38. Updated CBPC to v1.5.1
