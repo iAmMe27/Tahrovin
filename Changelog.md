@@ -249,7 +249,7 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 9. Added Improved Water Performance v1.0
 10. Merged Volumetric Mists ESPs
 11. Merged GDOS ESPs
-12. Created Performance LODs with no grass LODs
+12. Created Performance LODs
 13. Added new INI file that improves all-round performance with no visual quality loss - thank you to Kvitekvist!
 14. Added `Optionals` category
     1.  Added Arachnophobia - Spiders are Wolves - Chaurus are Bears - No Cobwebs or Eggs v1.4
@@ -282,3 +282,22 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 36. Tweaked Locational Damage
 37. Updated moreHUD VR to v1.1.0
 38. Updated CBPC to v1.5.1
+
+## Tahrovin V0.7.0.1
+
+1. Quick fix for missing Reshade files and SLEN config
+
+## Tahrovin V0.7.1
+1. Updated PLANCK to v0.3
+2. Updated HIGGS to v1.5.6
+3. Updated CBBE to v1.7.1
+4. Removed SOS Uncloaked
+5. Removed Paper UI
+6. Removed Rustic Word Walls
+7. Added Majestic Mountains - Darkside + its DynDOLOD addon
+8. Added Scenery ENB Performance preset + Glamur Reshade tweaked for Scenery
+   1. This is available as a separate option in ENB Organizer
+9. Added (and ported) Skyrim Landscape Overhaul - Stone Walls
+10. Swapped Veydosebrom Regions for Realistic Grass Field
+11. Fixed a landscape seam in Whiterun near the front of Jorvaskr
+12. Improved and regenerated LODs
