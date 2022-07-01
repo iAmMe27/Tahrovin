@@ -75,7 +75,7 @@ Now, I have not built this list to be as graphically intensive as possible but I
   * RAM: 16GB of DDR4
   * GPU: GTX 1660 *or the AMD equivalent with at least 6GB of VRAM*
 
-You will need at least `155GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `60GB`- ideally you want *at least* `230GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+You will need at least `162GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `71GB`- ideally you want *at least* `250GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
 ## Accounts
 In terms of accounts you will need:
