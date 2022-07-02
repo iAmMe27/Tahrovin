@@ -64,7 +64,7 @@ Before you dive in, there's a couple things you need to be sure of first:
 
 ## Hardware Requirements
 I run a relatively powerful PC with the following specs:
-  * CPU: Ryzen 7 5800X
+  * CPU: Ryzen 7 5800X3D
   * RAM: 32GB DDR4 @ 3600MHz
   * GPU: RTX 3090
 
