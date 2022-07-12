@@ -305,6 +305,8 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 
 ## Tahrovin V0.8
 
+*This update will require a new save!*
+
 1. Updated FEC to v5.0.5
 2. Updated iAmMe's Realm of Lorkhan Additions to v1.3
 3. Updated CrashLogger VR to v1.0.0.4
@@ -349,6 +351,6 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 41. Added another piece of eye candy
 42. Merged Lux Patches
 43. Merged DBM Patchers
-   1.  These merges have freed 15 ESP slots for stuff and things
-44. Removed Feminine Argoian Textures
-45. Removed Unique Region Names Synthesis Patcher
+    - These merges have freed 15 ESP slots for stuff and things
+45. Removed Feminine Argoian Textures
+46. Removed Unique Region Names Synthesis Patcher
