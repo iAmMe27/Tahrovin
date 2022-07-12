@@ -288,6 +288,7 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 1. Quick fix for missing Reshade files and SLEN config
 
 ## Tahrovin V0.7.1
+
 1. Updated PLANCK to v0.3
 2. Updated HIGGS to v1.5.6
 3. Updated CBBE to v1.7.1
@@ -301,3 +302,53 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 10. Swapped Veydosebrom Regions for Realistic Grass Field
 11. Fixed a landscape seam in Whiterun near the front of Jorvaskr
 12. Improved and regenerated LODs
+
+## Tahrovin V0.8
+
+1. Updated FEC to v5.0.5
+2. Updated iAmMe's Realm of Lorkhan Additions to v1.3
+3. Updated CrashLogger VR to v1.0.0.4
+4. Updated VR Address Library to v0.36.0
+5. Updated VR FPS Stabiliser to v1.4.3
+6. Updated More Informative Console to v1.0.1
+7. Updated CBPC to v1.5.2
+8. Updated A Clear Map of Skyrim to v3.2
+9. Updated Realm of Lorkhan to v4.0.1
+10. Updated Drop on Death to v0.7
+11. Updated PLANCK to v0.3.1
+12. Updated SprintJumpVR to v1.1.3
+13. Updated Base Object Swapper VR to v1.6.0
+14. Updated Dynamic Things Alternative - Base Object Swapper to v0.2.1
+15. Updated Legacy of the Dragonborn - The Curator's Companion to v6.1.10
+16. Updated Legacy of The Dragonborn - SMIM Chests to v0.3
+17. Updated Cathedral - 3D Mountain Flowers to v2.1
+18. Updated Simplicity of Snow to v0.6.4.1
+19. Updated Happy Little Trees to v1.03
+20. Updated Lightened Skyrim to v1.06
+21. Updated Cathedral Armory to v3.20
+22. Updated Bodyslide and Outfit Studio to v5.6.0
+23. Updated CBBE 3BA to v2.41
+24. Updated Faster HDT-SMP to v1.44
+25. Updated powerofthree's Papyrus Extender to v5.1.1
+26. Updated Papyrus Extender VR to v5.1.1
+27. Updated Frozen Electrocuted Combustion to v5.0.5
+28. Updated FEC VR to v5.0.5
+29. Updated Mysticism to v2.0.10
+30. Updated Spellforge to v2.1
+31. Updated Conduit to v2.4
+32. Updated Project Clarity - Effects to v3.3
+33. Updated Serana Dialogue Addon to v3.0.1.0
+    1.  SDA Patches are now installed from Serana Dialogue Add-On Patch Hub
+34. Updated Embers XD to v2.6.1
+35. Updated Lux Via Resource Pack 
+36. Added Flawn's Argonians Main 4k v1.0
+37. Added Flawn's Argonians CBBE Patch 4k v1.0
+38. Added Flawn's Argonians - Muscles v1.0
+39. Added Flawn's Argonians Overlays v1.0
+40. Added Flawn's Argonians - SOS ERF Patch v1.0
+41. Added another piece of eye candy
+42. Merged Lux Patches
+43. Merged DBM Patchers
+   1.  These merges have freed 15 ESP slots for stuff and things
+44. Removed Feminine Argoian Textures
+45. Removed Unique Region Names Synthesis Patcher
