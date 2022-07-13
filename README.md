@@ -217,7 +217,7 @@ There are a couple of INI tweaks to make to suit your PC and VR headset setup th
 
 ![INI Wand Movement](img/INIWandMove.png)
 
-`iHudMenuTextureSize` & `iProjectMenuTextureSize` - Setting both of these to match the resolution of your HMD will make menus appears much clearer in game. Set this to match the *vertical* resolution of your current HMD settings. For example, with a HMD resolution of 5408 x 2736, you would set these to 2736.
+`iHudMenuTextureSize` & `iProjectedMenuTextureSize` - Setting both of these to match the resolution of your HMD will make menus appears much clearer in game. Set this to match the *vertical* resolution of your current HMD settings. For example, with a HMD resolution of 5408 x 2736, you would set these to 2736.
 
 ![INI HUD Texture Size](img/INIHudTextureSize.png)
 
