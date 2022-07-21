@@ -211,17 +211,16 @@ Nobody wants to be launching their game via multiple clicks, they want to be abl
 Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Skyrim VR from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
 
 ## INI Configuration
-There are a couple of INI tweaks to make to suit your PC and VR headset setup that will make things a little better. From MO2, launch the `INI Config Tool`.
+There are a couple of INI tweaks to make to suit your PC and VR headset setup that will make things a little better. From MO2, click the icon that looks like puzzle pieces and then click `INI Editor`. 
 
-`bUseWandDirectionalMovement`- I recommend setting this to `0` otherwise the movement of your left controller will interfere with the combat as you play. Setting this to `0` will mean you move based on the direction you face your head as opposed to the direction you point your left controller.
+![INIEditor](img/INIEditor.png)
 
-![INI Wand Movement](img/INIWandMove.png)
+In the window that opens, in `skyrimprefs.ini`, set:
 
-`iHudMenuTextureSize` & `iProjectedMenuTextureSize` - Setting both of these to match the resolution of your HMD will make menus appears much clearer in game. Set this to match the *vertical* resolution of your current HMD settings. For example, with a HMD resolution of 5408 x 2736, you would set these to 2736.
+- `bUseWandDirectionalMovement`- I recommend setting this to `0` otherwise the movement of your left controller will interfere with the combat as you play. Setting this to `0` will mean you move based on the direction you face your head as opposed to the direction you point your left controller.
 
-![INI HUD Texture Size](img/INIHudTextureSize.png)
+- `iHudMenuTextureSize` & `iProjectedMenuTextureSize` - Setting both of these to match the resolution of your HMD will make menus appears much clearer in game. Set this to match the *vertical* resolution of your current HMD settings. For example, with a HMD resolution of 5408 x 2736, you would set these to 2736.
 
-![INI Projected Texture Size](img/INIProjectTextureSize.png)
 
 # Pre-Game Launch
 
@@ -245,12 +244,10 @@ When starting a new game, create your character and once done, *DO NOTHING ELSE*
 ## Mods of Interest
 
 * **VRIK** - You can tune your calibration settings in here as well as change things such as offsets and arm lengths.
+* **PLANCK** - Bringing real interactions into Skyrim VR.
 * **Weapon Throw VR** - There are a few presets available to you in here, try them out and see which one you prefer.
-* **Simple Realistic Archery** - You can tweak the options for adding cost and time penalties for bow drawing.
-* **Strange Runes** - Disable the dual casting runes because otherwise they will conflict with the Magic Improvements for Skyrim VR mod.
 * **Spell Wheel VR** - You can change what the spell wheels will show you here as well as the controller binds for showing the spell wheel in the first place.
 * **Simply Balanced** - There are a lot of options in this menu to allow you to really tune the balance of the game. You can make it easier to turn yourself into a god, if you like the high-power kind of playthrough or a lot harder to make it a cruel and punishing playthrough. Whilst the options are standard out of the box, I would recommend you reduce the damage of both archery and melee because of the crazy amount of speed you can have compared to regular Skyrim.
-* **SkyUI VR** - You can customise what shows up on screen, depending on whether or not you like the amount of clutter.
 * **Strike Obstruction Systems** - You can change the visual effects for timed blocks in here because the default spark effect is buggy and doesn't always show.
 * **Conduit** - You can channel your magic through your weapons and when paired with Weapon Throw, it can make for some powerful moves.
 

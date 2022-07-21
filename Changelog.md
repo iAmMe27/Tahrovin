@@ -354,3 +354,8 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
     - These merges have freed 15 ESP slots for stuff and things
 45. Removed Feminine Argoian Textures
 46. Removed Unique Region Names Synthesis Patcher
+
+## Tahrovin V0.8.1
+
+1. Removed Forgiving Friends as it was made redundant by NFF
+2. Saved another 6 ESP slots!
