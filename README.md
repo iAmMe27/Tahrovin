@@ -27,6 +27,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Preparation](#preparation)
     - [Install Microsoft Visual C++ Redistributable Packages](#install-microsoft-visual-c-redistributable-packages)
     - [Setup your Page File](#setup-your-page-file)
+    - [Setup your Shader Cache](#setup-your-shader-cache)
     - [Configuring Steam](#configuring-steam)
     - [Disable Steam Overlay](#disable-steam-overlay)
     - [Set game language to English](#set-game-language-to-english)
@@ -113,6 +114,19 @@ Skyrim modlists need a large amount of memory purely because of the amount of *s
 12. Press OK
 13. Press APPLY and then OK
 14. Restart your PC to apply the pagefile setting
+
+### Setup your Shader Cache
+Driver defaults from NVidia and AMD for shader cache size is limited to 4GB. Being this small can lead to rare crashes in heavily modified Skyrim installs. Increasing the shader cache size is done via the NVidia Control Panel (I assume the same for AMD users is true also but I don't have AMD hardware to check with). 
+
+*These instructions are NVidia specific as it is the hardware I have.*
+
+1. Open the NVidia Control Panel
+2. Head to `Manage 3D Settings`
+3. Scroll down in `Global Settings` to find the `Shader Cache Size` option
+4. Set the Shader Cache to *at least* 10GB
+5. Done
+
+![Shader Cache](img/ShaderCache.png)
 
 ### Configuring Steam
 In both global and game settings within Steam and Oculus settings you must ensure the following is set:
