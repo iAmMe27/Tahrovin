@@ -350,12 +350,103 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 40. Added Flawn's Argonians - SOS ERF Patch v1.0
 41. Added another piece of eye candy
 42. Merged Lux Patches
-43. Merged DBM Patchers
+43. Merged DBM Patches
     - These merges have freed 15 ESP slots for stuff and things
-45. Removed Feminine Argoian Textures
+45. Removed Feminine Argonian Textures
 46. Removed Unique Region Names Synthesis Patcher
 
 ## Tahrovin V0.8.1
 
 1. Removed Forgiving Friends as it was made redundant by NFF
 2. Saved another 6 ESP slots!
+
+## Tahrovin V0.9
+
+1. Added Dynamic Animation Replacer VR v1.1.0a
+2. Added EVG Animation Variance v1.1.0
+3. Added NPC Animation Remix v1.1.0
+4. Added Immersive Folded Hands v1.2.0
+5. Added Gesture Animation Remix v1.1.0
+6. Added Jarl Sitting Animation Replacer - Randomised v1.4
+7. Added Sky Idles v4.4.3
+8.  Added New Vominheim SE v2.05.2
+9.  Added Wyrmstooth v1.19.8
+10. Added Modpocalypse NPCs - Resources v1.03
+11. Added Modpocalypse NPCs - All Vanilla NPCs V3 v1.0
+12. Added Modpocalypse NPCs - All Vanilla NPCs Patches v1.0
+13. Added Modpocalypse NPCs - Wyrmstooth v1.0
+14. Added Modpocalypse NPCs - Dawn of Skyrim v1.0
+15. Added Skyrim VR Refocused v1.0.2 as an optional mod
+16. Added Lux patches for Vominheim and Wyrmstooth
+17. Added Magic Sneak Attacks VR v1.1
+18. Added Wash That Blood Off 2 VR v2.0
+19. Added Whose Quest Is It Anyway v1.3
+20. Added Whose Quest Is It Anyway VR v1.3
+21. Added Enhanced Reanimation SE v1.4
+22. Added Enhanced Reanimation VR v1.4
+23. Added Dialogue Movement Enabler VR v2.2.0
+24. Added Illustrious Whiterun 2k v1.2
+25. Added AutoBody and its VR port
+    1.  This brings OBody style functionality to VR!
+26. Added UIExtentions v1.2
+27. Added Lux Via v1.5.1
+28. Added Lux Orbis v2.6.2
+29. Added Open World Loot v1.3.5
+30. Added Open World Loot Randomized Special Loot v1.2.5
+    1.  Also added necessary OWL patches
+31. Added Simple Mesh Fixes v0.1
+32. Added Splashes of Storms v1.2.0
+33. Added Splashes of Storms VR v1.2.0
+34. Added Pubic Hair Overlays SE
+35. Added Elegant Beauty Stunning Eyes Remastered v2.7
+36. Added Northborn Scars v1.3
+37. Added ED Horns SSE
+38. Added RaceMenu ED Horns
+39. Added Less Ugly Tundragrass v1.0
+40. Added SC - Cubemaps 512 v1.0
+41. Added Clockwork SSE v1.0
+42. Added Clockwork Re-Imagined v1.1
+43. Added Maelstrom v1.02SE
+44. Added Real VR Weathers v1.0
+45. Added Moons and Stars v2.0
+46. Added Moons and Stars VR v2.0
+47. Added Ancient Dwemer Metal v1.01
+48. Added a bunch of xtudo ADM patches
+49. Added Peltapalooza Special Edition
+50. Added Security Overhaul SKSE - Lock Variations v3.1
+51. Added Security Overhaul SKSEVR - Lock Variations VR v3.0
+52. Added a new custom outfit for another potential follower
+53. Swapped RaceMenu High Heel Fixes to Heels Fix v1.3
+54. Made Yamete! an optional mod that is disabled by default
+    1.  See **#tahrovin-additions** for a guide on how to enable this again
+55. All NPCs (except for Serana) are now handled by EasyNPC
+56. Diversified the bodyslide pool to give more variation to NPCs (by that I mean I added a fair few presets)
+57. Updated VR Address Library to v0.40.0
+58. Updated HIGGS to v1.5.8
+59. Updated Drop on Death to v0.8
+60. Updated Sounds of Skyrim to v2.1
+61. Updated Legacy of the Dragonborn to v5.6.4
+62. Updated Legacy of the Dragonborn Patches to v2.9.3
+63. Updated Legacy of the Dragonborn CBBE Patch to v1.0.4
+64. Updated Simplicty of Snow to v0.7
+65. Updated Landscape Fixes for Grass Mods to v5.0
+66. Updated SkyVRaan Water to v1.0.1
+67. Updated CBBE 3BA to v2.43
+69. Updated Papyrus Extender SE to v5.2.0
+70. Updated Papyrus Extender VR to v5.2.0
+71. Updated XP32 Skeleton to v4.81
+72. Updated Spellsiphon to v5.22
+73. Updated Conduit to v2.5
+74. Updated MISVR to v1.2.0
+75. Updated AI Overhaul to v1.8.1
+76. Updated 3DNPC to v4.51
+77. Updated Serana Dialogue Addon to v3.1.0.5
+78. Updated SDA Patch Hub to v1.5
+79. Updated Synthesis to v0.23.7
+80. Updated DynDOLOD 3 to Alpha-95
+81. Updated DynDOLOD Resources to Alpha-28
+82. Removed Botox for Skyrim
+83. Removed Lux Resource Pack
+84. Removed Azurite Weathers
+85. Merged a few small ESPs (mainly game tweaks and QoL fixes) into Tahrovin Tweaks mod
+86. Squashed a few bugs (*please remember to post bugs in #tahrovin-support if you see them!*)
