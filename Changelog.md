@@ -450,3 +450,21 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 84. Removed Azurite Weathers
 85. Merged a few small ESPs (mainly game tweaks and QoL fixes) into Tahrovin Tweaks mod
 86. Squashed a few bugs (*please remember to post bugs in #tahrovin-support if you see them!*)
+
+## Tahrovin V0.9.0.1
+
+1. Fixed DE profile issues
+
+## Tahrovin V0.9.1
+
+1. Added SkyVRaan Water Grass (tweaks the underwater foliage some)
+2. Updated Lux to v5.0
+3. Updated Tahrovin Arachnophobia patch to include new areas
+4. Updated Happy Little Trees to v2.02
+5. Updated Happy Little Tress - DynDOLOD Addon to v2.02
+6. Fixed missing Engine Fixes DLL
+7. Tweaked water textures
+8. Fixed purple LODs
+9. Fixed SoS distribution
+10. Removed Improved Water Performance
+11. Squashed a few more bugs
