@@ -45,7 +45,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [INI Configuration](#ini-configuration)
 - [Pre-Game Launch](#pre-game-launch)
 - [From the Main Menu](#from-the-main-menu)
-- [Mod Setup](#mod-setup)
+- [Mod Setup - THIS STEP HAS RECENTLY CHANGED - PLEASE READ TO THE END!](#mod-setup---this-step-has-recently-changed---please-read-to-the-end)
     - [*THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*](#this-step-is-important-if-you-do-not-do-this-step-your-game-will-not-function-correctly)
   - [Mods of Interest](#mods-of-interest)
   - [Controller Bindings](#controller-bindings)
@@ -247,13 +247,29 @@ The main quest isn't started in the usual way because the vanilla intro to the g
 # From the Main Menu
 Whilst in the main menu, head down into **Settings** and then **VR Performance** - in this menu, ensure that **Dynamic Resolution** is *NOT* enabled. Leaving it on will cause some very serious blurriness in game.
 
-# Mod Setup
+# Mod Setup - THIS STEP HAS RECENTLY CHANGED - PLEASE READ TO THE END!
 
 ### *THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*
 
 When starting a new game, create your character and once done, *DO NOTHING ELSE* and allow the mods to initialise. Once the notifications stop appearing in the top left of your view, you should calibrate VRIK by using the `VRIK Calibration Power` located in your powers menu. Do this while standing on a flat surface in game. Follow the instructions in the VRIK pop-up dialog to ensure you get this right, otherwise you might find yourself towering over everyone else or way too short. Don't worry about making it absolutely perfect, you can recalibrate at any time. After you've calibrated VRIK, head to the Mod Configuration Menu to start the mod setup.
 
-**The MCM setup is automated and will run on its own after you've finished character creation. As mentioned, *DO NOTHING* until the window pops-up telling you to save.**
+The MCM setup is *mostly* automated and will run on its own after you've finished character creation. As mentioned, *DO NOTHING* until the window pops-up telling you to save. As one of the MCM menu's doesn't appear to be compatible with MCM Recorder auto-setting, there is a manual part required to configure it - don't worry, it's only 2 steps!
+
+1. Navigate to the Mod Configuration Menu > SexLab Eager NPCs > General
+
+![SLEN1](img/SLEN1.jpg)
+
+2. Scroll all the way down to the bottom right of the General page and click `Load settings from profile`
+
+![SLEN2](img/SLEN2.jpg)
+
+3. Back out of the SexLab Eager NPCs MCM and scroll down to the VRIK menu > Gesture Config. I recommend the following setup for activating the Autobody menu:
+
+![VRIKGesture](img/VRIKGesture.png)
+
+Configure the gesture to your preference but make it something you aren't likely to accidently do during combat. **Note:** the selected key press must be `Hotkey3` for the gesture to trigger Autobody.
+
+Done! Exit the MCM and save.
 
 ## Mods of Interest
 

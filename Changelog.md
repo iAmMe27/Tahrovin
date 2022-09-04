@@ -468,3 +468,18 @@ Fixed an issue where files were missed in the ENB Organizer folder structure tha
 9. Fixed SoS distribution
 10. Removed Improved Water Performance
 11. Squashed a few more bugs
+
+## Tahrovin V0.9.1.1
+
+Small update to free up ESP slots and fix a couple of issues. Regular profile is at 232 and the DE profile is at 236 ESP's currently. This update should be save safe.
+
+1. Removed LOTD Lighting Mod as its made redundant by Lux
+2. Removed No BS AI Projectile Dodge as its made redundant by Blade and Blunt
+3. Removed Waymark as its made redundant by Lux Via
+4. Merged 5 mods worth of tweaks into Tahrovin Tweaks
+5. Updated PLANCK to v0.4.1
+6. Added PB's Crystal Clear Muscle Maps v1.0
+7. Added Blocking and Flash VR - Block Sparks and Impact Sounds v1.0
+   1. This one's for neochiken :^)
+8. Squashed a few bugs (*please remember to post bugs in #tahrovin-support if you see them!*)
+9.  Changed the VRIK Autobody gesture - READ THE README REGARDING THIS
