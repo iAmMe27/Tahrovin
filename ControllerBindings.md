@@ -1,6 +1,48 @@
 # Controller Bindings
 
+## Oculus Headsets
+
 ![Controller Bindings](img/ControllerBindings.png)
+
+## Valve Index (with the Alternative VRIK Bindings selected)
+
+**Gameplay Bindings**
+
+| **Binding**      | **What it Does**                              |
+|------------------|-----------------------------------------------|
+| Left Thumbstick  | Movement                                      |
+| Left Trigger     | Cast Spell / Power Attack                     |
+| Left A (Press)   | Tween Menu (Inventory / Magic / Map / Skills) |
+| Left A (Hold)    | Draw / Sheathe                                |
+| Left B (Press)   | Wait Menu                                     |
+| Left Grip (Hold) | Sprint                                        |
+|                  |                                               |
+| Right Thumbstick | Turn (L/R), Jump (Up), Sneak (Down)*          |
+| Right Trigger    | Cast Spell / Power Attack                     |
+| Right A          | Activate                                      |
+| Right B          | Shout                                         |
+| Right Grip       | Exit Menu                                     |
+
+**Inventory Bindings**
+
+| **Binding**   | **What it Does**    |
+|---------------|---------------------|
+| Left Trigger  | Equip to left hand  |
+| Left A        | Drop                |
+| Left Grip     | Exit Menu           |
+|               |                     |
+| Right Trigger | Equip to right hand |
+| Right A       | Take single item    |
+| Right B       | Favourite item      |
+| Right Grip    | Item Zoom           |
+
+## WMR Headsets
+For WMR headsets, all bindings are default except...
+
+| **Binding**    | **What it Does**    |
+|----------------|---------------------|
+| Right Touchpad | Shout               |
+| Right Grip     | Interact            |
 
 ## Other Bindings
 There are some other bindings added by mods:
@@ -12,7 +54,7 @@ There are some other bindings added by mods:
 
 ## SexLab VR Controls
 
-These controls only apply when in a SL scene.
+These controls only apply when in a SL scene. The direction indicator means to move your whole hand, not the thumbstick!
 
 * R Thumbstick Click + Left - Previous Scene Stage
 * R Thumbstick Click + Right - Next Scene Stage
