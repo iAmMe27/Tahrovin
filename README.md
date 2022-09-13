@@ -52,9 +52,9 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Playing in Seated Mode](#playing-in-seated-mode)
 - [FAQ](#faq)
   - [Where's my UI?](#wheres-my-ui)
-  - [My companion is stuck on the floor after being "Yamate'd"](#my-companion-is-stuck-on-the-floor-after-being-yamated)
   - [Help I can't see my game!](#help-i-cant-see-my-game)
   - [Is there a way for me to see myself?](#is-there-a-way-for-me-to-see-myself)
+  - [My game won't start even after a fresh install!](#my-game-wont-start-even-after-a-fresh-install)
 - [Updating Tahrovin](#updating-tahrovin)
 - [Uninstalling Tahrovin](#uninstalling-tahrovin)
 - [Thank You's](#thank-yous)
@@ -74,7 +74,7 @@ I use an Oculus Quest 2 headset with an Oculus link cable for the best potential
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
   * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
   * RAM: 16GB of DDR4
-  * GPU: GTX 1660 *or the AMD equivalent with at least 6GB of VRAM*
+  * GPU: RTX 2060 *or the AMD equivalent with at least 6GB of VRAM*
 
 You will need at least `162GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `71GB`- ideally you want *at least* `250GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
@@ -233,7 +233,7 @@ In the window that opens, in `skyrimprefs.ini`, set:
 
 - `bUseWandDirectionalMovement`- I recommend setting this to `0` otherwise the movement of your left controller will interfere with the combat as you play. Setting this to `0` will mean you move based on the direction you face your head as opposed to the direction you point your left controller.
 
-- `iHudMenuTextureSize` & `iProjectedMenuTextureSize` - Setting both of these to match the resolution of your HMD will make menus appears much clearer in game. Set this to match the *vertical* resolution of your current HMD settings. For example, with a HMD resolution of 5408 x 2736, you would set these to 2736.
+- `iHudMenuTextureSize` & `iProjectedMenuTextureSize` - Set to 2048 to get crisper menus. 4096 if you really want to push the boat out.
 
 
 # Pre-Game Launch
@@ -278,7 +278,6 @@ Done! Exit the MCM and save.
 * **Weapon Throw VR** - There are a few presets available to you in here, try them out and see which one you prefer.
 * **Spell Wheel VR** - You can change what the spell wheels will show you here as well as the controller binds for showing the spell wheel in the first place.
 * **Simply Balanced** - There are a lot of options in this menu to allow you to really tune the balance of the game. You can make it easier to turn yourself into a god, if you like the high-power kind of playthrough or a lot harder to make it a cruel and punishing playthrough. Whilst the options are standard out of the box, I would recommend you reduce the damage of both archery and melee because of the crazy amount of speed you can have compared to regular Skyrim.
-* **Strike Obstruction Systems** - You can change the visual effects for timed blocks in here because the default spark effect is buggy and doesn't always show.
 * **Conduit** - You can channel your magic through your weapons and when paired with Weapon Throw, it can make for some powerful moves.
 
 ## Controller Bindings
@@ -291,16 +290,16 @@ The modlist features the `Auto Sneak and Jump` mod which relies on your movement
 # FAQ
 
 ## Where's my UI?
-Raise your left wrist to see your health, stamina and magicka bars. Raise your left hand, palm facing upwards, to activate the compass.
-
-## My companion is stuck on the floor after being "Yamate'd"
-This is a known issue that is caused by the underlying Havok physics engine. You can usually fix them by hitting them with a heal spell - the fix is to cause an animation change on them.
+Raise your left hand, palm facing upwards, to activate the compass. Your stat bars are hidden by default, equip the soul gauges in your inventory and assign them as you wish. When it asks for hand offset, I recommend you set the offset to **3**.
 
 ## Help I can't see my game!
 If you have an ENB selected, give it a few seconds as it takes a short period for the game to render as the ENB does its thing.
 
 ## Is there a way for me to see myself?
 Sure is, raise your right hand above your head and rotate your wrist to turn your character. If you put your right hand down, your character should stay in selfie mode - re-raise your right hand to disable.
+
+## My game won't start even after a fresh install!
+Check in your `Tahrovin\Stock Game` folder for an `openvr_api.dll` file. If this file is not present, your game cannot start. To solve this, copy the `openvr_api.dll` file from your Skyrim VR Steam installation folder into your `Tahrovin\Stock Game` folder and relaunch.
 
 
 # Updating Tahrovin
