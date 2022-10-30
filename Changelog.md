@@ -483,3 +483,24 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
    1. This one's for neochiken :^)
 8. Squashed a few bugs (*please remember to post bugs in #tahrovin-support if you see them!*)
 9.  Changed the VRIK Autobody gesture - READ THE README REGARDING THIS
+
+## Tahrovin V0.9.2
+
+1. Updated SkyVRaan Shimmering VR Waters to v1.5.1
+2. Added some more appearance options
+   1. ie a couple RaceMenu presets and a couple of bodyslide presets
+3. Added Arctal's VRIK Tweaks
+4. Added CBPC VR Action - Reaction
+5. Added new vampire lord form - you'll see it
+6. Added Deadly Spell Impacts
+7. Added Deadly Spell Impacts 4k
+8. Added Spell Sprinkler
+9. Added Voltage
+10. Added Paraphernalia - Realistic Magic
+11. Fixed grass textures to include mipmaps so now grass doesn't look so bad from a distance
+
+## Tahrovin V0.9.2.1
+
+1. Updated Paraphernalia to v5.1
+2. Added Paraphernalia - Strange Runes patch v1.0
+3. Fixed (hopefully) the invisible Werewolves (thank you Cashincreases for the pointers)
