@@ -1,6 +1,6 @@
 ---
 name: Bug report
-about: Report an issue/bug with Tahrovin here.
+about: Report an bug with Tahrovin here. PLEASE DO NOT REPORT INSTALLATION ISSUES.
 title: ''
 labels: ''
 assignees: ''
