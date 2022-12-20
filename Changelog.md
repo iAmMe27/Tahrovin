@@ -504,3 +504,150 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
 1. Updated Paraphernalia to v5.1
 2. Added Paraphernalia - Strange Runes patch v1.0
 3. Fixed (hopefully) the invisible Werewolves (thank you Cashincreases for the pointers)
+
+## Tahrovin V0.9.3
+
+1. Moved Paraphernalia to Risky Mods category
+   1. See the GitHub Wiki page regarding this
+2. Added Recursion Monitor v1.2
+3. Updated VR Address Library to v0.63.0
+4. Updated Crash Logger to v1.3.1
+5. Updated More Nasty Critters to v12.8
+6. Removed UHDAP
+
+## Tahrovin 1.0
+
+1. Added Skyrim 2018
+2. Added Skyrim 20X0 - 2k - v8.4.2
+3. Added Papyrus Tweaks NG
+4. Added Rudy fix for Smoke v1.0
+5. Added Majestic Mountains - Northside
+6. Added FYX - Windhelm Entrance
+7. Added FYX - 3D Honeyside Deck Floor - SMIM
+8. Added FYX - 3D Dock Ramp
+9. Added FYX - 3D Whiterun Scaffold - Gap Reduced
+10. Added FYX - 3D Stockades
+11. Added FYX - 3D Whiterun Tree Circle x Lux Orbis
+12. Added FYX - Candlehearth Hall Chimney
+13. Added FYX - 3D Stockades - Walls and Gate
+14. Added FYX - Windhelm Stable Roof
+15. Added FYX - Smooth Wells
+16. Added FYX - 3D Shack Kit Walls - Collision
+17. Added FYX - 3D Shack Kit Roofs
+18. Added FYX - 3D Solitude SighPost - DockRopes
+19. Added FYX - 3D Whiterun Guard Towers
+20. Added FYX - 3D Whiterun Castle Bridge
+21. Added FYX - Riften Canal and Round Posts
+22. Added FYX - RavenRock Docks and Fences Round Posts
+23. Added FYX - Jorrvaskr
+24. Added FYX - RowBoat
+25. Added PB's Soft Musclemaps
+26. Added Flawn's Argonians Redux
+27. Added Diamond Skin
+28. Added Ordinator v3.8.2
+29. Added Vokriinator v6.8.1
+30. Added Wet Function Redux SE 
+31. Added Wet Function Redux SE - Settings Loader
+32. Added Sink or Swim
+33. Added Sink or Swin NG
+34. Added Mum's The Word NG
+35. Added Bikini Mages Robes
+37. Added Opulent Outfits 4k
+38. Added Fantasy Creature Overlay
+39. Added Fantasy Creature HDT SMP Tails
+40. Added some more Bodyslide presets
+41. Added some more RaceMenu presets - remember to import the Sculpts!
+42. Added Sanguis - An Oblivion Font
+43. Added Frozen in Time - Definitely Not A Snow Elf Waifu Mod
+44. Added Stairs of Skyrim - Windhelm Bridge Stairs
+45. Added Garlic - A Garlic Mod
+47. Added Merge Mapper
+48. Added Whiterun Objects SMIMed (and fixes too)
+49. Added Skyrim Objects SMIMed - Warmaiden's Holes
+50. Added Random Barrel Roll
+51. Added Riften Temple Sconce Fix
+52. Added Fate Cards Remade - Legacy of The Dragonborn
+53. Added Potions Redone
+54. Added Rally's Barrels
+55. Added Rally's Crates
+56. Added Delia Follower
+57. Added Daegon Follower
+58. Added Daegon - A Visual Replacer
+59. Added Dynamic Animation Replacer VR Fix
+60. Added Autumngate
+61. Added Yngol's Spear
+62. Added Rayek's End Revisited
+63. Added SMIM No Dirt Cliff Roots
+64. Updated DynDOLOD
+65. Updated DynDOLOD Resources
+66. Updated Mysticism to v2.1.4
+67. Updated VR Address Library to v0.69.0
+68. Updated Lux Orbis to v3.0
+69. Updated powerofthree's Tweaks to v1.7.5
+70. Updated powerofthree's Tweaks VR to v1.7.5
+71. Updated Spell Perk Item Distributor VR to v6.3.0.1
+72. Updated Face Discoloration Fix VR to v1.0.3
+73. Updated CBPC to v1.5.6
+74. Updated Particle Patch for ENB to v1.1.7
+75. Updated MCM Helper VR to v1.4.0
+76. Updated A Clear Map of Skyrim and Other Worlds to v4.0
+77. Updated Realm of Lorkhan to v4.1
+78. Updated HIGGS to v1.5.11
+79. Updated Arctal's VRIK Tweaks to v1.5
+80. Updated Spell Wheel VR to v1.3.0
+81. Updated Weapon Throw VR to v1.3.5
+82. Updated Dual Wield Block VR to v1.7.0
+83. Updated PLANCK to v0.50
+84. Updated Even Better Quest Objectives SE to v1.9.2
+85. Updated Base Object Swapper VR to v2.5.0
+86. Updated Enhanced Reanimation to v1.5.1
+87. Updated Enhanced Reanimation VR to v1.5.1
+88. Updated Splashes of Storms to v1.3.0
+89. Updated Splashes of Storms VR to v1.3.0
+90. Updated Moons And Stars - Sky Overhaul SKSE to v2.0.2
+91. Updated Security Overhaul SKSE - Lock Variations to v3.2.0
+92. Updated Security Overhaul SKSEVR - Lock Variations VR to v3.2.0
+93. Updated Blocking and Flash VR to v1.01
+94. Updated Legacy of the Dragonborn Patches (Official) to v2.9.5
+95. Updated Legacy of the Dragonborn - The Curator's Companion to v6.1.11
+96. Updated New Vominheim to v2.08
+97. Updated Wyrmstooth to v1.20
+98. Updated Simplicity of Snow to v0.10
+99. Updated Landscape Fixes For Grass Mods to v5.1
+100. Updated Happy Little Trees to v2.03
+101. Updated Happy Little Trees Add-On - DynDOLOD 3 to v2.03
+102. Updated Skyrim Landscape and Water Fixes to v7.3
+103. Updated Heels Fix to v1.4
+104. Updated CBBE 3BA (3BBB) to v2.45
+105. Updated powerofthree's Papyrus Extender to v5.4.0
+106. Updated powerofthree's Papyrus Extender VR to v5.4.0
+107. Updated Frozen Electrocuted Combustion to v5.1.0
+108. Updated Frozen Electrocuted Combustion VR to v5.1.0
+109. Updated Spellsiphon to v5.26
+110. Updated Spellforge to v2.2
+111. Updated Conduit to v2.7
+112. Updated Paraphernalia - Magicka to v6.1.1
+113. Updated Glorious Doors of Skyrim to v1.1
+114. Updated AI Overhaul to v1.8.2
+115. Updated Serana Dialogue Add-On to v3.3.2
+116. Updated Serana Dialogue Add-On Patch Hub to v1.9
+117. Updated Snow Follower to v1.2
+118. Updated Storm Lightning for SSE and VR to 1.4.17
+119. Updated Embers XD to v2.6.8
+120. Updated Lux to v5.2
+121. Updated Skyrim Revamped - Complete Enemy Overhaul to v2.43
+122. Updated Grass Cache Fixes to v1.1
+123. Updated Faster HDT-SMP to v1.49.0
+124. Removed HD Skyrim Overhaul - Better Dirt and Road Textures
+125. Removed Majestic Mountains - Darkside
+126. Removed Flawn's Argonians + CBBE Patch + Futa Patch
+127. Removed Bijin Skin
+128. Removed Lady Bits for Bijin Skin
+129. Removed Yamete v3.2
+130. Removed Kurone Preset Package
+131. Removed Dear Diary VR - Paper SkyUI
+132. Removed Paper UI Sounds
+133. Removed Icy Mesh Remaster
+134. Removed RIS - Icy Mesh Remaster Patch
+135. Regenerated DynDOLOD Outputs
+136. Tweaked Lux settings so that stuff is still somewhat dark where appropriate but it's now possible to see still
