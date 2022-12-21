@@ -651,3 +651,12 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
 134. Removed RIS - Icy Mesh Remaster Patch
 135. Regenerated DynDOLOD Outputs
 136. Tweaked Lux settings so that stuff is still somewhat dark where appropriate but it's now possible to see still
+
+## Tahrovin v1.0.1
+1. Fixed missing optional mods and performance LODs
+
+## Tahrovin v1.0.2
+1. Fixed broken Strings from the Skyrim - Patch.bsa archive
+
+## Tahrovin v1.0.3
+1. Updated More Nasty Critters to v12.8B
