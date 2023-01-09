@@ -2,7 +2,9 @@
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
 
-**Support and general talk about Tahrovin resides on the Jolly Co-operators Discord:**
+***Having issues with the modlist? [FAQ \& Common Issues](#faq--common-issues)***
+
+Support and general talk about Tahrovin resides on the Jolly Co-operators Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
 
@@ -12,9 +14,6 @@ First things first: **this list contains adult content and you must be of legal 
 # What is Tahrovin?
 Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
 
-[Here's a link to Load Order Library with a list of the mods included.](https://loadorderlibrary.com/lists/tahrovin-regular-profile)
-
-[Here's the load order for the Degeneracy Edition profile.](https://loadorderlibrary.com/lists/tahrovin-v08-degeneracy-edition)
 
 
 # Quick Links
@@ -42,19 +41,27 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Stock Game](#stock-game)
   - [ENB Selection](#enb-selection)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
-  - [INI Configuration](#ini-configuration)
 - [Pre-Game Launch](#pre-game-launch)
-- [From the Main Menu](#from-the-main-menu)
 - [Mod Setup - THIS STEP HAS RECENTLY CHANGED - PLEASE READ TO THE END!](#mod-setup---this-step-has-recently-changed---please-read-to-the-end)
     - [*THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*](#this-step-is-important-if-you-do-not-do-this-step-your-game-will-not-function-correctly)
-  - [Mods of Interest](#mods-of-interest)
+  - [Now go read the Gameplay Guide](#now-go-read-the-gameplay-guide)
   - [Controller Bindings](#controller-bindings)
-  - [Playing in Seated Mode](#playing-in-seated-mode)
-- [FAQ](#faq)
+- [FAQ \& Common Issues](#faq--common-issues)
+  - [My game won't start even after a fresh install!](#my-game-wont-start-even-after-a-fresh-install)
+  - [I get an OpenComposite error when launching the game?](#i-get-an-opencomposite-error-when-launching-the-game)
+  - [I Crashed!](#i-crashed)
   - [Where's my UI?](#wheres-my-ui)
   - [Help I can't see my game!](#help-i-cant-see-my-game)
   - [Is there a way for me to see myself?](#is-there-a-way-for-me-to-see-myself)
-  - [My game won't start even after a fresh install!](#my-game-wont-start-even-after-a-fresh-install)
+  - [How do I change my or an NPC's body?](#how-do-i-change-my-or-an-npcs-body)
+  - [Playing in Seated Mode](#playing-in-seated-mode)
+  - [IT'S TOO DARK](#its-too-dark)
+  - [CAN YOU MAKE IT BRIGHTER/CAN YOU MAKE IT EASIER?](#can-you-make-it-brightercan-you-make-it-easier)
+  - [My performance is really bad!](#my-performance-is-really-bad)
+  - [Loading takes too long!](#loading-takes-too-long)
+  - [I have grey hands/Vive wands in game!](#i-have-grey-handsvive-wands-in-game)
+  - [I can't move!](#i-cant-move)
+  - [Can I add XYZ?](#can-i-add-xyz)
 - [Updating Tahrovin](#updating-tahrovin)
 - [Uninstalling Tahrovin](#uninstalling-tahrovin)
 - [Thank You's](#thank-yous)
@@ -224,28 +231,9 @@ Nobody wants to be launching their game via multiple clicks, they want to be abl
 
 Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Skyrim VR from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
 
-## INI Configuration
-There are a couple of INI tweaks to make to suit your PC and VR headset setup that will make things a little better. From MO2, click the icon that looks like puzzle pieces and then click `INI Editor`. 
-
-![INIEditor](img/INIEditor.png)
-
-In the window that opens, in `skyrimprefs.ini`, set:
-
-- `bUseWandDirectionalMovement`- I recommend setting this to `0` otherwise the movement of your left controller will interfere with the combat as you play. Setting this to `0` will mean you move based on the direction you face your head as opposed to the direction you point your left controller.
-
-- `iHudMenuTextureSize` & `iProjectedMenuTextureSize` - Set to 2048 to get crisper menus. 4096 if you really want to push the boat out.
-
-
 # Pre-Game Launch
 
 **Before launching the game, make sure your VR headset is initialised and both controllers are connected. Launching the game, without both of these conditions met will be a bad time.**
-
-When you first start a new game, you won't find yourself inside of Skyrim anywhere. Instead, you will be inside of the Realm of Lorkhan. This mod replaces the vanilla Skyrim intro, which is known to be extremely buggy, especially in VR. *I'm sure you've seen the vanilla intro already, right?* The Realm of Lorkhan mod is a highly interesting one as it allows you to craft a character that can be allied with factions out of the gate, spawn with all sorts of different equipment and start in many different locations. Have a walk about, see what's around and available to you. Once you teleport at one of the crystals, you'll be dumped into Skyrim in the place you chose. You can return to the realm of Lorkhan at any time by re-using any of these crystals. 
-
-The main quest isn't started in the usual way because the vanilla intro to the game has been replaced. To start the main quest, grab the Dragonstone from Bleak Falls Barrow or talk to Jarl Balgruuf in Whiterun.
-
-# From the Main Menu
-Whilst in the main menu, head down into **Settings** and then **VR Performance** - in this menu, ensure that **Dynamic Resolution** is *NOT* enabled. Leaving it on will cause some very serious blurriness in game.
 
 # Mod Setup - THIS STEP HAS RECENTLY CHANGED - PLEASE READ TO THE END!
 
@@ -271,23 +259,35 @@ Configure the gesture to your preference but make it something you aren't likely
 
 Done! Exit the MCM and save.
 
-## Mods of Interest
-
-* **VRIK** - You can tune your calibration settings in here as well as change things such as offsets and arm lengths.
-* **PLANCK** - Bringing real interactions into Skyrim VR.
-* **Weapon Throw VR** - There are a few presets available to you in here, try them out and see which one you prefer.
-* **Spell Wheel VR** - You can change what the spell wheels will show you here as well as the controller binds for showing the spell wheel in the first place.
-* **Simply Balanced** - There are a lot of options in this menu to allow you to really tune the balance of the game. You can make it easier to turn yourself into a god, if you like the high-power kind of playthrough or a lot harder to make it a cruel and punishing playthrough. Whilst the options are standard out of the box, I would recommend you reduce the damage of both archery and melee because of the crazy amount of speed you can have compared to regular Skyrim.
-* **Conduit** - You can channel your magic through your weapons and when paired with Weapon Throw, it can make for some powerful moves.
+## Now go read the Gameplay Guide
+[Right here](Gameplay%20Guide.md)
 
 ## Controller Bindings
 [Controller bindings can be found here](ControllerBindings.md)
 
-## Playing in Seated Mode
-The modlist features the `Auto Sneak and Jump` mod which relies on your movement in real life to jump and crouch, therefore making it not very useful to you if you prefer to play in seated mode. Unless you'd like to try sneaking everywhere you go, you should be fine to disable this mod from the "Gameplay Mods" section in MO2.
 
+# FAQ & Common Issues
 
-# FAQ
+## My game won't start even after a fresh install!
+Check in your `Tahrovin\Stock Game` folder for an `openvr_api.dll` file. If this file is not present, your game cannot start. To solve this, copy the `openvr_api.dll` file from your Skyrim VR Steam installation folder into your `Tahrovin\Stock Game` folder and relaunch.
+
+When using ENB Organizer, **always** disable an option *then* enable another. Not doing this will mess up the files.
+
+## I get an OpenComposite error when launching the game?
+Like this?
+
+![](https://i.imgur.com/3zYQXNz.png)
+
+If you are getting an error message like the screenshot when launching the game, you have OpenComposite enabled for a non-Oculus headset or you are using VirtualDesktop. Disable OpenComposite, enable SteamVR.
+
+## I Crashed!
+Giving me that little info is not helpful. 
+
+Make sure you excluded your Tahrovin folder in your antivirus software. If you use an aggressive antivirus package such as Webroot, Bitdefender, Avast etc etc, I urge you to get rid of it and just use Windows Defender.
+
+Please upload (drag and drop the file into the `#tahrovin-support` Discord channel) the most recent crash log from your `Documents\My Games\Skyrim VR\SKSE` folder.
+
+If you have modified Tahrovin, ignore the previous advice and keep to the `#tahrovin-modifications` Discord channel. I will not help you with modified lists in official support categories - less because I don't want to and more because I cannot.
 
 ## Where's my UI?
 Raise your left hand, palm facing upwards, to activate the compass. Your stat bars are hidden by default, equip the soul gauges in your inventory and assign them as you wish. When it asks for hand offset, I recommend you set the offset to **3**.
@@ -296,11 +296,40 @@ Raise your left hand, palm facing upwards, to activate the compass. Your stat ba
 If you have an ENB selected, give it a few seconds as it takes a short period for the game to render as the ENB does its thing.
 
 ## Is there a way for me to see myself?
-Sure is, raise your right hand above your head and rotate your wrist to turn your character. If you put your right hand down, your character should stay in selfie mode - re-raise your right hand to disable.
+Raise your right hand above your head and rotate your wrist to turn your character. If you put your right hand down, your character should stay in selfie mode - re-raise your right hand to disable.
 
-## My game won't start even after a fresh install!
-Check in your `Tahrovin\Stock Game` folder for an `openvr_api.dll` file. If this file is not present, your game cannot start. To solve this, copy the `openvr_api.dll` file from your Skyrim VR Steam installation folder into your `Tahrovin\Stock Game` folder and relaunch.
+## How do I change my or an NPC's body?
+Autobody. Default VRIK gesture is Right Thumbstick click + Controller Down. Want to change the Autobody gesture? [Read this.](https://github.com/iAmMe27/Tahrovin/wiki/Changing-Autobody-Hotkey)
 
+## Playing in Seated Mode
+Tahrovin features the `Auto Sneak and Jump` mod which relies on your movement in real life to jump and crouch, therefore making it not very useful to you if you prefer to play in seated mode. Unless you'd like to try sneaking everywhere you go, you should be fine to disable this mod from the "Gameplay Mods" section in MO2.
+
+## IT'S TOO DARK
+No it isn't - stop turning off Glamur (or one of the other ENBs) and open your eyes.
+
+## CAN YOU MAKE IT BRIGHTER/CAN YOU MAKE IT EASIER?
+![](https://i.imgur.com/49oW4CD.png)
+
+## My performance is really bad!
+Your CPU or GPU is too weak. Or, you don't have XMP enabled for your RAM.
+
+If you ignored the minimum specifications I wrote near the top of this readme, that's on you.
+
+## Loading takes too long!
+Shouldn't have put the modlist on a HDD - I did warn you earlier in this very readme.
+
+## I have grey hands/Vive wands in game!
+Create a new file in the Stock Game folder and name it `opencomposite.ini`. In that file, write a single line consisting of:
+
+`admitUnknownProps=true`
+
+Save, close, relaunch game.
+
+## I can't move!
+You started Tahrovin before making sure your controllers were connected. Restart the game.
+
+## Can I add XYZ?
+I don't know, can you?
 
 # Updating Tahrovin
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
@@ -308,6 +337,7 @@ When an update is released, please always check the [changelog](Changelog.md) fi
 If you have added anything to this modlist at all, Wabbajack will also delete those. You should know how to stop it from doing this if you're going to add stuff to modlists but if you don't, you have to prepend your mod name with `[NoDelete]` - this will make Wabbajack ignore these files. You will need to reinstall these mods and re-sort their load order after an update though, so I hope you kept backup information on where they went in the load order!
 
 All that aside, updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
+
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
