@@ -15,7 +15,6 @@ Support and general talk about Tahrovin resides on the Jolly Co-operators Discor
 Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
 
 
-
 # Quick Links
 - [What is Tahrovin?](#what-is-tahrovin)
 - [Quick Links](#quick-links)
@@ -41,8 +40,9 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Stock Game](#stock-game)
   - [ENB Selection](#enb-selection)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
+  - [Swapping between SteamVR and OpenComposite Binaries](#swapping-between-steamvr-and-opencomposite-binaries)
 - [Pre-Game Launch](#pre-game-launch)
-- [Mod Setup - THIS STEP HAS RECENTLY CHANGED - PLEASE READ TO THE END!](#mod-setup---this-step-has-recently-changed---please-read-to-the-end)
+- [Mod Setup](#mod-setup)
     - [*THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*](#this-step-is-important-if-you-do-not-do-this-step-your-game-will-not-function-correctly)
   - [Now go read the Gameplay Guide](#now-go-read-the-gameplay-guide)
   - [Controller Bindings](#controller-bindings)
@@ -206,17 +206,7 @@ ENB Organizer will then launch. If you see an error message regarding a failure 
 
 ![ENB Organizer 1](img/ENBOrganizer00.png)
 
-Click the hamburger menu at the top left of the program and navigate to the Binaries window.
-
-![ENB Organizer 2](img/ENBOrganizerBinaries.png)
-
-In this screen, toggle the ENB Binaries if you wish to use an ENB Preset. For Oculus headsets, I recommend disabling SteamVR files and the enabling OpenComposite.
-
-*Note: you don't need the ENB binaries for the Glamur Reshade preset*
-
-![ENB Organizer 3](img/ENBOrganizerBinToggle.png)
-
-After toggling both binaries, click the hamburger menu again and navigate to the Presets window.
+Click the hamburger menu again and navigate to the Presets window.
 
 ![ENB Organizer 4](img/ENBOrganizer01.png)
 
@@ -231,11 +221,22 @@ Nobody wants to be launching their game via multiple clicks, they want to be abl
 
 Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Skyrim VR from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
 
+## Swapping between SteamVR and OpenComposite Binaries
+As of Tahrovin v1.0.4, I have included a custom made tool that makes swapping between SteamVR and OpenComposite binaries extremely foolproof and as easy as a single button press.
+
+From MO2, select the OC Swapper option and click Run
+
+![](img/OCSwapper1.png)
+
+Once OC Swapper launches, the interface is extremely self-explanatory and will tell you which binaries you are currently using. The button in the centre swaps between the 2 different options when pressed. Note: OC Swapper hashes the DLL files when launched so it can tell if you swapped the binaries over outside of OC Swapper's control.
+
+![](img/OCSwapper2.png)
+
 # Pre-Game Launch
 
 **Before launching the game, make sure your VR headset is initialised and both controllers are connected. Launching the game, without both of these conditions met will be a bad time.**
 
-# Mod Setup - THIS STEP HAS RECENTLY CHANGED - PLEASE READ TO THE END!
+# Mod Setup
 
 ### *THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*
 

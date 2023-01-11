@@ -660,3 +660,12 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
 
 ## Tahrovin v1.0.3
 1. Updated More Nasty Critters to v12.8B
+
+## Tahrovin v1.0.4
+1. Updated VR Address Library to v0.70.0
+2. Added UpscalerBasePlugin v1.0.7.1
+3. Added Skyrim VR Upscaler v1.0.3
+4. Updated SkyrimVR ENB Binaries to v458
+5. Added OC Swapper - a custom written tool for handling changeover between SteamVR and OpenComposite DLL's
+6. Removed VRPerfKit for now as it's incompatible with DLSS
+7. Swapped to a single set of LODs without grass LODs for better performance overall.
