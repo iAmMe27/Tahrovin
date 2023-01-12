@@ -42,6 +42,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
   - [Swapping between SteamVR and OpenComposite Binaries](#swapping-between-steamvr-and-opencomposite-binaries)
 - [Pre-Game Launch](#pre-game-launch)
+  - [DLSS/FSR/XeSS](#dlssfsrxess)
 - [Mod Setup](#mod-setup)
     - [*THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*](#this-step-is-important-if-you-do-not-do-this-step-your-game-will-not-function-correctly)
   - [Now go read the Gameplay Guide](#now-go-read-the-gameplay-guide)
@@ -235,6 +236,12 @@ Once OC Swapper launches, the interface is extremely self-explanatory and will t
 # Pre-Game Launch
 
 **Before launching the game, make sure your VR headset is initialised and both controllers are connected. Launching the game, without both of these conditions met will be a bad time.**
+
+## DLSS/FSR/XeSS
+
+If you have an AMD GPU, you will need to swap the remove the DLSS DLL file and swap with an FSR DLL file (or an Intel XeSS DLL but that isn't recommended). You can find links to download the necessary DLLs on the [UpscalerBasePlugin mod page](https://www.nexusmods.com/site/mods/502).
+
+Download the appropriate DLL for your system and place it in `Tahrovin\Stock Game\Data\UpscalerBasePlugin` folder.
 
 # Mod Setup
 
