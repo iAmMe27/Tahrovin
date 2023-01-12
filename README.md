@@ -239,7 +239,7 @@ Once OC Swapper launches, the interface is extremely self-explanatory and will t
 
 ## DLSS/FSR/XeSS
 
-If you have an AMD GPU, you will need to swap the remove the DLSS DLL file and swap with an FSR DLL file (or an Intel XeSS DLL but that isn't recommended). You can find links to download the necessary DLLs on the [UpscalerBasePlugin mod page](https://www.nexusmods.com/site/mods/502).
+If you have an AMD GPU, you will need to remove the DLSS DLL file and swap with an FSR DLL file (or an Intel XeSS DLL but that isn't recommended). You can find links to download the necessary DLLs on the [UpscalerBasePlugin mod page](https://www.nexusmods.com/site/mods/502).
 
 Download the appropriate DLL for your system and place it in `Tahrovin\Stock Game\Data\UpscalerBasePlugin` folder.
 
