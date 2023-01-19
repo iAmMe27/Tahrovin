@@ -62,6 +62,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Loading takes too long!](#loading-takes-too-long)
   - [I have grey hands/Vive wands in game!](#i-have-grey-handsvive-wands-in-game)
   - [I can't move!](#i-cant-move)
+  - [I CTD on launch!](#i-ctd-on-launch)
   - [Can I add XYZ?](#can-i-add-xyz)
 - [Updating Tahrovin](#updating-tahrovin)
 - [Uninstalling Tahrovin](#uninstalling-tahrovin)
@@ -239,9 +240,11 @@ Once OC Swapper launches, the interface is extremely self-explanatory and will t
 
 ## DLSS/FSR/XeSS
 
-If you have an AMD GPU, you will need to remove the DLSS DLL file and swap with an FSR DLL file (or an Intel XeSS DLL but that isn't recommended). You can find links to download the necessary DLLs on the [UpscalerBasePlugin mod page](https://www.nexusmods.com/site/mods/502).
+If you have an AMD or Intel GPU, you will need to remove the DLSS DLL file and swap with an FSR DLL file (or an Intel XeSS DLL but that isn't recommended). You can find links to download the necessary DLLs on the [UpscalerBasePlugin mod page](https://www.nexusmods.com/site/mods/502).
 
 Download the appropriate DLL for your system and place it in `Tahrovin\Stock Game\Data\UpscalerBasePlugin` folder.
+
+If you have a GTX type Nvidia GPU, **you will need to disable the UpscalerBasePlugin!** Failing to do so will CTD your game on launch.
 
 # Mod Setup
 
@@ -335,6 +338,13 @@ Save, close, relaunch game.
 
 ## I can't move!
 You started Tahrovin before making sure your controllers were connected. Restart the game.
+
+## I CTD on launch!
+Well, that could be a multitude of things. Make sure you Tahrovin folder is added to your antivirus exceptions/allow list and try again.
+
+If you have some heavily aggressive antivirus program such as Webroot, Bitdefender etc, get rid of it.
+
+If you have a non-RTX Nvidia GPU, I ask you to refer to the [DLSS/FSR/XeSS](#dlssfsrxess) section again.
 
 ## Can I add XYZ?
 I don't know, can you?
