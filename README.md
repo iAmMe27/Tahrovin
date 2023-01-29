@@ -242,7 +242,7 @@ Once OC Swapper launches, the interface is extremely self-explanatory and will t
 
 If you have an AMD or Intel GPU, you will need to remove the DLSS DLL file and swap with an FSR DLL file (or an Intel XeSS DLL but that isn't recommended). You can find links to download the necessary DLLs on the [UpscalerBasePlugin mod page](https://www.nexusmods.com/site/mods/502).
 
-Download the appropriate DLL for your system and place it in `Tahrovin\Stock Game\Data\UpscalerBasePlugin` folder.
+To swap the DLL file over, navigate to `Tahrovin\Stock Game\Data\UpscalerBasePlugin`, remove the `nvgx_dlss.dll` file and copy the DLL out of the FSR folder so it is next to the `PDPerfPlugin.dll` file. Once that is done, head into MO2 and find `Skyrim VR Upscaler` in the Essentials category, double click it, head across to `INI Files` in the top menu bar and edit the `SkyrimUpscaler.ini` file. Change the line `mUpscaleType` to FSR.
 
 If you have a GTX type Nvidia GPU, **you will need to disable the UpscalerBasePlugin!** Failing to do so will CTD your game on launch.
 
