@@ -669,3 +669,15 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
 5. Added OC Swapper - a custom written tool for handling changeover between SteamVR and OpenComposite DLL's
 6. Removed VRPerfKit for now as it's incompatible with DLSS
 7. Swapped to a single set of LODs without grass LODs for better performance overall.
+
+## Tahrovin v1.0.4.1
+1. Corrected DLSS DLL so that it no longer prints the debug string in your vision
+
+## Tahrovin v1.0.4.2
+1. Introduced the `I have more GPU than brain cells` profile
+   1. Note: you will not get good performance out of this profile - it is designed to look pretty and nothing else. Don't forget to enable the ENB!
+2. Swapped Diamond Skin for BnP
+   1. Reinstall BnP for a bunch of customisation options
+3. Updated Papyrus Tweaks
+4. Updated Daegon to v1.3.8
+5. Hopefully fixed the meta file for the UpscalerBasePlugin downloads

@@ -244,7 +244,7 @@ If you have an AMD or Intel GPU, you will need to remove the DLSS DLL file and s
 
 To swap the DLL file over, navigate to `Tahrovin\Stock Game\Data\UpscalerBasePlugin`, remove the `nvgx_dlss.dll` file and copy the DLL out of the FSR folder so it is next to the `PDPerfPlugin.dll` file. Once that is done, head into MO2 and find `Skyrim VR Upscaler` in the Essentials category, double click it, head across to `INI Files` in the top menu bar and edit the `SkyrimUpscaler.ini` file. Change the line `mUpscaleType` to FSR.
 
-If you have a GTX type Nvidia GPU, **you will need to disable the UpscalerBasePlugin!** Failing to do so will CTD your game on launch.
+If you have a GTX type Nvidia GPU, **you will need to swap to FSR to use the UpscalerBasePlugin!** Failing to do so will CTD your game on launch.
 
 # Mod Setup
 
