@@ -39,6 +39,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
 - [Post-Installation](#post-installation)
   - [Stock Game](#stock-game)
   - [ENB Selection](#enb-selection)
+  - [Skyrim VR Upscaler Selection](#skyrim-vr-upscaler-selection)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
   - [Swapping between SteamVR and OpenComposite Binaries](#swapping-between-steamvr-and-opencomposite-binaries)
 - [Pre-Game Launch](#pre-game-launch)
@@ -200,21 +201,18 @@ As mentioned earlier, in both global and game settings within Steam and Oculus s
   * Supersampling is *OFF*
   * Render Resolution to 100% (1.0 if you're looking at Oculus settings)
 
-Choosing your ENB is simple and doesn't involve jumping into the game files to manually move stuff about either. In MO2, from the dropdown, select `Essential Files & ENB` and then the run button.
+Choosing your ENB is simple and doesn't involve jumping into the game files to manually move stuff about either. In MO2, find the `ENB and Reshade Stuff` separator and expand it. From here, you can choose your ENB or Reshade preset.
+
+**Don't enable ENB binaries alongside any Reshade presets!**
 
 ![MO2 Selection](img/MO2Selection.png)
 
-ENB Organizer will then launch. If you see an error message regarding a failure to connect to Nexus Mods for updates, click the OK button.
+## Skyrim VR Upscaler Selection
+Like in the previous section, Skyrim VR Upscaler options are found in MO2 under the `Skyrim VR Upscaler` separator. 
 
-![ENB Organizer 1](img/ENBOrganizer00.png)
+Remember, AMD and non-RTX GPU's must use **FSR** and not DLSS or DLAA.
 
-Click the hamburger menu again and navigate to the Presets window.
-
-![ENB Organizer 4](img/ENBOrganizer01.png)
-
-From this screen, you can choose the ENB of your choice. I'd recommend that you check out the presets pages on Nexus for previews to see which one takes your interest the most. Once you've picked whichever preset you like, click the `SYNC` button.
-
-![ENB Organizer 4](img/ENBOrganizer02.png)
+![Upscaler Selection](img/UpscalerSelection.png)
 
 ## Creating a desktop shortcut
 Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **Tahrovin** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
@@ -240,11 +238,7 @@ Once OC Swapper launches, the interface is extremely self-explanatory and will t
 
 ## DLSS/FSR/XeSS
 
-If you have an AMD or Intel GPU, you will need to remove the DLSS DLL file and swap with an FSR DLL file (or an Intel XeSS DLL but that isn't recommended). You can find links to download the necessary DLLs on the [UpscalerBasePlugin mod page](https://www.nexusmods.com/site/mods/502).
-
-To swap the DLL file over, navigate to `Tahrovin\Stock Game\Data\UpscalerBasePlugin`, remove the `nvgx_dlss.dll` file and copy the DLL out of the FSR folder so it is next to the `PDPerfPlugin.dll` file. Once that is done, head into MO2 and find `Skyrim VR Upscaler` in the Essentials category, double click it, head across to `INI Files` in the top menu bar and edit the `SkyrimUpscaler.ini` file. Change the line `mUpscaleType` to FSR.
-
-If you have a GTX type Nvidia GPU, **you will need to swap to FSR to use the UpscalerBasePlugin!** Failing to do so will CTD your game on launch.
+Refer to the [Skyrim VR Upscaler](#skyrim-vr-upscaler-selection) section.
 
 # Mod Setup
 

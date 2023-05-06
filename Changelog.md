@@ -681,3 +681,88 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
 3. Updated Papyrus Tweaks
 4. Updated Daegon to v1.3.8
 5. Hopefully fixed the meta file for the UpscalerBasePlugin downloads
+
+## Tahrovin v1.0.4.3
+1. Fixed an issue that prevented the list from booting
+
+## Tahrovin v1.0.4.4
+1. Swapped to Cathedral Weathers
+2. Removed Real VR Weathers
+3. Defaulted to the Rudy Cathedral ENB
+4. Removed Realistic Grass Field
+5. Added Midsummer Grass
+6. Added Cathedral - 3D Pine Grass
+7. Defaulted the Skyrim VR Upscaler to DLAA mode (this can still be changed to DLSS/FSR mode as you need)
+8. Fixed the ENB Binaries not automatically downloading
+9. Updated Papyrus Tweaks NG to v4.1.0
+10. Updated PLANCK to v0.5.1
+
+## Tahrovin v1.0.5
+1. Returned Real VR Weathers + Glamur Reshade to the first 2 profiles
+2. Updated CBBE 3BA to v2.47
+   1. Also set the CBPC INI to limited performance
+3. Added Breton NPCs Have Elven Ears
+4. Added Vampires Have Claws
+5. Added ProjectedDiffuse Patch - Hyperborean Snow 2k v1.0
+6. Merged SoS Addon ESPs
+7. Updated DynDOLOD Resources SE to Alpha-34
+8. Updated Engine Fixes VR to v1.23a
+9. Updated powerofthree's Tweaks to v1.8.0
+10. Updated powerofthree's Tweaks VR to v1.8.0
+10. Updated Spell Perk Item Distributor VR to v6.4.0
+11. Updated CrashLogger to v1.8.0
+12. Updated VR Address Library to v0.89.0
+13. Updated Particle Patch for ENB to v1.2.3
+14. Updated Grass FPS Booster to v6.5
+15. Updated HIGGS to v1.6.1
+16. Updated Spell Wheel VR to v1.4.3
+17. Updated Weapon Throw VR to v1.3.7
+18. Updated Haptic Skyrim VR to v1.7.3
+19. Updated Base Object Swapper VR to v2.5.1
+20. Updated Wearable Health bars - Soul Gauge to v1.6
+21. Updated NPC Animation Remix (DAR) to v1.4.0
+22. Updated Legacy of the Dragonborn to v5.6.5
+23. Updated Legacy of the Dragonborn Patches to v2.9.8
+24. Updated Legacy of the Dragonborn - The Curator's Companion to v6.2.3
+25. Updated New Vominheim to v2.12.10
+26. Updated Skyrim Landscape and Water Fixes to v7.7
+27. Updated Skyrim 2018 to v1.7
+28. Updated Snazzy Furniture and Clutter Overhaul SE to v2.2
+29. Updated FYX - 3D Solitude SighPost to v1.0.5
+30. Updated FYX - Jorrvaskr to v1.0.4
+31. Updated FYX - RowBoat to v1.0.4
+32. Updated ElSopa - Potions Redone to v1.1
+33. Updated Rally's Crates to v1.2
+34. Updated Heels Fix to v1.6.2
+35. Updated Faster HDT-SMP to v1.50-rc1
+36. Updated BnP female skin to v1.8
+37. Updated Papyrus Extender to v5.5.0
+38. Updated Papyrus Extender VR to v5.5.0
+39. Updated Frozen Electrocuted Combustion VR to v5.1.0.3
+40. Updated Spellsiphon to v5.27
+41. Updated Mysticism to v2.2.3
+42. Updated Vokriinator to v6.13.0
+43. Updated Spellforge to v2.3
+44. Updated AI Overhaul to v1.8.3
+45. Updated Elven Ears for Breton NPCs to v1.2
+46. Updated Vampires have Claws to v1.2
+47. Updated SDA Patch Hub to v1.9.1
+48. Updated Song Of The Green to v1.4
+49. Updated Daegon to v1.4.3.3
+50. Updated Lux to v6.0.3
+51. Updated Lux Via to v1.6
+52. Updated Lux Orbis to v3.2
+53. Updated Embers XD to v2.7.3
+54. Updated My Lovely Follower Asset Pack to v1.3
+55. Updated Nyr Luxury - 3BA Body Preset to v1.1
+56. Updated Majestic Mountains - Simplicity of Snow Patch to v1.1a
+57. Updated download link for FSR 2.2
+
+## Tahrovin v1.0.5.1
+1. Added a fix for the oversized inventory potions
+2. Fixed some load order issues for the 3rd profile
+
+## Tahrovin v1.0.6
+1. Added Root Builder to MO2
+2. Migrated ENB and Upscaler stuff to MO2 managed mods using Root Builder
+3. Updated xLODGen download link
