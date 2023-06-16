@@ -766,3 +766,35 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
 1. Added Root Builder to MO2
 2. Migrated ENB and Upscaler stuff to MO2 managed mods using Root Builder
 3. Updated xLODGen download link
+
+## Tahrovin v1.0.6.1
+1. Updated download link for MoreNastyCreatures to allow installation again
+
+## Tahrovin v1.0.7
+1. Removed Yngol's Spear
+2. Added Steeds of Ultima VR
+3. Added Open Animation Replacer in place of DAR
+4. Added Bad Dog Hoodies SSE to Degeneracy Edition
+4. Fixed Auri
+5. Updated DynDOLOD to Alpha 128
+6. Updated DynoDOLOD Resources to Alpha 37
+7. Updated Spell Perk Item Distributor (SPID) VR to v6.6.1
+8. Updated VR Address Library for SKSEVR to v0.98.0
+9. Updated VR FPS Stabilizer to v1.4.5
+10. Updated MergeMapper to v1.5.0
+11. Updated Spell Wheel VR to v1.4.5
+12. Updated Weapon Throw VR to v1.3.10
+13. Updated New Vominheim to v2.15
+14. Updated Simplicity of Snow to v0.11
+15. Updated Skyrim Landscape and Water Fixes to v7.9
+16. Updated Illustrious Whiterun to v2.0
+17. Updated Faster HDT-SMP to v1.50.9-rc1
+18. Updated Mysticism to v2.2.4
+19. Updated Serana Dialogue Add-On to v4.0.2.3
+20. Updated Serana Dialogue Add-On Patch Hub to v2.5
+21. Updated Lux to v6.1.1
+22. Updated Lux Via to v1.7
+23. Updated Embers XD to v2.7.4
+24. Re-enabled all the NPC mods so that they are present in MO2, to make running EasyNPC easier
+
+- FIN -
