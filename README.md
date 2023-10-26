@@ -216,7 +216,7 @@ Done! You should now have a shortcut on your desktop which you can now run the m
 
 ## Swapping between SteamVR and OpenComposite Binaries
 See Oculus performance tips
-[Oculus Performance Tips](Oculus Performance Tips.md)
+[Oculus Performance Tips](Oculus%20Performance%20Tips.md)
 
 # Pre-Game Launch
 
