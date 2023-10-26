@@ -6,7 +6,7 @@
 
 ## Neo's Bindings (must be enabled before creating character)
 
-![Neo's Bindings](img/Neo's%20Controls.png)
+![Neo's Bindings](img/Neo%20Controls.png)
 
 ## Valve Index (with the Alternative VRIK Bindings selected)
 
