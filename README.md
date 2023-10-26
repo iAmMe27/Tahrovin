@@ -193,12 +193,8 @@ Almost there but we're not out of the woods yet! After Wabbajack has given you t
 ## Stock Game
 Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
 
-## ENB Selection
-As mentioned earlier, in both global and game settings within Steam and Oculus settings you must ensure the following is set:
-  * Supersampling is *OFF*
-  * Render Resolution to 100% (1.0 if you're looking at Oculus settings)
-
-Choosing your ENB is simple and doesn't involve jumping into the game files to manually move stuff about either. In MO2, find the `ENB and Reshade Stuff` separator and expand it. From here, you can choose your ENB or Reshade preset.
+## Community Shaders
+As a note the first time Community Shaders runs it will have to compile shaders, this may take a while and may look like SkyrimVR is frozen, just be patient.
 
 **Don't enable ENB binaries alongside any Reshade presets!**
 
@@ -219,15 +215,8 @@ Nobody wants to be launching their game via multiple clicks, they want to be abl
 Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Skyrim VR from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
 
 ## Swapping between SteamVR and OpenComposite Binaries
-As of Tahrovin v1.0.4, I have included a custom made tool that makes swapping between SteamVR and OpenComposite binaries extremely foolproof and as easy as a single button press.
-
-From MO2, select the OC Swapper option and click Run
-
-![](img/OCSwapper1.png)
-
-Once OC Swapper launches, the interface is extremely self-explanatory and will tell you which binaries you are currently using. The button in the centre swaps between the 2 different options when pressed. Note: OC Swapper hashes the DLL files when launched so it can tell if you swapped the binaries over outside of OC Swapper's control.
-
-![](img/OCSwapper2.png)
+See Oculus performance tips
+[Oculus Performance Tips](Oculus Performance Tips.md)
 
 # Pre-Game Launch
 

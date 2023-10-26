@@ -797,4 +797,27 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
 23. Updated Embers XD to v2.7.4
 24. Re-enabled all the NPC mods so that they are present in MO2, to make running EasyNPC easier
 
+## Tahrovin v1.0.82
+1. What year is it?
+2. Dropped ENB in favor of community shaders and requirements
+3. Updated DLSS to 3.5
+4. Added Grass Lighting Shader
+5. Added Light Limit Fix
+6. Added Auto Parallax
+7. Added Complex Parallax Materials
+8. Added Reshade Toggler
+9. Added d3dcompiler_47 (CS requirement)
+10. Added Disk Cache Enabler
+11. Added PrivateProfileRedirector SE to Risky Mods
+12. Added my own control option for Quest users (best used with a new game)
+13. Added Cathedral - 3D Pine Grass for ENB Complex Grass to make it CS compatible
+14. Updated VR address library to current version
+15. Updated HIGGS to current version
+16. Updated PLANCK to current version
+17. Updated Spell WheelVR to current version
+18. Updated Arctal's VRIK Tweaks to current version
+19. Updated Weapon Throw VR to current version
+20. Updated to SkyUIVR 1.2.2
+21. Dropped the Degeneracy Profile - as a new modlist curator I am not confident in my ability to support two profiles with seperate structures. It may return at a later date when I get more confident/bored.
+22. Dropped the More GPU than braincells Profile for now - I do not own a 4090 so I am unable to test or troubleshoot this profile which makes it an unreasonable task to try and keep up, will be running a donation goal until Nov.20th to try and bring it back.
 - FIN -

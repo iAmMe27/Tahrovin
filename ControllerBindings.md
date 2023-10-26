@@ -4,6 +4,10 @@
 
 ![Controller Bindings](img/ControllerBindings.png)
 
+## Neo's Bindings (must be enabled before creating character)
+
+![Neo's Bindings](img/Neo's%20Controls.png)
+
 ## Valve Index (with the Alternative VRIK Bindings selected)
 
 **Gameplay Bindings**
@@ -55,6 +59,7 @@ There are some other bindings added by mods:
 ## SexLab VR Controls
 
 These controls only apply when in a SL scene. The direction indicator means to move your whole hand, not the thumbstick!
+If using Neo's bindings L Thumbstick click = Y
 
 * R Thumbstick Click + Left - Previous Scene Stage
 * R Thumbstick Click + Right - Next Scene Stage
