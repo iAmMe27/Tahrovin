@@ -35,7 +35,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Troubleshooting](#troubleshooting)
 - [Post-Installation](#post-installation)
   - [Stock Game](#stock-game)
-  - [ENB Selection](#enb-selection)
+  - [Community Shaders](#enb-selection)
   - [Skyrim VR Upscaler Selection](#skyrim-vr-upscaler-selection)
   - [Creating a desktop shortcut](#creating-a-desktop-shortcut)
   - [Swapping between SteamVR and OpenComposite Binaries](#swapping-between-steamvr-and-opencomposite-binaries)
@@ -195,10 +195,7 @@ Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabb
 
 ## Community Shaders
 As a note the first time Community Shaders runs it will have to compile shaders, this may take a while and may look like SkyrimVR is frozen, just be patient.
-
-**Don't enable ENB binaries alongside any Reshade presets!**
-
-![MO2 Selection](img/MO2Selection.png)
+The Community Shaders Menu can be opened with END and from here you can toggle individual shaders on and off.
 
 ## Skyrim VR Upscaler Selection
 Like in the previous section, Skyrim VR Upscaler options are found in MO2 under the `Skyrim VR Upscaler` separator. 
