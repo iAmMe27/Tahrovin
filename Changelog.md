@@ -820,4 +820,23 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
 20. Updated to SkyUIVR 1.2.2
 21. Dropped the Degeneracy Profile - as a new modlist curator I am not confident in my ability to support two profiles with seperate structures. It may return at a later date when I get more confident/bored.
 22. Dropped the More GPU than braincells Profile for now - I do not own a 4090 so I am unable to test or troubleshoot this profile which makes it an unreasonable task to try and keep up, will be running a donation goal until Nov.20th to try and bring it back.
+
+## Tahrovin v1.0.85
+1. Fixed Control set problems
+2. Added Cubemap Reflections for water
+3. Added Devious Devices (goodbye ESP count)
+4. Merged Devious Device Addons
+5. Added ZaZ Animation Pack 8+ SE REV3
+6. Added Submissive Lola(if you wish to start it you need to configure it to your liking from the mcm and then hit start quest)
+7. Added SL Tools, you can bind a button to animation selection in the MCM to give you more choice over what scenes will play in SL events.
+8. Updated Coldsun1's Open Composite mod for compatibility with VDXR for those that know what they are doing
+9. Drop on Death updated to a more stable version.
+10. Removed SkyVRaan (replaced by Cubemap Reflections)
+11. Merged Realistic Mining and VR refit
+12. Merged RallyCrates + Elsopa Potions + DVLaSS + GrassFPS Booster
+13. Merged Deadly Spell Impacts with WetFunction
+14. Merged Serana Dialogue Addon and RDO patch + BretonNPCsHaveElvenEars + VampiresHaveClaws + FMS_FemaleMakeupSuite (Hello ESP count)
+
+Because of the merges this update may not be savesafe, you can attempt to keep your save by cleaning it with Fallrim Tools after updating but I'm not 100% that that would work, at the very least you would have to register the new animations in the SLAL MCM
+
 - FIN -
