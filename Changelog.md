@@ -848,6 +848,7 @@ I highly recommend people give it a shot now as with the Overhaul we use Nightma
 5. Merged blocking and flash redux with Dynamic Impact FX so as not to consume another ESP slot.
 6. Added Dual Casting VR fix
 7. Added GIST Azura's Star Restore
-8. Updated Glamur for compatibility with ReShade Toggler
-9. Updated Community Shaders
+8. Added Pseudo Physical Weapon Collision and Parry AE SE VR
+9. Updated Glamur for compatibility with ReShade Toggler
+10. Updated Community Shaders
 - FIN -
