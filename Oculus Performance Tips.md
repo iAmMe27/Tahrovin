@@ -2,9 +2,13 @@
 There are a couple things you can do that can help with performance that I recommend.
 
 ## Using OpenComposite
-Open Composite now uses Steam! This is wierd I know but trust me for a minute. In MO2 under the YOUR CHOICES subheader disable SteamVR and enable Skyrim VR OpenComposite Fixes Custom Build (Requires Steam be set to manage OPENXR), to change back you just switch them back. Doing this requires you to set steam to be your openxr environmet. Go to your SteamVR settings, show advanced, go to openXR and set steam to be openXR it should look like the image below.This version and the latest version of Virtual Desktop are compatible!
+Open Composite can now use Steam! This is wierd I know but trust me for a minute. In MO2 under the YOUR CHOICES subheader disable SteamVR and enable Skyrim VR OpenComposite Fixes Custom Build (Requires Steam be set to manage OPENXR), to change back you just switch them back. Doing this requires you to set steam to be your openxr environmet. Go to your SteamVR settings, show advanced, go to openXR and set steam to be openXR it should look like the image below.This version and the latest version of Virtual Desktop are compatible!
 
 ![SteamVR OpenXR example](img/SteamVRopenXR.png)
+
+Alternatively you can bypass steam altogether if you use Virtual Desktops new VDXR. Just make sure VDXR is enabled on Virtual Desktop Streamer, make sure OC is enabled instead of steamVR in MO2 and run!
+
+![OC VDXR example](img/OCVDXRInstructions.png)
 
 ***Note:** OpenComposite does not work for any other headset than Oculus headsets!*
 
