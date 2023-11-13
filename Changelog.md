@@ -839,4 +839,15 @@ Small update to free up ESP slots and fix a couple of issues. Regular profile is
 
 Because of the merges this update may not be savesafe, you can attempt to keep your save by cleaning it with Fallrim Tools after updating but I'm not 100% that that would work, at the very least you would have to register the new animations in the SLAL MCM
 
+## Tahrovin v1.0.86
+1. Fixed a rather large bug causing werewolves to be just about impossible to play
+I highly recommend people give it a shot now as with the Overhaul we use Nightmare Night made by Scrab you can start as a werewolf whenever you want via the MCM and the scaling and pacing feels way better than vanilla.
+2. attempted a possible fix for occasional crashes that can occur with multiple followers. I have no idea if it will solve the problem or not only time will tell.
+3. Replaced Blocking and Flash with Redux
+4. Added Dynamic Impact FX and tuned down their mesh sizes myself for VR. Not sure if I want to keep this, it may be a bit much so I'd appreciate feedback on if people like it.
+5. Merged blocking and flash redux with Dynamic Impact FX so as not to consume another ESP slot.
+6. Added Dual Casting VR fix
+7. Added GIST Azura's Star Restore
+8. Updated Glamur for compatibility with ReShade Toggler
+9. Updated Community Shaders
 - FIN -
