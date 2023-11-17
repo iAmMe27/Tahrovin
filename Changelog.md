@@ -851,4 +851,8 @@ I highly recommend people give it a shot now as with the Overhaul we use Nightma
 8. Added Pseudo Physical Weapon Collision and Parry AE SE VR
 9. Updated Glamur for compatibility with ReShade Toggler
 10. Updated Community Shaders
+
+## Tahrovin v1.0.87
+1. Added Swagmeister's Lae'zel racemenu preset and merged it and its requirements into Overlays - Merged so no additional ESP slots consumed.
+2. Fixed Delia's invisible body issue by removing her broken armor.
 - FIN -
