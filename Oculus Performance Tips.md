@@ -10,6 +10,7 @@ Alternatively you can bypass steam altogether if you use Virtual Desktops new VD
 
 ![OC VDXR example](img/OCVDXRInstructions.png)
 
+In the rare case of using a quest2/3 with a link cable directly you should instead be able to set Oculus to manage OpenXR in the Oculus App General settings though I haven't tested it myself.
 ***Note:** OpenComposite does not work for any other headset than Oculus headsets!*
 
 ## Change Refresh Rate
