@@ -855,4 +855,16 @@ I highly recommend people give it a shot now as with the Overhaul we use Nightma
 ## Tahrovin v1.0.87
 1. Added Swagmeister's Lae'zel racemenu preset and merged it and its requirements into Overlays - Merged so no additional ESP slots consumed.
 2. Fixed Delia's invisible body issue by removing her broken armor.
+
+## Tahrovin v1.0.9
+1. Updated Community Shaders and all related plugins
+2. Created and added my own mesh edit with the help of Aelove to make werewolf transformation no longer blind you for 5 seconds.
+3. Added Daedric Bitches as an optional mod (keeping it optional does mean its going to cost an ESP slot but I feel it just clashes too much to be included in base Tahrovin)
+4. Added several outfits: COCO Mysterious Mage, COCO Caress of Venus, NINI Adler, NINI Damaged Feather, Deified, ELLE - Abyss, Operator, Troll Bone Armor, Melodic Olga Discordia
+	I may do something fun with the placement of these in the future but for now they can all either be smithed with various perks or cheated in (Add Item Menu now included in optional mods make sure you double click it for load order information.)
+5. Merged all new outfits into one esp named Armor Additions.esp
+6. Added AddItemMenu as an optional mod, make sure to double click it for info on esp placement in the load order
+7. Changed Uthgerd's Default outfit to Troll Bone armor to make her as imposing as her dialogue would suggest she should be.
+   I'm considering expanding on this and giving more followers unique outfits, let me know if thats something you guys would like to see.
+
 - FIN -
