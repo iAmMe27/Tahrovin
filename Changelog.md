@@ -867,4 +867,8 @@ I highly recommend people give it a shot now as with the Overhaul we use Nightma
 7. Changed Uthgerd's Default outfit to Troll Bone armor to make her as imposing as her dialogue would suggest she should be.
    I'm considering expanding on this and giving more followers unique outfits, let me know if thats something you guys would like to see.
 
+## Tahrovin v1.5.0
+1. Fixed Futa's having unwanted physics during Sexlab Scenes. This is a problem that has plagued Tahrovin since before my time and my probably undeserved pride in fixing it is the main reason for the massive version jump. 
+2. Spell Wheel VR now has hardcoded support for Nightmare Night, Thank you Shizof! Playing as a Werewolf in Tahrovin is now about as fluid as you could possibly want it to be.
+
 - FIN -
