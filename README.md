@@ -1,6 +1,6 @@
 ![Tahrovin Banner](img/Tahrovin.png)
 
-First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country.**
+First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country. Tahrovin is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
 
 ***Having issues with the modlist? [FAQ \& Common Issues](#faq--common-issues)***
 
