@@ -886,4 +886,7 @@ I highly recommend people give it a shot now as with the Overhaul we use Nightma
 13. Added the gift of saturalia a holiday themed quest line
 THIS UPDATE IS NOT SAVE SAFE!!!
 
+## Tahrovin v2.0.1
+1.Hotfix update, just updated several engine and VR specific mods for compatibility with ESL support for VR
+
 - FIN -
