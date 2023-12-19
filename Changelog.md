@@ -871,4 +871,19 @@ I highly recommend people give it a shot now as with the Overhaul we use Nightma
 1. Fixed Futa's having unwanted physics during Sexlab Scenes. This is a problem that has plagued Tahrovin since before my time and my probably undeserved pride in fixing it is the main reason for the massive version jump. 
 2. Spell Wheel VR now has hardcoded support for Nightmare Night, Thank you Shizof! Playing as a Werewolf in Tahrovin is now about as fluid as you could possibly want it to be.
 
+## Tahrovin v2.0.0
+1. Added a new racemenu preset Vi by our very own Identity.
+2. Updated Community Shaders
+3. Updated VR Address Library
+4. Stole magic from the Daedric Bitchs
+5. Added Devious Devices NG
+6. Added Smalls to handle underwear, instructions to configure it are on the github readme
+7. Added SOS_ChainmailUnderwear COCO Lingerie and Nezzars ultimate Lingirie collection and merged them into Armor Additions.esp
+9. spent way too long making a custom main menu for Tahrovin
+10. Updated Engine Fixes VR
+11. Added esl support for SkyrimVR which is why I consider this 2.0 (without even trying to find mods I can get esl versions of this saves 79 esp slots)
+12. updated VR address library
+13. Added the gift of saturalia a holiday themed quest line
+THIS UPDATE IS NOT SAVE SAFE!!!
+
 - FIN -
