@@ -887,6 +887,10 @@ I highly recommend people give it a shot now as with the Overhaul we use Nightma
 THIS UPDATE IS NOT SAVE SAFE!!!
 
 ## Tahrovin v2.0.1
-1.Hotfix update, just updated several engine and VR specific mods for compatibility with ESL support for VR
+1. Hotfix update, just updated several engine and VR specific mods for compatibility with ESL support for VR
+
+## Tahrovin v2.0.2
+1. Updated OsmelMCs SOS tweak for better compatibility with VR
+2. Added ability to name your character when using Open Composite, check the oculus performance tips Open Composite section for instructions.
 
 - FIN -

@@ -14,6 +14,10 @@ Then you will need to set your prefered platform to handle OpenXR
 
 ![OpenXRSelect](img/OpenXRSelect.png)
 
+Optionally if you would like to have a name other than Adventurer when using Open Composite you can use the OC Character Renamer in the Your Choices section of MO2. Just right click on the mod, open in explorer, open the root folder and open opencomposite.ini. You can then change Tahrovin to be whatever you want your character to be named when you finish character creation.
+
+![OCCharacterNamer](img/OCCharacterNamer.png)
+
 ***Note:** OpenComposite does not work for any other headset than Oculus headsets!*
 
 ## Change Refresh Rate
