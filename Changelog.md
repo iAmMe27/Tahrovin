@@ -893,4 +893,8 @@ THIS UPDATE IS NOT SAVE SAFE!!!
 1. Updated OsmelMCs SOS tweak for better compatibility with VR
 2. Added ability to name your character when using Open Composite, check the oculus performance tips Open Composite section for instructions.
 
+## Tahrovin v2.0.3
+1. Fixed incorrect Version Number on main menu
+2. Added keyboard shortcuts on main menu to open the ReadMe and my doinations page.
+
 - FIN -
