@@ -901,5 +901,6 @@ THIS UPDATE IS NOT SAVE SAFE!!!
 1. Updated to AutobodyNG for ESL support compatibility
 2. Added a new bodyslide preset
 3. Fixed the default Open Composite character name being wrong.
+4. Added 4 new outfits by Coco, Goddess of War, Battle Angels, Goddess of War2, and demon shade. they are all esl flagged.
 
 - FIN -
