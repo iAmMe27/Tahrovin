@@ -897,4 +897,9 @@ THIS UPDATE IS NOT SAVE SAFE!!!
 1. Fixed incorrect Version Number on main menu
 2. Added keyboard shortcuts on main menu to open the ReadMe and my doinations page.
 
+## Tahrovin v2.0.4
+1. Updated to AutobodyNG for ESL support compatibility
+2. Added a new bodyslide preset
+3. Fixed the default Open Composite character name being wrong.
+
 - FIN -
