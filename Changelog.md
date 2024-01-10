@@ -907,4 +907,9 @@ THIS UPDATE IS NOT SAVE SAFE!!!
 1. Updated ESL support for VR, current version should now be stable.
 2. Reverted to dll version of SoS because the latest ESL support update fixes the dll crash.
 
+## Tahrovin v2.0.6
+1. Reenabled the papyrus version of SOS, this should prevent the dll from breaking saves.
+2. Updated Faster SMP because someone pointed out that I was very behind in version and it was easy to throw in quick
+3. Added updated reshade binaries as well as 3 new profiles designed specifically for Community Shaders for people who really want to up their graphics. To be clear while Glamur works on Open Composite these new binaries and their presets will only work on SteamVR. Beauty comes at a cost I suppose.
+
 - FIN -
