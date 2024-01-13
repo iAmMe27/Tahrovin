@@ -912,4 +912,16 @@ THIS UPDATE IS NOT SAVE SAFE!!!
 2. Updated Faster SMP because someone pointed out that I was very behind in version and it was easy to throw in quick
 3. Added updated reshade binaries as well as 3 new profiles designed specifically for Community Shaders for people who really want to up their graphics. To be clear while Glamur works on Open Composite these new binaries and their presets will only work on SteamVR. Beauty comes at a cost I suppose.
 
+## Tahrovin v2.0.7
+1. Removed Lingerie chest from Whiterun, it was never meant to be there it just slipped through the cracks
+2. Fixed Uthgerd's outfit
+3. Updated HIGGS
+4. Updated Pseudo physical weapon collision VR
+5. Updated Open Animation Replacer and added its two new requirements Paired Animation Improvements and Animation Queue Fix
+6. Added Poached Bugs VR
+7. Tinkered with the Reshade ini, hopefully the files will detect better for people by default now
+8. Updated Main Menu Customizer to fix hotkeys opening web pages outside of the main menu
+
+Should be save safe.
+
 - FIN -
