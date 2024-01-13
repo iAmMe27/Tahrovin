@@ -921,6 +921,7 @@ THIS UPDATE IS NOT SAVE SAFE!!!
 6. Added Poached Bugs VR
 7. Tinkered with the Reshade ini, hopefully the files will detect better for people by default now
 8. Updated Main Menu Customizer to fix hotkeys opening web pages outside of the main menu
+9. Updated Planck
 
 Should be save safe.
 
