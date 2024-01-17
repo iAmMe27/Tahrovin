@@ -924,6 +924,9 @@ THIS UPDATE IS NOT SAVE SAFE!!!
 9. Updated Planck
 10. Updated CBPC
 
+## Tahrovin v2.0.8
+1. Recompiled with new version of Wabbajack so list would be installable again, updated version number to avoid confusion.
+
 Should be save safe.
 
 - FIN -
