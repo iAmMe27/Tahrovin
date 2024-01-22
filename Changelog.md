@@ -929,8 +929,15 @@ THIS UPDATE IS NOT SAVE SAFE!!!
 
 Should be save safe.
 
-## Tahrovinv2.0.81
+## Tahrovin v2.0.81
 1. updated grass lighting which I forgot to do last update, my bad.
 savesafe
+
+## Tahrovin v2.1.0
+1. Updated VRIK (Never thought I'd be typing those words again)
+2. Updated Arctals VRIK Tweaks, Weapon Throw VR, Spell Wheel VR, and Steeds of Ultima for support with the new VRIK update
+3. Updated VR FPS Stabilizer
+4. Updated EmbersXD
+5. Reconfigured Faster HDT-SMP for maximum compatibility
 
 - FIN -
