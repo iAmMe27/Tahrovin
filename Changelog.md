@@ -940,4 +940,9 @@ savesafe
 4. Updated EmbersXD
 5. Reconfigured Faster HDT-SMP for maximum compatibility
 
+## Tahrovin v2.1.1
+1. Updated Arctals VRIK tweaks and edited the VRIK.ini to make sure changes to near clip distance stuck
+2. Downgraded Autobody to the previous version and unflagged 3bbb.esp and heelsfix.esp as esls to get Autobody to function with stability again.
+3. Updated VR address Library
+
 - FIN -
