@@ -944,5 +944,6 @@ savesafe
 1. Updated Arctals VRIK tweaks and edited the VRIK.ini to make sure changes to near clip distance stuck
 2. Downgraded Autobody to the previous version and unflagged 3bbb.esp and heelsfix.esp as esls to get Autobody to function with stability again.
 3. Updated VR address Library
+4. Hotfix - Reverted to earlier version of EmbersXD to see if that fixes flicker for those experiencing it
 
 - FIN -
