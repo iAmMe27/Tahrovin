@@ -946,4 +946,29 @@ savesafe
 3. Updated VR address Library
 4. Hotfix - Reverted to earlier version of EmbersXD to see if that fixes flicker for those experiencing it
 
+## Tahrovin v2.1.5 - The Gentleman's Update
+1. Added a ton of Male Racemenu presets, mostly by Miggyluv, honestly too many to keep track of.
+2. Added himbo hair overlays
+3. Swapped from SoS to TNG since TNG now has all of the features I need.
+4. Spent more time than I'd care to admit organizing racemenu presets so that they are easy to find
+5. Added Several Himbo Bodyslide presets to use with autobody including Aestheticus, Norse god, and AW true warrior
+6. Added Bonobody 3ba preset for women, Yes I know this is a male focused update but I saw it on the nexus and I was weak, forgive me.
+7. Updated core Racemenu files
+8. Updated Higgs
+9. Updated Arctals VRIK tweaks
+10. Added Several appearance mods as needed by the aforementions racemenu presets
+11. Added modular SMP hairs
+12. Added Beastrace Bodypaints
+13. Updated my MCM recordings to work with the TNG swap.
+14. Updated XP32
+15. Updated NFF
+16. Added VRIK gesture for changing penis with TNG
+17. Massively tweaked miggyluvs avidan redguard preset
+18. experimentally trying added the shaders from 5.9.2 reshade to 4.9.1 to see if using glamur as a base other presets can be easily loaded using OC or steam. May not work perfectly with every preset.
+19. Added LLF Particle Lights instead of Fake Glow which I think makes the lighting look much better.
+20. Removed skyVRaan correctly this time so cubemaps work now.
+21. Reupdated EmbersXD since I figured out it wasnt that causing issues.
+22. Waited for a BnP male update to fix seams and when it finally came out the seam was still there so I cried and then said screw it people can just deal with tempered skins and use himbo overlays if they want body hair.
+23. Patched No Futanari addon to remove SoS as a master and work with TNG so some people (you know who you are) wouldn't complain that being futa is the default.
+
 - FIN -
