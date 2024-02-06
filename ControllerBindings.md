@@ -83,3 +83,7 @@ If using Neo's bindings L Thumbstick click = Y
 * R Thumbstick Click - Reset Adjustments for current animation
 * Left Trigger (Hold) - Grab and Adjust Actor/Schlong by movement of left controller 
 * Right Trigger - Select next actor to adjust
+
+## TNG Controls
+* Hotkey 4 to open the TNG NPC editor, if there is an NPC in you crosshair i.e. right in front of you it will edit them but if there is no npc found it will edit the player.
+* A Vrik gesture has been pre bound to R Thumbstick Click + Back Then Forward to access the menu without using your keyboard.

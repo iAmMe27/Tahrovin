@@ -970,5 +970,6 @@ savesafe
 21. Reupdated EmbersXD since I figured out it wasnt that causing issues.
 22. Waited for a BnP male update to fix seams and when it finally came out the seam was still there so I cried and then said screw it people can just deal with tempered skins and use himbo overlays if they want body hair.
 23. Patched No Futanari addon to remove SoS as a master and work with TNG so some people (you know who you are) wouldn't complain that being futa is the default.
+24. The controllerbindings page has been updated with info on how to use TNG to customize your character or NPCs.
 
 - FIN -
