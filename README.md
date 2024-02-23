@@ -8,6 +8,8 @@ Support and general talk about Tahrovin resides on the Jolly Co-operators Discor
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
 
+[![Ko-fiButton](img/Kofi.png)](https://ko-fi.com/neochiken)
+
 # What is Tahrovin?
 Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
 
