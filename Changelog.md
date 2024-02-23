@@ -972,4 +972,22 @@ savesafe
 23. Patched No Futanari addon to remove SoS as a master and work with TNG so some people (you know who you are) wouldn't complain that being futa is the default.
 24. The controllerbindings page has been updated with info on how to use TNG to customize your character or NPCs.
 
+## Tahrovin v2.1.6 - Tahrovin ENB
+1. Added Rally's Celestial Canvas for nights
+2. Added Masculine Khajiit skin grey cat and leopard
+3. Created my own Male Khajiit racemenu preset
+4. Updated Tawoba fixes and added squeeze bodyslide sets
+5. Added Beast Feet retexture
+6. Updated Spell Wheel VR and Weapon Throw VR (Shoutout to Shizof for being one of the hardest working and most passionate modders I've ever known)
+7. Updated PLANCK which should hopefully fix or reduce some of the NPC crashes that were occuring
+8. Updated Faster HDT-SMP
+9. Updated Modular Hairstyles for FSMP
+10. Reenabled Valkyr SMP hairstyles, I'm not 100% sure why I had it disabled.
+11. Removed CBPC action reaction (the novelty of it being a VR mod has worn off and the super synthy AI voices are a bit cringey.)
+12. Created an Entirely new profile Tahrovin ENB, this is no small feat and will be very difficult to support going forward. I had to change weathers for this to Cathedral Weathers and creat a whole new conflict resolution patch just for it. It is however very pretty. Note that Skyrim Upscaler currently breaks some features of ENBVR and as such to get the full experience you will have to turn it off.
+13. Added Sensorium of stereoscopy and Perfect Nature as ENBs as they both support the same Weather.
+14. Added ENB Helper Plus
+15. Regenerated DynDoLod, this makes this update not save safe unless you follow DynDoLods instructions for having a clean save before updating.
+16. Added Glam Up Glamur reshade for the default profile.
+
 - FIN -
