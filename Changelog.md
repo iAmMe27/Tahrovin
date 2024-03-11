@@ -990,4 +990,9 @@ savesafe
 15. Regenerated DynDoLod, this makes this update not save safe unless you follow DynDoLods instructions for having a clean save before updating.
 16. Added Glam Up Glamur reshade for the default profile.
 
+## Tahrovin v2.1.61
+1. fixed synthesis.esp being disabled in the ENB profile
+2. added a racemenuvr patch for esl support created by nightfallstorm and tested by myself.
+3. as part of that test we identified a fatal problem with the old version of papyrusutil esl vr patch. if you were using the old version (Which unfortunately most of you are) then there is already corruption in your save, I apologize to anybody affected by this.
+
 - FIN -
