@@ -995,4 +995,11 @@ savesafe
 2. added a racemenuvr patch for esl support created by nightfallstorm and tested by myself.
 3. as part of that test we identified a fatal problem with the old version of papyrusutil esl vr patch. if you were using the old version (Which unfortunately most of you are) then there is already corruption in your save, I apologize to anybody affected by this.
 
+## Tahrovin v2.1.8
+1. updated CS with a whole suite of new features that I think add a ton to the beauty of it
+2. disabled LLF Particle Lights instead of Fake Glow as it is not currently compatible with the new version of Light Limit Fix
+3. fixed DLL Loader being installed incorrectly due to rootbuilder complications
+4. swapped from Nemesis behavior engine to pandora behavior engine for animations
+5. changed to palm casting for spells, I've been a grumpy old man about this for a long time but Aelove got me to try it and I have to agree it does just feel better.
+
 - FIN -
