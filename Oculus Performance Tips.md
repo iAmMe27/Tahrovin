@@ -25,7 +25,9 @@ There are three different profiles in Tahrovin, default which uses community sha
 If you have a 20xx or newer series Nvidia card I default skyrim Upscaler to DLAA for visuals, but you can change it from DLAA to DLSS to increase performance at the cost of some visual fidelity.
 
 
+
 # Oculus and Oculus Link Specific Advice
+
 
 
 ## Change Refresh Rate
