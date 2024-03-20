@@ -87,3 +87,6 @@ If using Neo's bindings L Thumbstick click = Y
 ## TNG Controls
 * Hotkey 4 to open the TNG NPC editor, if there is an NPC in you crosshair i.e. right in front of you it will edit them but if there is no npc found it will edit the player.
 * A Vrik gesture has been pre bound to R Thumbstick Click + Back Then Forward to access the menu without using your keyboard.
+
+## Personal Advice
+If these gestures don't make sense to you head to the [gameplay guide](https://github.com/iAmMe27/Tahrovin/blob/main/Gameplay%20Guide.md) and watch the first video linked at the bottom to learn more about gestures.
