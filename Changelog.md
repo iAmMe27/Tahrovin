@@ -1001,5 +1001,6 @@ savesafe
 3. fixed DLL Loader being installed incorrectly due to rootbuilder complications
 4. swapped from Nemesis behavior engine to pandora behavior engine for animations
 5. changed to palm casting for spells, I've been a grumpy old man about this for a long time but Aelove got me to try it and I have to agree it does just feel better.
+6. created a performance profile for lower end cards that uses only reshade with no CS or ENB
 
 - FIN -
