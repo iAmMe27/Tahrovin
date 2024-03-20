@@ -15,6 +15,9 @@ Wabbajack will not work with pirated versions of Skyrim VR. If you didn't follow
 ### Wabbajack is unable to continue because of unknown files
 Move your downloads folder outside of your Tahrovin installation folder, ensure that the Tahrovin installation folder is clear of any and all files and then close and restart Wabbajack. Remember to point it to the new location of the downloads folder! Don't want to have to download everything again.
 
+### Wabbajack says it couldn't download skyrim.ini or other base skyrimVR files
+Verify the integrity of your game cache in steam and try again.
+
 ### Missing nexusapikey:
 This usually happens when Nexus Mods is having trouble on their server end. Check if you can reach the website in your browser. Unfortunately, this is usually fixed by just waiting for Nexus Mods issues to be fixed.
 
@@ -29,3 +32,6 @@ LoversLab can be difficult when it comes to automated downloads, especially to t
 3. If you are using SteamVR binaries make sure SteamVR is open before you launch the game.
 
 4. If you are not using a 20xx or newer series Nvidia graphics card or if you are using an AMD graphics card you will need to change skyrim upscaler from DLSS to FSR. Instructions for doing so are in the Skyrim Upscaler section of the main ReadMe page.
+
+### Giant square obstructing view
+Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on again, the square will go away after this. It may or may not come back next session just follow the same steps again.
