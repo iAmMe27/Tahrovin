@@ -22,4 +22,10 @@ This usually happens when Nexus Mods is having trouble on their server end. Chec
 LoversLab can be difficult when it comes to automated downloads, especially to those of us located outside of the US. Try using a VPN with a location somewhere in the US. If you don't like the idea of a VPN, you'll need to grab the mods from LoversLab manually and place them in your downloads folder that you specified to Wabbajack when starting the modlist installation.
 
 ### Game won't start
-Make sure you have the prerequisites installed as per the readme. Ensure you add your Tahrovin installation folder to your antivirus exceptions list, sometimes antivirus programs flag the virtual file system that MO2 uses even though it is completely safe.
+1. Make sure you have the prerequisites installed as per the readme. Ensure you add your Tahrovin installation folder to your antivirus exceptions list, sometimes antivirus programs flag the virtual file system that MO2 uses even though it is completely safe.
+
+2. If it still crashes check Tahrovin/Stock Game and make sure openvr_api.dll is present. If it is not open OC swapper in MO2 using the dropdown and click the swap button twice to regenerate it.
+
+3. If you are using SteamVR binaries make sure SteamVR is open before you launch the game.
+
+4. If you are not using a 20xx or newer series Nvidia graphics card or if you are using an AMD graphics card you will need to change skyrim upscaler from DLSS to FSR. Instructions for doing so are in the Skyrim Upscaler section of the main ReadMe page.
