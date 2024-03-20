@@ -1,4 +1,4 @@
-# Quest 2 Performance Tips
+# Performance Tips
 There are a couple things you can do that can help with performance that I recommend.
 
 ## Using OpenComposite
@@ -18,7 +18,15 @@ Optionally if you would like to have a name other than Tahrovin when using Open 
 
 ![OCCharacterNamer](img/OCCharacterNamer.png)
 
-***Note:** OpenComposite does not work for any other headset than Oculus headsets!*
+## Profiles
+There are three different profiles in Tahrovin, default which uses community shaders and reshade (Medium performance impact), ENB which uses ENB VR for visuals (High Performance impact), and then performance which only uses reshade and has the least performance impact.
+
+## Skyrim Upscaler
+If you have a 20xx or newer series Nvidia card I default skyrim Upscaler to DLAA for visuals, but you can change it from DLAA to DLSS to increase performance at the cost of some visual fidelity.
+
+
+# Oculus and Oculus Link Specific Advice
+
 
 ## Change Refresh Rate
 Changing the refresh rate to a higher one in the Oculus settings reduces the maximum resolution delivered to your headset as well as offering a smoother feel to the game. The reduced resolution will help the game run at a more stable FPS and likely a higher FPS. Combine the higher FPS with the higher refresh rate of the Quest 2 and you have a much nicer game playing experience. 
