@@ -1003,4 +1003,13 @@ savesafe
 5. changed to palm casting for spells, I've been a grumpy old man about this for a long time but Aelove got me to try it and I have to agree it does just feel better.
 6. created a performance profile for lower end cards that uses only reshade with no CS or ENB
 
+## Tahrovin v2.2.0
+This update has been worked on for a long time and has had hours and hours poured into it so I apologize for the late release. It includes not only the long awaited Degeneracy profile but also two beta parallax profiles thats I've been trying to manually edit meshes to make look less jarring in Skyrim VR. so far I have finished Whiterun and Riften and in both of those towns I'm pretty happy with how the parallax turned out. I hope people try them and enjoy them as I could really use a confirmation that the time spent hand editing nifs was worth it.
+1. Created the Degeneracy Profile. This means the inclusion of creature framework, More Nastry Critters, and animations. I've also added sexlab enchantress and simple defeat as ways of initiating interactions with the creatures of Skyrim.
+2. Updated Engine Fixes VR to fix blocky trees in water reflections
+3. Added Many many many many many many parallax mesh and texture mods, mostly variants of what was already in Tahrovin.
+4. Edited many of the Nifs in Parallax Mesh Patch Collection to either add parallax  flags and textures where they should be but aren't or delete geometry that can't be parallaxed and looks wrong next to the parallaxed textures.
+5. Used the above to make two new beta parallax profiles: Tahrovin Parallax Beta and Tahrovin Degeneracy Parallax Beta
+6. Made new MCM recorder recordings for Degeneracy
+
 - FIN -
