@@ -1011,5 +1011,12 @@ This update has been worked on for a long time and has had hours and hours poure
 4. Edited many of the Nifs in Parallax Mesh Patch Collection to either add parallax  flags and textures where they should be but aren't or delete geometry that can't be parallaxed and looks wrong next to the parallaxed textures.
 5. Used the above to make two new beta parallax profiles: Tahrovin Parallax Beta and Tahrovin Degeneracy Parallax Beta
 6. Made new MCM recorder recordings for Degeneracy
+7. Added Description Framework
+8. Added Vanilla Item Descriptions
+9. Added All Keys Descriptions
+10. Added All Books and Notes Descriptions
+11. Added Legacy of The Dragonborn - Item Descriptions
+12. Added Mythos of Skyrim - Immersive Artifact Descriptions
+13. Added Descriptions for Various Mods
 
 - FIN -
