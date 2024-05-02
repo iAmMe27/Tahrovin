@@ -1019,4 +1019,17 @@ This update has been worked on for a long time and has had hours and hours poure
 12. Added Mythos of Skyrim - Immersive Artifact Descriptions
 13. Added Descriptions for Various Mods
 
+## Tahrovin v2.2.1 The Final Fanservice
+
+Since I have to take a break for a while for reasons I've already gone over in the updates channel of my discord I decided to push out one final fanservice update before that break.
+
+1. Updated Menu Mouse Fix for VR (Thank you Shizof for the fixes!)
+2. Added Optional mod Oblivionesque Lockpicking Redone by LeucisticDinosaur and it's texture overhaul O.L.R. Retexture - Visually Realistic Lockpicking - Oblivion Lock Mod by Klivia.
+These add an oblivion style lockpicking game to skyrim that I personally vastly prefer.
+3. Added Optional mod CBBE 3BA Vanilla Outfits Redone by brokkamuky as a replacer for those who think that The amazing world of bikini armor isn't very immersive and would prefer that NPCs dressed more modestly but still want something stylish.
+4. Created a new ReadMe page with instructions on how to enable all optional mods to make it easier for users
+5. Cried several tears knowing I won't get to work on fun little updates like this for a while.
+6. Cheered up after reading all the kind comments on the Jolly-Cooperator's discord and on my Ko-fi, you guys really are the best.
+
+
 - FIN -

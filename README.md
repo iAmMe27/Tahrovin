@@ -20,6 +20,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
 - [Gameplay Guide](https://github.com/iAmMe27/Tahrovin/blob/main/Gameplay%20Guide.md)
 - [Performance Tips](https://github.com/iAmMe27/Tahrovin/blob/main/Oculus%20Performance%20Tips.md)
 - [Troubleshooting](https://github.com/iAmMe27/Tahrovin/blob/main/Troubleshooting.md)
+- [Optional Mods](https://github.com/iAmMe27/Tahrovin/blob/main/Optional%20Mods.md)
 
 
 # Table Of Contents
@@ -72,6 +73,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [I can't move!](#i-cant-move)
   - [I CTD on launch!](#i-ctd-on-launch)
   - [Can I add XYZ?](#can-i-add-xyz)
+  - [Enabling Optional Mods](#enabling-optional-mods)
 - [Updating Tahrovin](#updating-tahrovin)
 - [Uninstalling Tahrovin](#uninstalling-tahrovin)
 - [Thank You's](#thank-yous)
@@ -337,6 +339,10 @@ If you have a non-RTX Nvidia GPU, I ask you to refer to the [DLSS/FSR/XeSS](#dls
 
 ## Can I add XYZ?
 I don't know, can you?
+
+## Enabling optional mods
+The optional mods instruction page can be found ![here](https://github.com/iAmMe27/Tahrovin/blob/main/Optional%20Mods.md)
+
 
 # Updating Tahrovin
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
