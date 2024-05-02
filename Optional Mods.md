@@ -73,3 +73,15 @@ ImPhysics = will have more immersive physics based on the mod authors tastes and
 11. Click the run arrow at the bottom left and let all of the patches finish.
 12. Close Synthesis
 13. Run Tahrovin!
+
+## Oblivionesque Lockpicking Redone
+
+Changes the lockpicking minigame to one similar to oblivion's, I personally find it way more fun.
+
+1. Enable Oblivionesque Lockpicking Redone and O.L.R. Retexture - Visually Realistic Lockpicking - Oblivion Lock Mod
+2. Place the OblivionesqueLockpickingRedone.esp above TahrovinCR.esp and OblivionesqueLockpickingRedone - No Wire Traps.esp just below TahrovinCR.esp
+
+![Lockpicking](img/Lockpicking.png)
+
+3. If when playing you get a bug where your lockpick repeatedly shatters after pressing trigger enable Change Lockpicking button to A for Oblinionesque Lockpicking Redone
+4. Have fun!
