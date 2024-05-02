@@ -25,9 +25,13 @@ This one has a dedicated section on the main page
 2. place the ESP for Daedric Bitchs just below the last follower ESP in the list, usually k101daegon.esp.
 3. Open Bodyslidex64
 4. Click the magnifying glass next to group filter in the top right and select choose groups
+
 ![DaedricBitchs1](img/DaedricBitchs1.png)
+
 5. Select the MFBO group and click okay
+
 ![DaedricBitchs2](img/DaedricBitchs2.png)
+
 6. Make sure the preset is set to - Zeroed Sliders -
 7. In the bottom left click Batch Build, then on the following window click okay.
 8. Play Tahrovin and enjoy!
@@ -51,9 +55,13 @@ This one is for people who don't like the skimpy bikini armor of The Amazing Wor
 2. Move the ESP above TahrovinCR.esp
 3. Open BodySlide x64
 4. click the magnifying glass next to group filter in the top right and click choose groups
+
 ![DaedricBitchs1](img/DaedricBitchs1.png)
+
 5. Check all 3 CBBE 3BA Vanilla options
+
 ![CBBE 3BA Vanilla Redone](img/CBBE%203BA%20Vanilla%20Redone1.png)
+
 6. Make sure the preset is set to - Zeroed Sliders - and then click batch build in the bottom left and then click build on the next window
 7. For each option pick the variant that you want in your game.
 Physics = will have physics
