@@ -47,3 +47,21 @@ This one is simple, it'll bump your frames up a bit in exchance for causing a li
 
 This one is for people who don't like the skimpy bikini armor of The Amazing World of Bikini Armor and find it unimmersive.
 
+1. Enable CBBE 3BA Vanilla Outfits Redone (TAWOBA REPLACER)
+2. Move the ESP above TahrovinCR.esp
+3. Open BodySlide x64
+4. click the magnifying glass next to group filter in the top right and click choose groups
+![DaedricBitchs1](img/DaedricBitchs1.png)
+5. Check all 3 CBBE 3BA Vanilla options
+![CBBE 3BA Vanilla Redone](img/CBBE%203BA%20Vanilla%20Redone1.png)
+6. Make sure the preset is set to - Zeroed Sliders - and then click batch build in the bottom left and then click build on the next window
+7. For each option pick the variant that you want in your game.
+Physics = will have physics
+NoPhysics = will not have physics
+ImPhysics = will have more immersive physics based on the mod authors tastes and edits.
+8. Click okay, then let it finish.
+9. Close Bodyslide
+10. Open Synthesis and wait for all the patches to finish compiling.
+11. Click the run arrow at the bottom left and let all of the patches finish.
+12. Close Synthesis
+13. Run Tahrovin!
