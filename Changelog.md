@@ -1031,5 +1031,76 @@ These add an oblivion style lockpicking game to skyrim that I personally vastly 
 5. Cried several tears knowing I won't get to work on fun little updates like this for a while.
 6. Cheered up after reading all the kind comments on the Jolly-Cooperator's discord and on my Ko-fi, you guys really are the best.
 
+## Tahrovin v2.5.0
+
+This update is rather large and since I had some serious real life problems pop up it was really delayed. Combo that with the sheer number of VR mods that got updates and Shizof, Nightfall and I's project we were working on which should be released with this update and it should be very understandable that this changelog was hard to keep up with. I have kept it to the best of my ability but it's very possible some small things were missed or slipped through the cracks.
+
+1. Updated HIGGS
+2. Updated VRIK
+3. Updated Speel Wheel VR
+4. Updated Weapon throw VR
+5. Added Controller Fix VR
+6. Updated Stable Hands
+7. Updated Submissive Lola
+8. Updated Simple Defeat
+9. Added Destructible Bottles
+10. Updated Sprint Jump VR
+11. Added Dynamic Activation Key
+12. Added Ostim Standalone VR, a port made by Shizof and Nightfallstorm and tested and given some ideas by myself.
+13. Added a ton of Jayserpa mods:
+      The Heart of Dibella - Quest Expansion
+      The Innocence Lost - Quest Expansion
+      The Whispering Door - Quest Expansion
+      College of Winterhold - Quest Expansion
+      Caught Red Handed - Quest Expansion
+      The Only Cure - Quest Expansion
+      House of Horrors - Quest Expansion
+      Nilheim - Misc Quest Expansion
+      Leaps of Faith - A Misc Quest
+      Headhunter - Bounties Redone
+      Paarthurnax - Quest Expansion
+      Destroy The Dark Brotherhood - Quest Expansion
+      Infiltration - Quest Expansion
+      Face Sculpter Expanded
+      Simple Hunting Overhaul (Controls section updated for this mod)
+      SHO_VR_Patch - a patch made by Jayserpa for Tahrovin that I have explicit permission to host
+      Vampire Lines Expansion
+      Brawl Lines Expansion and Fixes
+      Carriages and Stables Dialogue Bundle
+      Falmer Servant Lines Expansion
+      NPC's React To Frenzy
+      NPC's React To Invisibility
+      Bandit Lines Expansion
+      Sun Affects NPC Vampires
+      Skyrim's Got Talent - Improve As a Bard
+      Skyrim's Got Talent - VR Patchish
+14. Added Several Mihail Creature mods:
+      Frogs
+      Ograts
+      Reindeer Herds
+      Draugundrs
+      Pony Guars
+      Scuttlers
+      Smilodon
+      Skeletal Revenants
+      Baby Mammoths
+      Crows and Ravens
+      Ring-necked Pheasants
+      Goblins and Reikrs
+      Chickens and chicks
+      Birds of Prey and Felsaad Terns
+      Draugr Patrols and Cavalry
+15. Added LORKHAN - Soundtrack Replacer as an optional Mod
+16. Added Quickloot VR as an optional mod
+17. Added Persistant Favorites
+18. Added Vanilla Hair Replacer as an optional mod
+19. ~~Added Added CBBE 3BA Vanilla Outfits Redone as an optional mod~~ pushed to next update
+20. ~~Added Lollygaggin Guard armor replacer~~ pushed to next update
+21. ~~Added Sunhelm as an optional mod~~ pushed to next update
+22. ~~Added Campfire as an optional mod~~ pushed to next update
+23. Added SCAR VR and its requirements.a
+24. Updated Nightmare Night.
+25. Added Gift By Hand
+26. Added Amethyst reshade and KonsumE and will be making a tutorial on how to set up a secret 6th profile ;)
 
 - FIN -
