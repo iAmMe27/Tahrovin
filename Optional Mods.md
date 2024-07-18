@@ -85,3 +85,12 @@ Changes the lockpicking minigame to one similar to oblivion's, I personally find
 
 3. If when playing you get a bug where your lockpick repeatedly shatters after pressing trigger enable Change Lockpicking button to A for Oblinionesque Lockpicking Redone
 4. Have fun!
+
+## Lorkhan Music Replacer
+
+1. Enable Lorkham Music Replacer in the left panel of MO2
+2. Drag LORKHAN - UI Sound Effects.esp above TahrovinCR.esp in the right panel under plugins and make sure it is enabled
+
+## QuicklootVR ##
+1. Enable Quickloot VR in the left panel of MO2
+2. Drag QuicklootVR.esp above TahrovinCR.esp in the right panel under the plugins tab

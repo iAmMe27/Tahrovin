@@ -84,9 +84,17 @@ If using Neo's bindings L Thumbstick click = Y
 * Left Trigger (Hold) - Grab and Adjust Actor/Schlong by movement of left controller 
 * Right Trigger - Select next actor to adjust
 
+**Ostim VR Controls**
+* R Thumbstick click + Forward then back while an actor is targeted - Begin scene
+* use spell wheel to control the rest
+* go to the mod page and watch it's video for more information
+
 ## TNG Controls
 * Hotkey 4 to open the TNG NPC editor, if there is an NPC in you crosshair i.e. right in front of you it will edit them but if there is no npc found it will edit the player.
 * A Vrik gesture has been pre bound to R Thumbstick Click + Back Then Forward to access the menu without using your keyboard.
+
+## Simple Hunting Overhaul Advanced Controls
+Hold down right trigger while activating an animal carcass you haven't looted yet to pick up the whole carcass to attempt to sell to hunters or tavern keepers.
 
 ## Personal Advice
 If these gestures don't make sense to you head to the [gameplay guide](https://github.com/iAmMe27/Tahrovin/blob/main/Gameplay%20Guide.md) and watch the first video linked at the bottom to learn more about gestures.
