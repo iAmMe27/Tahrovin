@@ -1102,5 +1102,6 @@ This update is rather large and since I had some serious real life problems pop 
 24. Updated Nightmare Night.
 25. Added Gift By Hand
 26. Added Amethyst reshade and KonsumE and will be making a tutorial on how to set up a secret 6th profile ;)
+27. Added a custom mod by Aelover that allows you to pick up and ragdoll humanoids while a werewolf!
 
 - FIN -
