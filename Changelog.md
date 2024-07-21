@@ -1108,6 +1108,7 @@ This update is rather large and since I had some serious real life problems pop 
 
 1. Hotfix update, removed beta versions of mods that shouldn't have been there
 2. Fixed an animation discrepency between profiles
-3. removed unnecessary downloads
+3. Removed unnecessary downloads
+4. Added Open Animations Romance and Erotica.
 
 - FIN -
