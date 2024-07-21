@@ -1104,4 +1104,10 @@ This update is rather large and since I had some serious real life problems pop 
 26. Added Amethyst reshade and KonsumE and will be making a tutorial on how to set up a secret 6th profile ;)
 27. Added a custom mod by Aelover that allows you to pick up and ragdoll humanoids while a werewolf!
 
+## Tahrovin V2.5.0.1
+
+1. Hotfix update, removed beta versions of mods that shouldn't have been there
+2. Fixed an animation discrepency between profiles
+3. removed unnecessary downloads
+
 - FIN -
