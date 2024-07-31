@@ -1111,4 +1111,9 @@ This update is rather large and since I had some serious real life problems pop 
 3. Removed unnecessary downloads
 4. Added Open Animations Romance and Erotica.
 
+## Hotfix
+
+1. Updated More Nasty Critters to keep the list installable
+2. Removed the Embers XD MNC patch to keep the list installable
+3. Removed unnecessary downloads
 - FIN -
