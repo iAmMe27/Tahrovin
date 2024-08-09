@@ -1116,4 +1116,13 @@ This update is rather large and since I had some serious real life problems pop 
 1. Updated More Nasty Critters to keep the list installable
 2. Removed the Embers XD MNC patch to keep the list installable
 3. Removed unnecessary downloads
+
+## Tahrovin v2.5.0.2
+
+1. Updated Simple Defeat so the list is installable again
+2. Updated OstimVR
+3. Updated Spellwheel VR
+4. Added Pseudo Parry Tweaks by Aelove
+5. Added Tinraa Booty bodyslide preset
+
 - FIN -
