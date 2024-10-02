@@ -1134,6 +1134,7 @@ Full disclaimer this version was interupted by a hurricane and power outage and 
 4. Added new outfits in the form of Somewhat Inbetween, these should mix with Tawoba in a way that Tawoba still exists but is far less common and these are more common
 5. Updated Billy Animations so the list is installable again
 6. Added Dismemberment Framework and it's requirements
+7. Set FSR as the default upscaler for ENB Profile since if you are using it you probably have an AMD card
 
 KNOWN ISSUES: Stretchy Draugr from Pandora behavior engine https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus/issues/307
 
