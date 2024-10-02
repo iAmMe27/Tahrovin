@@ -1125,4 +1125,16 @@ This update is rather large and since I had some serious real life problems pop 
 4. Added Pseudo Parry Tweaks by Aelove
 5. Added Tinraa Booty bodyslide preset
 
+## Tahrovin v2.5.0.3
+Full disclaimer this version was interupted by a hurricane and power outage and I didn't keep documentation of what I worked on before the power outage, therefore it is possible that there are changes I have missed though I have done my best to recall them through memory
+
+1. Updated VRIK
+2. Added multiple new ENB options for the ENB profile
+3. Fixed the ENB profile and made sure folders were correctly set up to use root directory
+4. Added new outfits in the form of Somewhat Inbetween, these should mix with Tawoba in a way that Tawoba still exists but is far less common and these are more common
+5. Updated Billy Animations so the list is installable again
+6. Added Dismemberment Framework and it's requirements
+
+KNOWN ISSUES: Stretchy Draugr from Pandora behavior engine https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus/issues/307
+
 - FIN -
