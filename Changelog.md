@@ -1136,6 +1136,13 @@ Full disclaimer this version was interupted by a hurricane and power outage and 
 6. Added Dismemberment Framework and it's requirements
 7. Set FSR as the default upscaler for ENB Profile since if you are using it you probably have an AMD card
 
+## Tahrovin v2.5.0.4
+
+1. Moved OpenVR_api.dll to its own mod folder to prevent it from getting deleted when overwrite is cleared.
+2. Fixed a rather frustrating issue with pandora where it was saving some of its changes in its core folder instead of the output folder
+3. Updated OstimVR
+4. Updated Spellwheel VR
+
 KNOWN ISSUES: Stretchy Draugr from Pandora behavior engine https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus/issues/307
 
 - FIN -
