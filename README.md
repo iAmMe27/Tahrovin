@@ -6,7 +6,7 @@ First things first: **this list contains adult content and you must be of legal 
 
 Support and general talk about Tahrovin resides on the Jolly Co-operators Discord:
 
-[![DiscordButton](img/DiscordButton.png)](https://discord.gg/jolly-coop)
+[![DiscordButton](img/DiscordButton.png)](https://discord.gg/9vKvT6aMSa)
 
 [![Ko-fiButton](img/Kofi.png)](https://ko-fi.com/neochiken)
 
