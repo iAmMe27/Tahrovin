@@ -101,7 +101,6 @@ You will need at least `162GB` of disk space on an SSD for the installation. For
 In terms of accounts you will need:
   * Nexus Premium Account
   * LoversLab Account
-  * VectorPlexus Account
 
 Whilst you don't *need* a Nexus premium account to install the modlist, you'll have a considerably better time of it if you do.
 
