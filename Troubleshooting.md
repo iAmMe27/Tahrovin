@@ -35,4 +35,5 @@ LoversLab can be difficult when it comes to automated downloads, especially to t
 
 ### Giant square obstructing view
 ![Black Square](img/BlackSquareUpscalerVR.png)
+
 Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on again, the square will go away after this. It may or may not come back next session just follow the same steps again.
