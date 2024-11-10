@@ -15,12 +15,12 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
 
 
 # Quick Links
-- [Changelog](https://github.com/iAmMe27/Tahrovin/blob/main/Changelog.md)
-- [Controller Bindings](https://github.com/iAmMe27/Tahrovin/blob/main/ControllerBindings.md)
-- [Gameplay Guide](https://github.com/iAmMe27/Tahrovin/blob/main/Gameplay%20Guide.md)
-- [Performance Tips](https://github.com/iAmMe27/Tahrovin/blob/main/Oculus%20Performance%20Tips.md)
+- [Changelog](/Changelog.md)
+- [Controller Bindings](/ControllerBindings.md)
+- [Gameplay Guide](/Gameplay%20Guide.md)
+- [Performance Tips](/Oculus%20Performance%20Tips.md)
 - [Troubleshooting](https://github.com/iAmMe27/Tahrovin/blob/main/Troubleshooting.md)
-- [Optional Mods](https://github.com/iAmMe27/Tahrovin/blob/main/Optional%20Mods.md)
+- [Optional Mods](/Optional%20Mods.md)
 - [Use Reshade 6 with OpenComposite](/ReshadeWithOpenComposite.md)
 
 
