@@ -21,7 +21,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
 - [Performance Tips](https://github.com/iAmMe27/Tahrovin/blob/main/Oculus%20Performance%20Tips.md)
 - [Troubleshooting](https://github.com/iAmMe27/Tahrovin/blob/main/Troubleshooting.md)
 - [Optional Mods](https://github.com/iAmMe27/Tahrovin/blob/main/Optional%20Mods.md)
-- [Use Reshade 6 with OpenComposite](\ReshadeWithOpenComposite.md)
+- [Use Reshade 6 with OpenComposite](/ReshadeWithOpenComposite.md)
 
 
 # Table Of Contents
