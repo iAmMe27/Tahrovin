@@ -15,12 +15,13 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
 
 
 # Quick Links
-- [Changelog](https://github.com/iAmMe27/Tahrovin/blob/main/Changelog.md)
-- [Controller Bindings](https://github.com/iAmMe27/Tahrovin/blob/main/ControllerBindings.md)
-- [Gameplay Guide](https://github.com/iAmMe27/Tahrovin/blob/main/Gameplay%20Guide.md)
-- [Performance Tips](https://github.com/iAmMe27/Tahrovin/blob/main/Oculus%20Performance%20Tips.md)
+- [Changelog](/Changelog.md)
+- [Controller Bindings](/ControllerBindings.md)
+- [Gameplay Guide](/Gameplay%20Guide.md)
+- [Performance Tips](/Oculus%20Performance%20Tips.md)
 - [Troubleshooting](https://github.com/iAmMe27/Tahrovin/blob/main/Troubleshooting.md)
-- [Optional Mods](https://github.com/iAmMe27/Tahrovin/blob/main/Optional%20Mods.md)
+- [Optional Mods](/Optional%20Mods.md)
+- [Use Reshade 6 with OpenComposite](/ReshadeWithOpenComposite.md)
 
 
 # Table Of Contents
@@ -74,6 +75,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [I CTD on launch!](#i-ctd-on-launch)
   - [Can I add XYZ?](#can-i-add-xyz)
   - [Enabling Optional Mods](#enabling-optional-mods)
+  - [Giant black square on my screen?](#giant-black-square-on-my-screen)
 - [Updating Tahrovin](#updating-tahrovin)
 - [Uninstalling Tahrovin](#uninstalling-tahrovin)
 - [Thank You's](#thank-yous)
@@ -342,6 +344,8 @@ I don't know, can you?
 ## Enabling optional mods
 The optional mods instruction page can be found ![here](https://github.com/iAmMe27/Tahrovin/blob/main/Optional%20Mods.md)
 
+## Giant black square on my screen
+Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on again, the square will go away after this. It may or may not come back next session just follow the same steps again. You may also keep TAA off to prevent it from potentially coming back next session. 
 
 # Updating Tahrovin
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.

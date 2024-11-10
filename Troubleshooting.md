@@ -34,4 +34,6 @@ LoversLab can be difficult when it comes to automated downloads, especially to t
 4. If you are not using a 20xx or newer series Nvidia graphics card or if you are using an AMD graphics card you will need to change skyrim upscaler from DLSS to FSR. Instructions for doing so are in the Skyrim Upscaler section of the main ReadMe page.
 
 ### Giant square obstructing view
+![Black Square](img/BlackSquareUpscalerVR.png)
+
 Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on again, the square will go away after this. It may or may not come back next session just follow the same steps again.
