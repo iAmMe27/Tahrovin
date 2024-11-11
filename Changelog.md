@@ -1145,4 +1145,8 @@ Full disclaimer this version was interupted by a hurricane and power outage and 
 
 KNOWN ISSUES: Stretchy Draugr from Pandora behavior engine https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus/issues/307
 
+## Tahrovin v2.5.0.5
+1. Moved source of SCOE to make list installable again
+2. Hopefully fixed pandora needing to be rerun by the user to play
+
 - FIN -
