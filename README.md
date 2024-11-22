@@ -89,6 +89,7 @@ And don't worry, for those who prefer to play as a male character, males have al
   - [Can I add XYZ?](#can-i-add-xyz)
   - [Enabling Optional Mods](#enabling-optional-mods)
   - [Giant black square on my screen?](#giant-black-square-on-my-screen)
+  - [Can't find your issue here?](#cant-find-your-issue-here)
 - [Updating Tahrovin](#updating-tahrovin)
 - [Uninstalling Tahrovin](#uninstalling-tahrovin)
 - [Thank You's](#thank-yous)
