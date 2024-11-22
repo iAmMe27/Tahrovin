@@ -4,7 +4,7 @@ First things first: **this list contains adult content and you must be of legal 
 
 ***Having issues with the modlist? [FAQ \& Common Issues](#faq--common-issues)***
 
-Support and general talk about Tahrovin resides on the Jolly Co-operators Discord:
+Support and general talk about Tahrovin resides on the iAmMe Modlist Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
 
