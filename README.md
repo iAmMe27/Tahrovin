@@ -87,7 +87,7 @@ And don't worry for those who prefer to play as a male character, males have als
 
 <br>
 
-#
+---
 
 <br>
 
@@ -124,7 +124,7 @@ Whilst you don't *need* a Nexus premium account to install the modlist, you'll h
 
 <br>
 
-#
+---
 
 <br>
 
@@ -232,7 +232,7 @@ If you're having issues with installation, check the [troubleshooting page](Trou
 
 <br>
 
-#
+---
 
 <br>
 
@@ -291,7 +291,7 @@ See Oculus performance tips
 
 <br>
 
-#
+---
 
 <br>
 
@@ -307,7 +307,7 @@ Refer to the [Skyrim VR Upscaler](#skyrim-vr-upscaler-selection) section.
 
 <br>
 
-#
+---
 
 <br>
 
@@ -349,7 +349,7 @@ Done! Exit the MCM and save.
 
 <br>
 
-#
+---
 
 <br>
 
@@ -469,7 +469,7 @@ Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on a
 
 <br>
 
-#
+---
 
 <br>
 
@@ -487,7 +487,7 @@ No fancy uninstallation needed, you can just delete the Tahrovin folder and it'l
 
 <br>
 
-#
+---
 
 <br>
 
