@@ -28,7 +28,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
 - [What is Tahrovin?](#what-is-tahrovin)
 - [Quick Links](#quick-links)
 - [Before You Start](#before-you-start)
-  - [Hardware Requirements](#hardware-requirements)
+  - [Hardware Requirements](#hardware-requirements) // Update necessary
   - [Accounts](#accounts)
 - [Installation](#installation)
   - [Preparation](#preparation)
@@ -46,6 +46,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Commonly Failing Downloads](#commonly-failing-downloads)
   - [Troubleshooting](#troubleshooting)
 - [Post-Installation](#post-installation)
+  - [Profiles](#profiles) // Update necessary
   - [Stock Game](#stock-game)
   - [Community Shaders](#community-shaders)
   - [Skyrim VR Upscaler Selection](#skyrim-vr-upscaler-selection)
@@ -57,7 +58,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
     - [*THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*](#this-step-is-important-if-you-do-not-do-this-step-your-game-will-not-function-correctly)
   - [Now go read the Gameplay Guide](#now-go-read-the-gameplay-guide)
   - [Controller Bindings](#controller-bindings)
-- [FAQ \& Common Issues](#faq--common-issues)
+- [FAQ \& Common Issues](#faq--common-issues) // Update necessary
   - [My game won't start even after a fresh install!](#my-game-wont-start-even-after-a-fresh-install)
   - [I get an OpenComposite error when launching the game?](#i-get-an-opencomposite-error-when-launching-the-game)
   - [I Crashed!](#i-crashed)
@@ -81,16 +82,20 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
 - [Thank You's](#thank-yous)
 
 
+<br>
+<br>
+
+
 # Before You Start
 Before you dive in, there's a couple things you need to be sure of first:
 
-## Hardware Requirements
+## Hardware Requirements // Update Necessary
 I run a relatively powerful PC with the following specs:
   * CPU: Ryzen 7 5800X3D
   * RAM: 32GB DDR4 @ 3600MHz
-  * GPU: RTX 3090
+  * GPU: RX 7900 XTX
 
-I use an Oculus Quest 2 headset with an Oculus link cable for the best potential performance. **If you are using a Quest 2, I have a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**
+I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a Quest 3, I have a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**
 
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
   * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
@@ -202,6 +207,18 @@ If you're having issues with installation, check the [troubleshooting page](Trou
 Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the Tahrovin installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
 ***DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.***
+
+## Profiles
+Tahrovin comes with a variety of different profiles to match your preferences. You can choose the profile by clicking on the drop down menu in the top center of MO2. 
+
+***insert image here***
+
+ - Tahrovin: This is the default profile. It uses Community Shaders (CS for short) and ReShade for visuals and is the core experience all other profiles are built upon
+ - Perfomance: This profile sacrifices some of the visual upgrades like CS and ReShade to accomodate lower end systems. It is based on the default profile and makes no sacrifices in gameplay/content mods, so you're only missing out on some visual improvements
+ - Tahrovin Degen: This profile adds creature support to the adult frameworks. Be warned, this means there will be bestiality content in your game, hence the name of the profile
+ - Tahrovin Parallax Beta: This profile introduces Parallax, which in combination with CS makes the game even more stunning. Note that this is a Beta profile, meaning there might be places where parallax looks a little off or in rare cases even be obviously broken. If you find such cases, feel free to report them in the discord so I can try to fix them in later updates
+ - ***add missing profiles here***
+
 
 ## Stock Game
 Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
