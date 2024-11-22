@@ -2,8 +2,12 @@
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country. Tahrovin is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
 
+<br>
+
 ***Having issues with the modlist? [FAQ \& Common Issues](#faq--common-issues)***
 
+<br>
+  
 Support and general talk about Tahrovin resides on the iAmMe Modlist Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
@@ -21,13 +25,13 @@ And don't worry, for those who prefer to play as a male character, males have al
 
 # Quick Links
 
-- [Changelog](/Changelog.md)
-- [Controller Bindings](/ControllerBindings.md)
-- [Gameplay Guide](/Gameplay%20Guide.md)
-- [Performance Tips](/Oculus%20Performance%20Tips.md)
-- [Troubleshooting](https://github.com/iAmMe27/Tahrovin/blob/main/Troubleshooting.md)
-- [Optional Mods](/Optional%20Mods.md)
-- [Use Reshade 6 with OpenComposite](/ReshadeWithOpenComposite.md)
+- [Changelog](Changelog.md)
+- [Controller Bindings](ControllerBindings.md)
+- [Gameplay Guide](Gameplay%20Guide.md)
+- [Performance Tips](Oculus%20Performance%20Tips.md)
+- [Troubleshooting](Troubleshooting.md)
+- [Optional Mods](Optional%20Mods.md)
+- [Use Reshade 6 with OpenComposite](ReshadeWithOpenComposite.md)
 
 <br>
 
@@ -464,12 +468,18 @@ I don't know, can you?
 <br>
 
 ## Enabling optional mods
-The optional mods instruction page can be found ![here](https://github.com/iAmMe27/Tahrovin/blob/main/Optional%20Mods.md)
+The optional mods instruction page can be found ![here](Optional%20Mods.md)
 
 <br>
 
 ## Giant black square on my screen
 Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on again, the square will go away after this. It may or may not come back next session just follow the same steps again. You may also keep TAA off to prevent it from potentially coming back next session. 
+
+<br>
+
+## Can't find your issue here?
+
+Take a look at [Troubleshooting](Troubleshooting.md)
 
 <br>
 
