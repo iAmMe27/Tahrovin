@@ -40,7 +40,7 @@ And don't worry, for those who prefer to play as a male character, males have al
 - [What is Tahrovin?](#what-is-tahrovin)
 - [Quick Links](#quick-links)
 - [Before You Start](#before-you-start)
-  - [Hardware Requirements](#hardware-requirements) // Update necessary
+  - [Hardware Requirements](#hardware-requirements)
   - [Accounts](#accounts)
 - [Installation](#installation)
   - [Preparation](#preparation)
@@ -109,15 +109,15 @@ Before you dive in, there's a couple things you need to be sure of first:
 ## Hardware Requirements // Update Necessary
 
 I run a relatively powerful PC with the following specs:
-  * CPU: Ryzen 7 5800X3D
-  * RAM: 32GB DDR4 @ 3600MHz
+  * CPU: i7 13700KF
+  * RAM: 32GB 
   * GPU: RX 7900 XTX
 
 I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a Quest 3, I have a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**  
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
-  * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
+  * CPU: Intel 7th gen *OR* AMD Ryzen 5000 series 
   * RAM: 16GB of DDR4
-  * GPU: RTX 2060 *or the AMD equivalent with at least 6GB of VRAM*
+  * GPU: RTX 3060 *or the AMD equivalent with at least 8GB of VRAM*
 
 You will need at least `162GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `71GB`- ideally you want *at least* `250GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
