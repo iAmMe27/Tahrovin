@@ -58,7 +58,7 @@ And don't worry, for those who prefer to play as a male character, males have al
   - [Commonly Failing Downloads](#commonly-failing-downloads)
   - [Troubleshooting](#troubleshooting)
 - [Post-Installation](#post-installation)
-  - [Profiles](#profiles) // Update necessary
+  - [Profiles](#profiles)
   - [Stock Game](#stock-game)
   - [Community Shaders](#community-shaders)
   - [Skyrim VR Upscaler Selection](#skyrim-vr-upscaler-selection)
