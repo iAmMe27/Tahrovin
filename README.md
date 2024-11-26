@@ -337,12 +337,6 @@ The MCM setup is *mostly* automated and will run on its own after you've finishe
 
 ![SLEN2](img/SLEN2.jpg)
 
-3. Back out of the SexLab Eager NPCs MCM and scroll down to the VRIK menu > Gesture Config. I recommend the following setup for activating the Autobody menu:
-
-![VRIKGesture](img/VRIKGesture.png)
-
-Configure the gesture to your preference but make it something you aren't likely to accidently do during combat. **Note:** the selected key press must be `Hotkey3` for the gesture to trigger Autobody.
-
 Done! Exit the MCM and save.
 
 4. Optionally you can set up Smalls if youd like to have NPCs have underwear when looted. To do this simply take the crystal in the central area by all of the shrines to the smithy, you will find a chest on the wall there labeled "Underwear." Loot everything in that chest and then open the MCM and go to MCM recorder. Find the recording labeled Smalls and play it, close the menu and then select run. After it finishes you are free to put the underwear back in the chest or keep it. You will want to do this first if you want Just In Time underwear as having too many clothing items in your inventory will break the MCM recording.
