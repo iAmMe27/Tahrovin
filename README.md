@@ -255,13 +255,14 @@ Almost there but we're not out of the woods yet! After Wabbajack has given you t
 ## Profiles
 Tahrovin comes with a variety of different profiles to match your preferences. You can choose the profile by clicking on the drop down menu in the top center of MO2. 
 
-***insert image here***
+![PROFILES](img/profiles.png)
 
  - Tahrovin: This is the default profile. It uses Community Shaders (CS for short) and ReShade for visuals and is the core experience all other profiles are built upon
  - Perfomance: This profile sacrifices some of the visual upgrades like CS and ReShade to accomodate lower end systems. It is based on the default profile and makes no sacrifices in gameplay/content mods, so you're only missing out on some visual improvements
- - Tahrovin Degen: This profile adds creature support to the adult frameworks. Be warned, this means there will be bestiality content in your game, hence the name of the profile
- - Tahrovin Parallax Beta: This profile introduces Parallax, which in combination with CS makes the game even more stunning. Note that this is a Beta profile, meaning there might be places where parallax looks a little off or in rare cases even be obviously broken. If you find such cases, feel free to report them in the discord so I can try to fix them in later updates
- - ***add missing profiles here***
+ - Degeneracy: This profile adds creature support to the adult frameworks. Be warned, this means there will be bestiality content in your game, hence the name of the profile
+ - Tarallax Beta: This profile introduces Parallax, which in combination with CS makes the game even more stunning. Note that this is a Beta profile, meaning there might be places where parallax looks a little off or in rare cases even be obviously broken. If you find such cases, feel free to report them in the discord so I can try to fix them in later updates
+ - Degeneracy Parallax Beta: This should be self explanatory, it's the Degeneracy Profile but including parallax
+ - ENB: This Profile replaces Community Shaders with ENB, trading off visual improvements in some places for visual improvements in others. Generally speaking ENB looks *prettier*, but Community Shaders look more *consistent*
 
 <br>
 
