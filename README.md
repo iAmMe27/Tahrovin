@@ -70,7 +70,7 @@ And don't worry, for those who prefer to play as a male character, males have al
     - [*THIS STEP IS IMPORTANT! IF YOU DO NOT DO THIS STEP, YOUR GAME WILL NOT FUNCTION CORRECTLY!*](#this-step-is-important-if-you-do-not-do-this-step-your-game-will-not-function-correctly)
   - [Now go read the Gameplay Guide](#now-go-read-the-gameplay-guide)
   - [Controller Bindings](#controller-bindings)
-- [FAQ \& Common Issues](#faq--common-issues) // Update necessary
+- [FAQ \& Common Issues](#faq--common-issues)
   - [My game won't start even after a fresh install!](#my-game-wont-start-even-after-a-fresh-install)
   - [I get an OpenComposite error when launching the game?](#i-get-an-opencomposite-error-when-launching-the-game)
   - [I Crashed!](#i-crashed)
@@ -106,7 +106,7 @@ Before you dive in, there's a couple things you need to be sure of first:
 
 <br>
 
-## Hardware Requirements // Update Necessary
+## Hardware Requirements
 
 I run a relatively powerful PC with the following specs:
   * CPU: i7 13700KF
