@@ -507,7 +507,7 @@ Massive thank you to the following people:
   * Tsukino for making Tsukiro - Tsukiro is also an amazing modlist that deserves your attention. Tsukiro also inspired Tahrovin a lot.
   * The Wabbajack team for making the modern day equivalent of a miracle to make all these modlists possible in the first place.
 
-# Neochiken's Thank You'S
+# Neochiken's Thank You's
   * iAmMe for teaching me almost everything I know about wabbajack, you have been an incredible friend and mentor and words cannot express how much the experience being your friend has meant to me.
   * Cacophony for giving me my original home on his discord and helping me through many wabbajack compilation issues and being extremely supportive in general.
   * Aelove for enjoying Tahrovin enough to be interested in making his own fork and doing a stellar job of it as well as many custom additions to both Tahrovin and GRIT. He is an inspiration to work with.
