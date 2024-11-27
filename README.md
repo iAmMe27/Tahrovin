@@ -117,9 +117,9 @@ I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a 
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
   * CPU: Intel 7th gen *OR* AMD Ryzen 5000 series 
   * RAM: 16GB of DDR4
-  * GPU: RTX 3060 *or the AMD equivalent with at least 8GB of VRAM*
+  * GPU: RTX 3070 *or the AMD equivalent with at least 8GB of VRAM*
 
-You will need at least `162GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `71GB`- ideally you want *at least* `250GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
+You will need at least `245GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `106GB`- ideally you want *at least* `350GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
 <br>
 
@@ -260,7 +260,7 @@ Tahrovin comes with a variety of different profiles to match your preferences. Y
  - Tahrovin: This is the default profile. It uses Community Shaders (CS for short) and ReShade for visuals and is the core experience all other profiles are built upon
  - Perfomance: This profile sacrifices some of the visual upgrades like CS and ReShade to accomodate lower end systems. It is based on the default profile and makes no sacrifices in gameplay/content mods, so you're only missing out on some visual improvements
  - Degeneracy: This profile adds creature support to the adult frameworks. Be warned, this means there will be bestiality content in your game, hence the name of the profile
- - Tarallax Beta: This profile introduces Parallax, which in combination with CS makes the game even more stunning. Note that this is a Beta profile, meaning there might be places where parallax looks a little off or in rare cases even be obviously broken. If you find such cases, feel free to report them in the discord so I can try to fix them in later updates
+ - Parallax Beta: This profile introduces Parallax, which in combination with CS makes the game even more stunning. Note that this is a Beta profile, meaning there might be places where parallax looks a little off or in rare cases even be obviously broken. If you find such cases, feel free to report them in the discord so I can try to fix them in later updates
  - Degeneracy Parallax Beta: This should be self explanatory, it's the Degeneracy Profile but including parallax
  - ENB: This Profile replaces Community Shaders with ENB, trading off visual improvements in some places for visual improvements in others. Generally speaking ENB looks *prettier*, but Community Shaders look more *consistent*
 
@@ -501,8 +501,17 @@ No fancy uninstallation needed, you can just delete the Tahrovin folder and it'l
 
 <br>
 
-# Thank You's
+# iAmMe's Thank You's
 Massive thank you to the following people:
   * cacophony for making Licentia - Licentia was my first NSFW Skyrim list. It was, and still is, an amazing modlist. Seriously, go play it! Licentia inspired Tahrovin in many ways.
   * Tsukino for making Tsukiro - Tsukiro is also an amazing modlist that deserves your attention. Tsukiro also inspired Tahrovin a lot.
   * The Wabbajack team for making the modern day equivalent of a miracle to make all these modlists possible in the first place.
+
+# Neochiken's Thank You'S
+  * iAmMe for teaching me almost everything I know about wabbajack, you have been an incredible friend and mentor and words cannot express how much the experience being your friend has meant to me.
+  * Cacophony for giving me my original home on his discord and helping me through many wabbajack compilation issues and being extremely supportive in general.
+  * Aelove for enjoying Tahrovin enough to be interested in making his own fork and doing a stellar job of it as well as many custom additions to both Tahrovin and GRIT. He is an inspiration to work with.
+  * Shizof who has patiently sat through my bug reports time and time again for incredibly obscure issues and not only heard me out and fixed them but also tought me things about skyrim modding in the process.
+  * Nightfallstorm & alandtse for the creation of ESL support for VR proving that nothing is truly impossible in the realm of Skyrim modding.
+  * Decimal for helping with countless hours of support as well as great suggestions for the list and bringing a fun and positive attitude to my dev channel. I couldn't ask for a better support teammate.
+  * My wife, who encourages and supports me through this wacky little hobby of mine and always has my back when it stresses me out.
