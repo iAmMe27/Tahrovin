@@ -464,7 +464,7 @@ I don't know, can you?
 <br>
 
 ## Enabling optional mods
-The optional mods instruction page can be found ![here](Optional%20Mods.md)
+The optional mods instruction page can be found [here](Optional%20Mods.md)
 
 <br>
 
