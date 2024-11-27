@@ -2,29 +2,41 @@
 
 First things first: **this list contains adult content and you must be of legal age in your country. This means 18+ in most countries, 21+ in others. It is up to you to be sure of the age requirement in your country. Tahrovin is a collection of different mods from various sources, it does not reflect the views or opinions of any mod author's featured in the list.**
 
+<br>
+
 ***Having issues with the modlist? [FAQ \& Common Issues](#faq--common-issues)***
 
-Support and general talk about Tahrovin resides on the Jolly Co-operators Discord:
+<br>
+  
+Support and general talk about Tahrovin resides on the iAmMe Modlist Discord:
 
 [![DiscordButton](img/DiscordButton.png)](https://discord.gg/iammodlist)
 
 [![Ko-fiButton](img/Kofi.png)](https://ko-fi.com/neochiken)
 
-# What is Tahrovin?
-Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. Don't worry for those who prefer to play as a male character, males have also received attention in this list.
+<br>
 
+# What is Tahrovin?
+
+Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyrim VR experience. The list features most, if not all, of the fundamental mods needed for any Skyrim VR mod list. The list offers plenty of eye candy paired with everyone's favourite jiggle physics. Yes, this means plenty of skimpy outfits and selectively crafted bodyslides - and no, it's not supposed to be immersive. If you're looking for a more immersive, more difficult, ***grittier*** experience, check out [Tahrovin Grit](https://github.com/AeloveRim/TahrovinGrit).  
+And don't worry, for those who prefer to play as a male character, males have also received attention in this list.
+
+<br>
 
 # Quick Links
-- [Changelog](/Changelog.md)
-- [Controller Bindings](/ControllerBindings.md)
-- [Gameplay Guide](/Gameplay%20Guide.md)
-- [Performance Tips](/Oculus%20Performance%20Tips.md)
-- [Troubleshooting](https://github.com/iAmMe27/Tahrovin/blob/main/Troubleshooting.md)
-- [Optional Mods](/Optional%20Mods.md)
-- [Use Reshade 6 with OpenComposite](/ReshadeWithOpenComposite.md)
 
+- [Changelog](Changelog.md)
+- [Controller Bindings](ControllerBindings.md)
+- [Gameplay Guide](Gameplay%20Guide.md)
+- [Performance Tips](Oculus%20Performance%20Tips.md)
+- [Troubleshooting](Troubleshooting.md)
+- [Optional Mods](Optional%20Mods.md)
+- [Use Reshade 6 with OpenComposite](ReshadeWithOpenComposite.md)
+
+<br>
 
 # Table Of Contents
+
 - [What is Tahrovin?](#what-is-tahrovin)
 - [Quick Links](#quick-links)
 - [Before You Start](#before-you-start)
@@ -46,6 +58,7 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Commonly Failing Downloads](#commonly-failing-downloads)
   - [Troubleshooting](#troubleshooting)
 - [Post-Installation](#post-installation)
+  - [Profiles](#profiles)
   - [Stock Game](#stock-game)
   - [Community Shaders](#community-shaders)
   - [Skyrim VR Upscaler Selection](#skyrim-vr-upscaler-selection)
@@ -76,42 +89,64 @@ Tahrovin is a NSFW Skyrim VR modlist that aims to improve and add upon the Skyri
   - [Can I add XYZ?](#can-i-add-xyz)
   - [Enabling Optional Mods](#enabling-optional-mods)
   - [Giant black square on my screen?](#giant-black-square-on-my-screen)
+  - [Can't find your issue here?](#cant-find-your-issue-here)
 - [Updating Tahrovin](#updating-tahrovin)
 - [Uninstalling Tahrovin](#uninstalling-tahrovin)
 - [Thank You's](#thank-yous)
 
+<br>
+
+---
+
+<br>
 
 # Before You Start
+
 Before you dive in, there's a couple things you need to be sure of first:
 
+<br>
+
 ## Hardware Requirements
+
 I run a relatively powerful PC with the following specs:
-  * CPU: Ryzen 7 5800X3D
-  * RAM: 32GB DDR4 @ 3600MHz
-  * GPU: RTX 3090
+  * CPU: i7 13700KF
+  * RAM: 32GB 
+  * GPU: RX 7900 XTX
 
-I use an Oculus Quest 2 headset with an Oculus link cable for the best potential performance. **If you are using a Quest 2, I have a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**
-
+I use an Oculus Quest 3 headset with wireless Steam Link . **If you are using a Quest 3, I have a couple of performance recommendations that you can [find here](Oculus%20Performance%20Tips.md) if you are struggling to get the game to run well.**  
 Now, I have not built this list to be as graphically intensive as possible but I have taken some liberties in installing higher resolution textures as well as offering a couple of the more demanding ENB presets available. With that in mind, I'd recommend at least the following specs for the best experience:
-  * CPU: Intel 7th gen *OR* AMD Ryzen 3000 series 
+  * CPU: Intel 7th gen *OR* AMD Ryzen 5000 series 
   * RAM: 16GB of DDR4
-  * GPU: RTX 2060 *or the AMD equivalent with at least 6GB of VRAM*
+  * GPU: RTX 3060 *or the AMD equivalent with at least 8GB of VRAM*
 
 You will need at least `162GB` of disk space on an SSD for the installation. For the downloads, you will need an extra `71GB`- ideally you want *at least* `250GB` for temporary Wabbajack work space. It doesn't have to be an NVMe SSD, but a HDD of any kind will make the list painfully unplayable. 
 
+<br>
+
 ## Accounts
+
 In terms of accounts you will need:
   * Nexus Premium Account
   * LoversLab Account
 
 Whilst you don't *need* a Nexus premium account to install the modlist, you'll have a considerably better time of it if you do.
 
+<br>
+
+---
+
+<br>
+
 # Installation
+
 Please follow all of steps below if it is your first time installing this modlist, if you're updating you can [jump straight there](#updating-tahrovin).
+
+<br>
 
 ## Preparation
 
 ### Install Microsoft Visual C++ Redistributable Packages
+
 This package is a must as it is needed by MO2 - you may already have it if you've used MO2 before. If you do not have it, you want to download the x64 version under "Visual Studio 2015, 2017 and 2019".
 
 [Download Visual C++ Redistributable Package.](https://docs.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist?view=msvc-170)
@@ -179,6 +214,8 @@ Once you've done the steps above, you can now set Steam to download Skyrim VR ag
 ### Start Skyrim VR
 That's right - start the game. You need to let the game do its initial start up jobs such as creating registry entries and generating default config files. Once you've gotten to the main menu you can close the game again.
 
+<br>
+
 ## Wabbajack
 Installing the list is straight forward, Wabbajack will do most of the heavy lifting for you - you only have to tell it where to put stuff. Grab the Tahrovin from the Wabbajack UI, once its downloaded the initial stuff it needs, Wabbajack will have 2 things for you to do - fill in the installation location and the download location. 
 
@@ -190,25 +227,55 @@ Before you hit **GO**, a quick tip:
 
 Once you have everything set in Wabbajack, hit **GO** and let it do its thing. It might take a while as there is a fair bit to download and the speed of this will depend on your internet performance as well as your CPU in the later stages for hashing and unpacking the downloads.
 
+<br>
+
 ## Commonly Failing Downloads
 Downloads from file hosts such as Google Drive and Mega can sometimes be a pain and refuse to download automatically via Wabbajack for reasons unknown. Any files that might give you trouble [can be found here for manual download](https://github.com/iAmMe27/Tahrovin/wiki/Commonly-Failing-Downloads).
 
 Download these files and place them *as they are* into the same folder you told Wabbajack to put your downloads in. Let me reiterate just to be sure - **do not unzip the archives!**
 
+<br>
+
 ## Troubleshooting
 If you're having issues with installation, check the [troubleshooting page](Troubleshooting.md). 
+
+<br>
+
+---
+
+<br>
 
 # Post-Installation
 Almost there but we're not out of the woods yet! After Wabbajack has given you the installation successful screen, you're free to close it. Navigate to the Tahrovin installation folder and run MO2 by double-clicking `ModOrganizer.exe`.
 
 ***DO NOT UNDER ANY CIRCUMSTANCES RUN LOOT. The load order is exactly as intended out of the box and you do not need to change it.***
 
+<br>
+
+## Profiles
+Tahrovin comes with a variety of different profiles to match your preferences. You can choose the profile by clicking on the drop down menu in the top center of MO2. 
+
+![PROFILES](img/profiles.png)
+
+ - Tahrovin: This is the default profile. It uses Community Shaders (CS for short) and ReShade for visuals and is the core experience all other profiles are built upon
+ - Perfomance: This profile sacrifices some of the visual upgrades like CS and ReShade to accomodate lower end systems. It is based on the default profile and makes no sacrifices in gameplay/content mods, so you're only missing out on some visual improvements
+ - Degeneracy: This profile adds creature support to the adult frameworks. Be warned, this means there will be bestiality content in your game, hence the name of the profile
+ - Tarallax Beta: This profile introduces Parallax, which in combination with CS makes the game even more stunning. Note that this is a Beta profile, meaning there might be places where parallax looks a little off or in rare cases even be obviously broken. If you find such cases, feel free to report them in the discord so I can try to fix them in later updates
+ - Degeneracy Parallax Beta: This should be self explanatory, it's the Degeneracy Profile but including parallax
+ - ENB: This Profile replaces Community Shaders with ENB, trading off visual improvements in some places for visual improvements in others. Generally speaking ENB looks *prettier*, but Community Shaders look more *consistent*
+
+<br>
+
 ## Stock Game
 Tahrovin utilises the stock game feature offered by Wabbajack, meaning that Wabbajack will make a local copy of your Skyrim VR game files during the installation process. This means that your Steam installation of Skyrim VR is completely untouched, even by files that go in the game folder such as ENB files.
+
+<br>
 
 ## Community Shaders
 As a note the first time Community Shaders runs it will have to compile shaders, this may take a while and may look like SkyrimVR is frozen, just be patient. This process will also most likely be repeated any time you change mods in the list.
 The Community Shaders Menu can be opened with END and from here you can toggle individual shaders on and off.
+
+<br>
 
 ## Skyrim VR Upscaler Selection
 Like in the previous section, Skyrim VR Upscaler options are found in MO2 under the `Skyrim VR Upscaler` separator. 
@@ -217,6 +284,8 @@ Remember, AMD and non-RTX GPU's must use **FSR** and not DLSS or DLAA.
 
 ![Upscaler Selection](img/UpscalerSelection.png)
 
+<br>
+
 ## Creating a desktop shortcut
 Nobody wants to be launching their game via multiple clicks, they want to be able to do it from the desktop! This is simple to do - open MO2, ensure **Tahrovin** is selected in the dropdown and click the "Shortcut" button. From the small dropdown menu, click "Desktop". Of course, you can always run from inside of MO2 by clicking the "Run" button instead.
 
@@ -224,17 +293,33 @@ Nobody wants to be launching their game via multiple clicks, they want to be abl
 
 Done! You should now have a shortcut on your desktop which you can now run the modlist from. Don't run Skyrim VR from within Steam as it won't launch MO2's virtual file system to make a modded game instance.
 
+<br>
+
 ## Swapping between SteamVR and OpenComposite Binaries
 See Oculus performance tips
 [Oculus Performance Tips](Oculus%20Performance%20Tips.md)
+
+<br>
+
+---
+
+<br>
 
 # Pre-Game Launch
 
 **Before launching the game, make sure your VR headset is initialised and both controllers are connected. Launching the game, without both of these conditions met will be a bad time.**
 
+<br>
+
 ## DLSS/FSR/XeSS
 
 Refer to the [Skyrim VR Upscaler](#skyrim-vr-upscaler-selection) section.
+
+<br>
+
+---
+
+<br>
 
 # Mod Setup
 
@@ -252,29 +337,36 @@ The MCM setup is *mostly* automated and will run on its own after you've finishe
 
 ![SLEN2](img/SLEN2.jpg)
 
-3. Back out of the SexLab Eager NPCs MCM and scroll down to the VRIK menu > Gesture Config. I recommend the following setup for activating the Autobody menu:
-
-![VRIKGesture](img/VRIKGesture.png)
-
-Configure the gesture to your preference but make it something you aren't likely to accidently do during combat. **Note:** the selected key press must be `Hotkey3` for the gesture to trigger Autobody.
-
 Done! Exit the MCM and save.
 
-4. Optionally you can set up Smalls if youd like to have NPCs have underwear when looted. To do this simply take the crystal in the central area by all of the shrines to the smithy, you will find a chest on the wall there labeled "Underwear." Loot everything in that chest and then open the MCM and go to MCM recorder. Find the recording labeled Smalls and play it, close the menu and then select run. After it finishes you are free to put the underwear back in the chest or keep it. You will want to do this first if you want Just In Time underwear as having too many clothing items in your inventory will break the MCM recording.
+3. Optionally you can set up Smalls if youd like to have NPCs have underwear when looted. To do this simply take the crystal in the central area by all of the shrines to the smithy, you will find a chest on the wall there labeled "Underwear." Loot everything in that chest and then open the MCM and go to MCM recorder. Find the recording labeled Smalls and play it, close the menu and then select run. After it finishes you are free to put the underwear back in the chest or keep it. You will want to do this first if you want Just In Time underwear as having too many clothing items in your inventory will break the MCM recording.
+
+<br>
 
 ## Now go read the Gameplay Guide
 [Right here](Gameplay%20Guide.md)
 
+<br>
+
 ## Controller Bindings
 [Controller bindings can be found here](ControllerBindings.md)
 
+<br>
+
+---
+
+<br>
 
 # FAQ & Common Issues
+
+<br>
 
 ## My game won't start even after a fresh install!
 Check in your `Tahrovin\Stock Game` folder for an `openvr_api.dll` file. If this file is not present, your game cannot start. To solve this, copy the `openvr_api.dll` file from your Skyrim VR Steam installation folder into your `Tahrovin\Stock Game` folder and relaunch.
 
 When using ENB Organizer, **always** disable an option *then* enable another. Not doing this will mess up the files.
+
+<br>
 
 ## I get an OpenComposite error when launching the game?
 Like this?
@@ -282,6 +374,8 @@ Like this?
 ![](https://i.imgur.com/3zYQXNz.png)
 
 If you are getting an error message like the screenshot when launching the game, you have OpenComposite enabled for a non-Oculus headset or you are using VirtualDesktop. Disable OpenComposite, enable SteamVR.
+
+<br>
 
 ## I Crashed!
 Giving me that little info is not helpful. 
@@ -292,34 +386,54 @@ Please upload (drag and drop the file into the `#tahrovin-support` Discord chann
 
 If you have modified Tahrovin, ignore the previous advice and keep to the `#tahrovin-modifications` Discord channel. I will not help you with modified lists in official support categories - less because I don't want to and more because I cannot.
 
+<br>
+
 ## Where's my UI?
 Raise your left hand, palm facing upwards, to activate the compass. Your stat bars are hidden by default, equip the soul gauges in your inventory and assign them as you wish. When it asks for hand offset, I recommend you set the offset to **3**.
+
+<br>
 
 ## Help I can't see my game!
 If you have an ENB selected, give it a few seconds as it takes a short period for the game to render as the ENB does its thing.
 
+<br>
+
 ## Is there a way for me to see myself?
 Raise your right hand above your head and rotate your wrist to turn your character. If you put your right hand down, your character should stay in selfie mode - re-raise your right hand to disable.
+
+<br>
 
 ## How do I change my or an NPC's body?
 Autobody. Default VRIK gesture is Right Thumbstick click + Controller Down. Want to change the Autobody gesture? [Read this.](https://github.com/iAmMe27/Tahrovin/wiki/Changing-Autobody-Hotkey)
 
+<br>
+
 ## Playing in Seated Mode
 Tahrovin features the `Auto Sneak and Jump` mod which relies on your movement in real life to jump and crouch, therefore making it not very useful to you if you prefer to play in seated mode. Unless you'd like to try sneaking everywhere you go, you should be fine to disable this mod from the "Gameplay Mods" section in MO2.
+
+<br>
 
 ## IT'S TOO DARK
 No it isn't - stop turning off Glamur (or one of the other ENBs) and open your eyes.
 
+<br>
+
 ## CAN YOU MAKE IT BRIGHTER/CAN YOU MAKE IT EASIER?
 ![](https://i.imgur.com/49oW4CD.png)
+
+<br>
 
 ## My performance is really bad!
 Your CPU or GPU is too weak. Or, you don't have XMP enabled for your RAM.
 
 If you ignored the minimum specifications I wrote near the top of this readme, that's on you.
 
+<br>
+
 ## Loading takes too long!
 Shouldn't have put the modlist on a HDD - I did warn you earlier in this very readme.
+
+<br>
 
 ## I have grey hands/Vive wands in game!
 Create a new file in the Stock Game folder and name it `opencomposite.ini`. In that file, write a single line consisting of:
@@ -328,8 +442,12 @@ Create a new file in the Stock Game folder and name it `opencomposite.ini`. In t
 
 Save, close, relaunch game.
 
+<br>
+
 ## I can't move!
 You started Tahrovin before making sure your controllers were connected. Restart the game.
+
+<br>
 
 ## I CTD on launch!
 Well, that could be a multitude of things. Make sure you Tahrovin folder is added to your antivirus exceptions/allow list and try again.
@@ -338,14 +456,32 @@ If you have some heavily aggressive antivirus program such as Webroot, Bitdefend
 
 If you have a non-RTX Nvidia GPU, I ask you to refer to the [DLSS/FSR/XeSS](#dlssfsrxess) section again.
 
+<br>
+
 ## Can I add XYZ?
 I don't know, can you?
 
+<br>
+
 ## Enabling optional mods
-The optional mods instruction page can be found ![here](https://github.com/iAmMe27/Tahrovin/blob/main/Optional%20Mods.md)
+The optional mods instruction page can be found ![here](Optional%20Mods.md)
+
+<br>
 
 ## Giant black square on my screen
 Press END to open the Skyrim Upscaler menu and toggle TAA off and then back on again, the square will go away after this. It may or may not come back next session just follow the same steps again. You may also keep TAA off to prevent it from potentially coming back next session. 
+
+<br>
+
+## Can't find your issue here?
+
+Take a look at [Troubleshooting](Troubleshooting.md)
+
+<br>
+
+---
+
+<br>
 
 # Updating Tahrovin
 When an update is released, please always check the [changelog](Changelog.md) first. You may not need to update your modlist but if there is anything that resolves game breaking issues, it'll be noted in the changelog. Backup your saves before you commit to any updates, Wabbajack doesn't usually touch save files, it does has the ability to delete them if it wanted to.
@@ -354,10 +490,16 @@ If you have added anything to this modlist at all, Wabbajack will also delete th
 
 All that aside, updates are basically the same as an installation except you have to ensure that you have the "Overwrite" checkbox ticked in Wabbajack.
 
+<br>
 
 # Uninstalling Tahrovin
 No fancy uninstallation needed, you can just delete the Tahrovin folder and it'll be gone. There'll be no files left inside your Steam installation folder because Tahrovin uses the stock game feature of Wabbajack.
 
+<br>
+
+---
+
+<br>
 
 # Thank You's
 Massive thank you to the following people:
