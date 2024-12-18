@@ -84,6 +84,10 @@ If using Neo's bindings L Thumbstick click = Y
 * Left Trigger (Hold) - Grab and Adjust Actor/Schlong by movement of left controller 
 * Right Trigger - Select next actor to adjust
 
+**Degen Only:**
+
+* L Thumbstick Click + Back then Forward - Surrender hotkey for defeat, this is an important keybind as it can also start consensual dialogue with both npcs and creatures if you select them with your right hand and then do the gesture with your left hand.
+
 **Ostim VR Controls**
 * R Thumbstick click + Forward then back while an actor is targeted - Begin scene
 * use spell wheel to control the rest

@@ -337,9 +337,11 @@ The MCM setup is *mostly* automated and will run on its own after you've finishe
 
 ![SLEN2](img/SLEN2.jpg)
 
+3. Go to the Sexlab Tools MCM and Bind a button to its hotkey, this will allow you to select animations while in a sexlab scene and wont have any effect outside of one so if you are on an oculus controller B for example would be a very good choice.
+
 Done! Exit the MCM and save.
 
-3. Optionally you can set up Smalls if youd like to have NPCs have underwear when looted. To do this simply take the crystal in the central area by all of the shrines to the smithy, you will find a chest on the wall there labeled "Underwear." Loot everything in that chest and then open the MCM and go to MCM recorder. Find the recording labeled Smalls and play it, close the menu and then select run. After it finishes you are free to put the underwear back in the chest or keep it. You will want to do this first if you want Just In Time underwear as having too many clothing items in your inventory will break the MCM recording.
+4. Optionally you can set up Smalls if youd like to have NPCs have underwear when looted. To do this simply walk up to the bags on shelves straight ahead of you when you exit racemenu and let mcm recorder finish and look for the bag labeled Underwear for Smalls. Loot everything in that bag and then open the MCM and go to MCM recorder. Find the recording labeled Smalls and play it, close the menu and then select run. After it finishes you are free to put the underwear back in the chest or keep it. You will want to do this first if you want Just In Time underwear as having too many clothing items in your inventory will break the MCM recording.
 
 <br>
 
