@@ -1143,10 +1143,60 @@ Full disclaimer this version was interupted by a hurricane and power outage and 
 3. Updated OstimVR
 4. Updated Spellwheel VR
 
-KNOWN ISSUES: Stretchy Draugr from Pandora behavior engine https://github.com/Monitor221hz/Pandora-Behaviour-Engine-Plus/issues/307
-
 ## Tahrovin v2.5.0.5
 1. Moved source of SCOE to make list installable again
 2. Hopefully fixed pandora needing to be rerun by the user to play
+
+## Tahrovin 2.7.0
+
+1. Created new profile Degeneracy ENB, I know I originally said I wouldn't do this but after figuring out that AMD cards have performance issues with community shaders light limit fix + Lux I figured I should offer an alternative
+2. Conduit Lightning conduction initial damage nerf, I always felt that this does way too much damage early levels, a level 1 with no perks in destruction can easily kill giants and mammoths with this conduction and its meant to be an aoe chain vs a single target burst so I reduced the initial surge of damage before the chain lightning by 30%, it is still very good.
+3. Fixed certain melee weapons having different models on the ground from when being equipped
+4. Fixed DBM Parallax having an incorrect file path causing a hole to the void in whiterun's hall of the dead
+5. Made a patch for Somewhat inbetween guards to make it easier to toggle on and off without mesh issues
+6. Made a merchant patch for NPC Poser mod for VR
+7. Added Gourmet
+8. Patched Gourmet into merchant tables
+9. Added Sexlab Defeat Bane to degen profiles, it is enabled by default with victim only settings, you very likely either want to customize this to your own liking or disable it depending on preference
+10. Added a Surrender hotkey, this also functions as a way to initiate sexlab scenes both with humans and creatures, just do a forward, back gesture with your left hand while selecting an npc/non-hostile creature with your right hand.
+11. Added aroused creatures to make the above hotkey able to start scenes but completely disabled auto engagements
+12. Added Olenveld, a new worldspace and quest mod, it is not fully compatible with VR. the intro boat scene will glitch out, just wait for it to finish and it will continue. I made a workaround patch for the Mage door seal which breaks in VR. I had to learn the basics of papyrus scripting for this so it's very simple and not very clean, forgive me. Please test this and give me feedback if you run into any more softlocks.
+13. Regenerated LOD's for Olenveld worldspace
+14. Added several kitty tails magic mods as well as libraries to make them craftable with spellforge.
+15. New lightning VFK mod
+16. Added MFG Fix NG
+17. Added Conditional Expressions Extended
+18. Added Ask Innkeepers To Show Room
+19. Added Shout Warnings Removed from Guards
+20. Added new animations to Degen profiles
+21. Added Infinity UI
+22. Added Local Map Upgrade VR
+23. Added Inventory Interface Information Injector VR
+24. Added Crafting Categories for SkyUI VR
+25. Readded watergrass from SkyVRaan
+26. Updated HIGGS PLANCK and ENB lights for effect shaders VR
+27. Updated Perfect Nature ENB
+28. Edited opening text in Realm of Lorkhan to better set mood and guide character creation
+29. Changed to Aeloves's updated no mes molestas mod
+30. Updated ABC and fixed load order so it actually functions now
+31. Updated Community Shaders, kept ENB profiles as I still get better performance with them on AMD
+32. Updated CBPC VRSex to 1.41
+33. Fixed CBPC VRSex missing ostim compatibility and auto futa functionality
+34. updated DLSS dll and fixed Community Shaders crashes near whiterun, had to add a new output for parallaxGen, this unfortunately forced me to scrap a lot of the custom mesh edits I did for whiterun and riften, big sad.
+35. Seperated Tawoba entries in Tahrovin Patches into it's own patch, this should make it finally possible to fully remove TAWOBA for people who find it unimmersive.
+36. Recolored the list to more match my personality (finally)
+37. Fixed mods getting moved to disabled when they shouldn't
+38. Moved the underwear container for smalls to the Commoner bag in realm of lorkhan for better compatibility with being able to remove TAWOBA
+39. Removed Skyrim SE AE Priority as it was removed from the nexus
+
+KNOWN BUGS:
+
+- Human Hearts have a parallax issue
+
+- Daegon causing random crashes when interacting with NPCs
+
+- Olenveld boat intro visual glitches
+
+- Nightmare Night displaying error message when TAWOBA is removed, haven't found cause yet but regular beast transform still works.
 
 - FIN -
