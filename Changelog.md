@@ -1189,9 +1189,15 @@ Full disclaimer this version was interupted by a hurricane and power outage and 
 38. Moved the underwear container for smalls to the Commoner bag in realm of lorkhan for better compatibility with being able to remove TAWOBA
 39. Removed Skyrim SE AE Priority as it was removed from the nexus
 
+## Tahrovin 2.7.1
+
+1. Updated VR Upscaler, this should fix DLSS, add FSR 3.1 as an option, and also fix the black box issue
+2. Fixed invisible eye meshes in named vampires in Dawnguard
+3. Fixed Harkon being invisible when transforming into a vampire lord
+
 KNOWN BUGS:
 
-- Human Hearts have a parallax issue
+- The scene where Harkon bites you and changes your race seems to temporarily break Vampire lords skeleton. To work around this after being bit and waking up in the tutorial room save the games, close skyrimVR completely, then relaunch and load your save and you should transform correctly.
 
 - Daegon causing random crashes when interacting with NPCs
 
