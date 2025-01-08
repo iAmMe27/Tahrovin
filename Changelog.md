@@ -1206,3 +1206,7 @@ KNOWN BUGS:
 - Nightmare Night displaying error message when TAWOBA is removed, haven't found cause yet but regular beast transform still works.
 
 - FIN -
+
+## Tahrovin 2.7.2
+1. Updated Community Shaders to v1.1.6
+2. Disabled Skyrim Upscaler VR by default on Community Shaders profiles.
