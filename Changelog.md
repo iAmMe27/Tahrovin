@@ -1195,6 +1195,15 @@ Full disclaimer this version was interupted by a hurricane and power outage and 
 2. Fixed invisible eye meshes in named vampires in Dawnguard
 3. Fixed Harkon being invisible when transforming into a vampire lord
 
+
+
+## Tahrovin 2.7.2
+1. Updated Community Shaders to v1.1.6
+2. Disabled Skyrim Upscaler VR by default on Community Shaders profiles.
+Hotfix 1:
+1. Updated PLANCK to hopefully finally fix the multiple followers crash
+2. Updated HIGGS with PLANCK
+
 KNOWN BUGS:
 
 - The scene where Harkon bites you and changes your race seems to temporarily break Vampire lords skeleton. To work around this after being bit and waking up in the tutorial room save the games, close skyrimVR completely, then relaunch and load your save and you should transform correctly.
@@ -1203,10 +1212,4 @@ KNOWN BUGS:
 
 - Olenveld boat intro visual glitches
 
-- Nightmare Night displaying error message when TAWOBA is removed, haven't found cause yet but regular beast transform still works.
-
 - FIN -
-
-## Tahrovin 2.7.2
-1. Updated Community Shaders to v1.1.6
-2. Disabled Skyrim Upscaler VR by default on Community Shaders profiles.
