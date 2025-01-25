@@ -163,8 +163,8 @@ Skyrim modlists need a large amount of memory purely because of the amount of *s
 7. Select your *fastest* SSD in the list of drives
 8. Check "Custom Size"
 9. Set `Initial Size` to 20480
-10. Set `Maximum Size` to 20480 also
-    1.  *Note: you can set this up to 40000 if you have the space, this will let the pagefile expand to as large as 40GB*
+10. Set `Maximum Size` to 40000
+    1.  *Note: some people can get by with just 20480 but if you are experiencing crashes definitely raise it to 40000*
 11. Press the "Set" button
 12. Press OK
 13. Press APPLY and then OK
