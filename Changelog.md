@@ -1204,6 +1204,19 @@ Hotfix 1:
 1. Updated PLANCK to hopefully finally fix the multiple followers crash
 2. Updated HIGGS with PLANCK
 
+## Tahrovin 2.7.3
+1. Updated Submissive lola to latest Version
+2. Updated CS suite and added skylighting and cloud shadows, should hopefully now be compatible with upscaler
+3. Added Shizof's immersive crossbow reload
+4. Updated Higgs for better 2handed play
+5. Added VR Console Selection Fix
+Hotfix 1:
+1. Removed Additemmenu from optionals
+2. Added Modex to optionals
+Hotfix 2:
+1. Learned how to read
+2. Reverted to earlier version of Modex that semi works in VR while waiting for official VR port
+
 KNOWN BUGS:
 
 - The scene where Harkon bites you and changes your race seems to temporarily break Vampire lords skeleton. To work around this after being bit and waking up in the tutorial room save the games, close skyrimVR completely, then relaunch and load your save and you should transform correctly.
