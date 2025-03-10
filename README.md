@@ -171,9 +171,9 @@ Skyrim modlists need a large amount of memory purely because of the amount of *s
 14. Restart your PC to apply the pagefile setting
 
 ### Setup your Shader Cache
-Driver defaults from NVidia and AMD for shader cache size is limited to 4GB. Being this small can lead to rare crashes in heavily modified Skyrim installs. Increasing the shader cache size is done via the NVidia Control Panel (I assume the same for AMD users is true also but I don't have AMD hardware to check with). 
+Driver defaults from NVidia for shader cache size is limited to 4GB. Being this small can lead to rare crashes in heavily modified Skyrim installs. Increasing the shader cache size is done via the NVidia Control Panel. 
 
-*These instructions are NVidia specific as it is the hardware I have.*
+*These instructions are NVidia specific.*
 
 1. Open the NVidia Control Panel
 2. Head to `Manage 3D Settings`
